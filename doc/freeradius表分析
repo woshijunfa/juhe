@@ -37,5 +37,6 @@ grep -rl "备14006450" ./|xargs sudo sed -i "" "/备14006450/d"
 find  ./ -name "*.blade.php-e*"|xargs sudo rm -r
 grep -rl "color_https" ./|xargs sudo sed -i "" "/color_https/d"
 grep -rl "color_disanfang" ./|xargs sudo sed -i "" "/color_disanfang/d"
+grep -rl "api_newbtn_demo" ./|xargs sudo sed -i "" "/api_newbtn_demo/d"
 
 

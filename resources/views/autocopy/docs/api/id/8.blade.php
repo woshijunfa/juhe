@@ -119,7 +119,6 @@
                         <a class="api_newbtn_apply" href="javascript:xlogin();" title="申请移动联通基站 API" data="/myData/apply/id/8">申请数据</a>
                         
                         
-                                                <a class="api_newbtn_demo" href="/docs/demo/id/8" target="_blank">查看演示</a>
                         
                         <!-- <a class="api_newbtn_pdf" href="/docs/demo/id/8" target="_blank">离线文档</a> -->
                     </div>

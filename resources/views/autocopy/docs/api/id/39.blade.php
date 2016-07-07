@@ -119,7 +119,6 @@
                         <a class="api_newbtn_apply" href="javascript:xlogin();" title="申请全国天气预报 API" data="/myData/apply/id/39">申请数据</a>
                         
                         
-                                                <a class="api_newbtn_demo" href="/docs/demo/id/39" target="_blank">查看演示</a>
                         
                         <!-- <a class="api_newbtn_pdf" href="/docs/demo/id/39" target="_blank">离线文档</a> -->
                     </div>
