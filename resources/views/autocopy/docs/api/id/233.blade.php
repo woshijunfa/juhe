@@ -110,7 +110,7 @@
                                     /100次</span>
                                                                         <span style="color: #f0767f;">（申请即送100次）</span>
                                                                     </p>
-                                                                                        <!-- <p>使用SDK每日免费赠送 10000 次 <a class="youhuia" href="https://www.shareapi.com/docs" target="_blank" rel="nofollow">详情&gt;&gt;</a></p> -->
+                                                                                        <!-- <p>使用SDK每日免费赠送 10000 次 <a class="youhuia" href="/docs" target="_blank" rel="nofollow">详情&gt;&gt;</a></p> -->
                         </div>
                     </div>
                     <div class="api_data_btns">
@@ -551,7 +551,7 @@
                             </ul>
             <ul class="apiActivity">
                 <!--<li>
-                    <a href="https://www.shareapi.com/docs/api/id/54" target="_blank"><img src="/themes/v4/public/images/apiactivity2.png"/></a>
+                    <a href="/docs/api/id/54" target="_blank"><img src="/themes/v4/public/images/apiactivity2.png"/></a>
                 </li>-->
                                 <li>
                     <a href="https://free.shareapi.com" target="_blank" title="免费数据第二波"><img src="https://juheimgs.oss-cn-beijing.aliyuncs.com/banner/201606/57639730a1606.png" border="0"/></a>
@@ -564,7 +564,7 @@
 <footer class="width100_v4">
         <div class="width1200_v4 footerContent_v4 clearfix">
             <div class="footer1_v4">
-                <div class="footerLogo"><a href="https://www.shareapi.com"><img width="238" height="33" src="/themes/v4/public/images/footerLogo.png" alt="分享数据"/></a></div>
+                <div class="footerLogo"><a href=""><img width="238" height="33" src="/themes/v4/public/images/footerLogo.png" alt="分享数据"/></a></div>
                 <p>京 ICP 备 16034375 号ShareApi©版权所有</p>
                 <div class="footerContact">400-8827-715</div>
             </div>
@@ -588,7 +588,7 @@
             <dl class="footerDl_v4" style="border-right: 1px solid #e7e7e7;">
                 <dt>分享工具</dt>
                 <dd><a href="/box">聚盒子</a></dd>
-                <dd><a href="https://www.shareapi.com/d/cellmap">分享基站</a></dd>
+                <dd><a href="/d/cellmap">分享基站</a></dd>
                 <dd><a href="http://www.wodiche.cn" target="_blank">车辆违章查询</a></dd>
                 <dd><a href="http://lbs.shareapi.com">LBS分享</a></dd>
                 <dd><a href="http://tools.shareapi.com">分享工具</a></dd>
@@ -623,7 +623,7 @@
 		<span>QQ客服</span>
 	</li>
 	<li id="tools_contact">
-		<a rel="nofollow" href="https://www.shareapi.com/contact" target="_blank"></a>
+		<a rel="nofollow" href="/contact" target="_blank"></a>
 	</li>
 	<li id="tools_feedback">
 		<span>问题反馈</span>

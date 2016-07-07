@@ -662,7 +662,7 @@
                         </table>
                         </div>
                                                 <div class="simpleline simpleTable">
-                            <b>常规套餐包<a href="http://www.shareapi.com/contact" target="_blank"><font color="#FF0000">【更多次数、更多优惠，请与商务联系>>】</font></a></b>
+                            <b>常规套餐包<a href="http://www.shareapi.com/contact" target="_blank"><font color="#FF0000"></font></a></b>
                             <table class="api_table" border="0" cellspacing="0" cellpadding="0">
                                 <tr>
                                     <th width="20">&nbsp;</th>
@@ -863,7 +863,7 @@
 <footer class="width100_v4">
         <div class="width1200_v4 footerContent_v4 clearfix">
             <div class="footer1_v4">
-                <div class="footerLogo"><a href="https://www.shareapi.com"><img width="238" height="33" src="/themes/v4/public/images/footerLogo.png" alt="分享数据"/></a></div>
+                <div class="footerLogo"><a href=""><img width="238" height="33" src="/themes/v4/public/images/footerLogo.png" alt="分享数据"/></a></div>
                 <p>京 ICP 备 16034375 号ShareApi©版权所有</p>
                 <div class="footerContact">400-8827-715</div>
             </div>

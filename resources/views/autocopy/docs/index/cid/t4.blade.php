@@ -196,7 +196,7 @@
     <footer class="width100_v4">
         <div class="width1200_v4 footerContent_v4 clearfix">
             <div class="footer1_v4">
-                <div class="footerLogo"><a href="https://www.shareapi.com"><img width="238" height="33" src="/themes/v4/public/images/footerLogo.png" alt="分享数据"/></a></div>
+                <div class="footerLogo"><a href=""><img width="238" height="33" src="/themes/v4/public/images/footerLogo.png" alt="分享数据"/></a></div>
                 <p>京 ICP 备 16034375 号ShareApi©版权所有</p>
                 <div class="footerContact">400-8827-715</div>
             </div>
@@ -220,7 +220,7 @@
             <dl class="footerDl_v4" style="border-right: 1px solid #e7e7e7;">
                 <dt>分享工具</dt>
                 <dd><a href="/box">聚盒子</a></dd>
-                <dd><a href="https://www.shareapi.com/d/cellmap">分享基站</a></dd>
+                <dd><a href="/d/cellmap">分享基站</a></dd>
                 <dd><a href="http://www.wodiche.cn" target="_blank">车辆违章查询</a></dd>
                 <dd><a href="http://lbs.shareapi.com">LBS分享</a></dd>
                 <dd><a href="http://tools.shareapi.com">分享工具</a></dd>
@@ -255,7 +255,7 @@
 		<span>QQ客服</span>
 	</li>
 	<li id="tools_contact">
-		<a rel="nofollow" href="https://www.shareapi.com/contact" target="_blank"></a>
+		<a rel="nofollow" href="/contact" target="_blank"></a>
 	</li>
 	<li id="tools_feedback">
 		<span>问题反馈</span>

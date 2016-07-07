@@ -27,7 +27,7 @@
         </div>
         <div class="loginMain">
         <div class="loginWidth">
-                    <div class="loginLogoDiv"><a class="loginLogo" href="https://www.shareapi.com"></a></div>
+                    <div class="loginLogoDiv"><a class="loginLogo" href=""></a></div>
         <form action="/login/login" class="formLogin" method="post" id="login_form"  onSubmit="return false;">
         <div class="loginList loginListUser">
         <label></label>

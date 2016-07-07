@@ -863,7 +863,7 @@
 <footer class="width100_v4">
         <div class="width1200_v4 footerContent_v4 clearfix">
             <div class="footer1_v4">
-                <div class="footerLogo"><a href="https://www.shareapi.com"><img width="238" height="33" src="/themes/v4/public/images/footerLogo.png" alt="分享数据"/></a></div>
+                <div class="footerLogo"><a href=""><img width="238" height="33" src="/themes/v4/public/images/footerLogo.png" alt="分享数据"/></a></div>
                 <p>京 ICP 备 16034375 号ShareApi©版权所有</p>
                 <div class="footerContact">400-8827-715</div>
             </div>
