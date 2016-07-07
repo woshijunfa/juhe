@@ -10,7 +10,7 @@
 <body>
 	<div class="registerContent">
 		<div class="registerMain">
-			<div class="regLogo"><a href="/account"><img src="/themes/v5/public/images/reglogo.png"></a></div>
+			<div class="regLogo"><a href="/"><img src="/themes/v5/public/images/reglogo.png"></a></div>
 			<div class="regDiv">
 				<div class="tabReg clearfix">
 					<a class="active" href="javascript:;">手机号注册</a>
@@ -35,7 +35,7 @@
 						<p class="errorTips"><i></i><em></em></p>
 					</div>
 					<div class="inputDiv">
-						<label><input type="checkbox" name="isRead"  value="1" checked="checked" id="checkedd" />&nbsp;&nbsp;我已阅读并接受<a href="/legal" target="_blank">《分享用户服务协议》</a></label>
+						<label><input type="checkbox" name="isRead"  value="1" checked="checked" id="checkedd" />&nbsp;&nbsp;我已阅读并接受<a href="#">《分享用户服务协议》</a></label>
 						<p class="errorTips" id="checkedTips"><i></i><em></em></p>
 					</div>
                     <div class="inputDiv">

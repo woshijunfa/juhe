@@ -19,6 +19,8 @@ grep -rl "id=\"juhegoTop" ./ |xargs sed -i -e 's/id="juhegoTop"/id="juhegoTop" s
 
 #修正httpsimag
 grep -rl "src=\"https://www.shareapi.com" ./|xargs sudo sed -i -e "s/src=\"https:\/\/www.shareapi.com/src=\"/g"
+grep -rl "href=\"https://www.shareapi.com" ./|xargs sudo sed -i -e "s/href=\"https:\/\/www.shareapi.com/href=\"/g"
+
 
 #git删除-e文件
 find  ./ -name "*.blade.php-e*"|xargs git rm
@@ -40,3 +42,8 @@ grep -rl "color_disanfang" ./|xargs sudo sed -i "" "/color_disanfang/d"
 grep -rl "api_newbtn_demo" ./|xargs sudo sed -i "" "/api_newbtn_demo/d"
 grep -rl "【更多次数、更多优惠，请与商务联系>>】" ./|xargs sudo sed  -i -e "s/【更多次数、更多优惠，请与商务联系>>】</</g"
 grep -r "联系我们" ./|grep contact|grep -v ervice@shareapi.cn|awk -F ':' '{print $1}'|xargs sudo sed -i "" "/联系我们/d"
+
+grep -rl "活动推荐<span>\/Activity" ./|xargs sudo sed -i "" "/活动推荐<span>\/Activity/d"
+
+
+活动推荐<span>/Activity
