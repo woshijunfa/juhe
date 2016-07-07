@@ -201,7 +201,6 @@
             <div class="footer1_v4">
                 <div class="footerLogo"><a href="https://www.juhe.cn"><img width="238" height="33" src="/themes/v4/public/images/footerLogo.png" alt="聚合数据"/></a></div>
                 <p>京 ICP 备 16034375 号ShareApi©版权所有</p>
-                <p><a href="http://www.miitbeian.gov.cn/" target="_blank" style="color: #999;">苏ICP备14006450号-3</a></p>
                 <div class="footerContact">400-8827-715</div>
             </div>
             <dl class="footerDl_v4">

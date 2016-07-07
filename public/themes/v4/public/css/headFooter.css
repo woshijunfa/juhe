@@ -24,7 +24,7 @@ header{background: #fff; border-bottom: 1px solid #eee;padding-top: 40px;font-fa
 .width1200_v4 nav a:hover{border-bottom: 2px solid #03C5FF; text-decoration: none;}
 .width1200_v4 nav .contact_v4{float: right; font-size: 14px; padding: 0 15px 0 50px; background: url(../images/contact.png) 15px center no-repeat;}
 
-footer{padding: 10px 0 30px; background: #fff; border-top: 1px solid #e7e7e7;font-size: 12px; color: #999;font-family:Tahoma,Arial,Helvetica,"microsoft yahei","Hiragino Sans GB",Simsun,\5b8b\4f53,sans-serif;}
+footer{padding: 10px 0 10px; background: #fff; border-top: 1px solid #e7e7e7;font-size: 12px; color: #999;font-family:Tahoma,Arial,Helvetica,"microsoft yahei","Hiragino Sans GB",Simsun,\5b8b\4f53,sans-serif;}
 .footerContent_v4{height: 20px; position: relative;}
 .footer1_v4{float: left; width: 400px;}
 .footer1_v4 .footerLogo{ display:none;padding-bottom: 30px;}
