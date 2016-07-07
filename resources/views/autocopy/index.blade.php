@@ -81,7 +81,6 @@ var _hmt = _hmt || [];
 
                 <!--<a href="">活动</a>-->
                 <!--<a href="/docs" title="资费价格" >价格</a>-->
-                <a href="/qa" title="常见问题" >常见问题</a>
                 <!--<a href="/contact" >商务合作</a>-->
                 <!-- <a href="http://open.juhe.cn">发布服务</a> -->
                 <!--<a href="">企业服务</a>
@@ -109,7 +108,6 @@ var _hmt = _hmt || [];
             </p>
             <p class="newPerson">
                 <a href="https://juheimg.oss-cn-hangzhou.aliyuncs.com/docs/%E8%81%9A%E5%90%88%E6%95%B0%E6%8D%AEAPI%E7%94%B3%E8%AF%B7%E4%BD%BF%E7%94%A8%E6%B5%81%E7%A8%8B.pdf" rel="nofollow" target="_blank">新手引导</a>
-                <a href="/qa" rel="nofollow"  target="_blank">问题支持</a>
             </p>
         </div>
 
@@ -702,13 +700,7 @@ var _hmt = _hmt || [];
                                                 </ul>
                     </div>
                     <div class="newestQa_v4 qaListDiv_v4">
-                        <h3>帮助中心<span> / Q&A</span><a href="/qa" rel="nofollow">更多>></a></h3>
                         <ul>
-                                                    <li><span>2016-07-06</span><a href="/qa/show/id/1430" title="冷笑话接口的time值怎么设定？">冷笑话接口的time值怎么设定？</a></li>
-                                                    <li><span>2016-07-06</span><a href="/qa/show/id/1429" title="银行卡三元素校验和银行卡四元素校验的收费疑问">银行卡三元素校验和银行卡四元素校验的收费疑问</a></li>
-                                                    <li><span>2016-07-06</span><a href="/qa/show/id/1428" title="有意思的接口，天气数据和空气质量数据返回数据不一样">有意思的接口，天气数据和空气质量数据返回数据不一样</a></li>
-                                                    <li><span>2016-07-06</span><a href="/qa/show/id/1427" title="按时打算啊实打实大师大师">按时打算啊实打实大师大师</a></li>
-                                                    <li><span>2016-07-06</span><a href="/qa/show/id/1426" title="次数快用完了怎么续费">次数快用完了怎么续费</a></li>
                                                 </ul>
                     </div>
                 </div>
@@ -734,7 +726,6 @@ var _hmt = _hmt || [];
 		</dl>
 		<dl class="footerDl_v4">
 			<dt>关于</dt>
-			<dd><a href="/qa" rel="nofollow">问题&支持</a></dd>
 			<dd><a href="https://juheimg.oss-cn-hangzhou.aliyuncs.com/docs/%E8%81%9A%E5%90%88%E6%95%B0%E6%8D%AEAPI%E7%94%B3%E8%AF%B7%E4%BD%BF%E7%94%A8%E6%B5%81%E7%A8%8B.pdf" rel="nofollow" target="_blank">新手引导</a></dd>
 			<dd><a href="/contact" rel="nofollow">联系我们</a></dd>
 			<dd><a href="/job" rel="nofollow">聚合招聘</a></dd>

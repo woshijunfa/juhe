@@ -6,7 +6,6 @@
 <meta name="description" content="开发者在使用聚合数据时遇到任何问题以及合作相关事项，都可以在聚合数据问答平台进行提交问题，聚合数据官方会在第一时间进行回复。">
 <link rel="stylesheet" type="text/css" href="/themes/v4/public/css/reset.css"/>
 <link rel="stylesheet" type="text/css" href="/themes/v4/public/css/headFooter.css"/>
-<link rel="stylesheet" type="text/css" href="/themes/v4/public/css/qa.css"/>
 <title>聚合数据_数据调用常见问题_API接口问题-解答</title>
 <script src="/themes/v4/public/js/jquery.min.js" type="text/javascript" charset="utf-8"></script>
 <script type="text/javascript" src="/themes/js/jquery.form.js"></script>
@@ -48,18 +47,12 @@
             </div>
             <nav class="clearfix">
                 <a href="/">首页</a>
-                <a href="/qa" title="问题最新同台" class="active">最新更新</a>
-                <a href="/qa/questions" title="问题列表" >问题</a>
-                <a href="/qa/tags" title="标签" >标签</a>
-                <a href="/qa/myask" >我的问题</a>
                 <!--<a href="">企业服务</a>
                 <a href="">聚合国际造型</a>-->
-                <a class="contact_v4" href="/qa/ask">找不到答案？通过这里提交问题</a>
             </nav>
         </div>
     </header>
     <script type="text/javascript">
-        var searchUrl = '/qa/s/q/%40q%40';
         var loginOutUrl = '/login/logout';
         var juheIndex = '/';
     </script>
@@ -74,7 +67,6 @@
                 <div class="recount">1</div>
             </div>
             <div class="qaright">
-                <div class="qa_title"><a href="/qa/show/id/1429">银行卡三元素校验和银行卡四元素校验的收费疑问</a></div>
                 <div class="qa_base">
                     <a class="iviews"></a>
                     <a>30次浏览</a>
@@ -92,7 +84,6 @@
                 <div class="recount">0</div>
             </div>
             <div class="qaright">
-                <div class="qa_title"><a href="/qa/show/id/1430">冷笑话接口的time值怎么设定？</a></div>
                 <div class="qa_base">
                     <a class="iviews"></a>
                     <a>23次浏览</a>
@@ -108,7 +99,6 @@
                 <div class="recount">1</div>
             </div>
             <div class="qaright">
-                <div class="qa_title"><a href="/qa/show/id/1425">在 新闻头条中 reason为“成功的返回”，error_code为“0”，但是result为“null”，请问是什么问题呢</a></div>
                 <div class="qa_base">
                     <a class="iviews"></a>
                     <a>36次浏览</a>
@@ -124,7 +114,6 @@
                 <div class="recount">2</div>
             </div>
             <div class="qaright">
-                <div class="qa_title"><a href="/qa/show/id/1426">次数快用完了怎么续费</a></div>
                 <div class="qa_base">
                     <a class="iviews"></a>
                     <a>41次浏览</a>
@@ -140,7 +129,6 @@
                 <div class="recount">0</div>
             </div>
             <div class="qaright">
-                <div class="qa_title"><a href="/qa/show/id/1428">有意思的接口，天气数据和空气质量数据返回数据不一样</a></div>
                 <div class="qa_base">
                     <a class="iviews"></a>
                     <a>29次浏览</a>
@@ -156,7 +144,6 @@
                 <div class="recount">0</div>
             </div>
             <div class="qaright">
-                <div class="qa_title"><a href="/qa/show/id/1427">按时打算啊实打实大师大师</a></div>
                 <div class="qa_base">
                     <a class="iviews"></a>
                     <a>19次浏览</a>
@@ -174,7 +161,6 @@
                 <div class="recount">3</div>
             </div>
             <div class="qaright">
-                <div class="qa_title"><a href="/qa/show/id/757">错误的请求KEY,KEY不是openID吗</a></div>
                 <div class="qa_base">
                     <a class="iviews"></a>
                     <a>1342次浏览</a>
@@ -190,7 +176,6 @@
                 <div class="recount">1</div>
             </div>
             <div class="qaright">
-                <div class="qa_title"><a href="/qa/show/id/1418">请问API测试工具的证件图片识别里参数名为pic类型为file怎么填写</a></div>
                 <div class="qa_base">
                     <a class="iviews"></a>
                     <a>58次浏览</a>
@@ -208,7 +193,6 @@
                 <div class="recount">1</div>
             </div>
             <div class="qaright">
-                <div class="qa_title"><a href="/qa/show/id/1423">接口支持纯ajax调用么</a></div>
                 <div class="qa_base">
                     <a class="iviews"></a>
                     <a>46次浏览</a>
@@ -224,7 +208,6 @@
                 <div class="recount">1</div>
             </div>
             <div class="qaright">
-                <div class="qa_title"><a href="/qa/show/id/1424">刚才是用空气质量接口，总返回 false 到底何为？</a></div>
                 <div class="qa_base">
                     <a class="iviews"></a>
                     <a>30次浏览</a>
@@ -245,16 +228,6 @@
         <div class="category">
             <ul>
                 <li>所有分类问题</li>
-                                <li><a href="/qa/questions/cateid/1">账户注册与登录</a></li>
-                                <li><a href="/qa/questions/cateid/2">接口申请与调用</a></li>
-                                <li><a href="/qa/questions/cateid/3">数据接口咨询</a></li>
-                                <li><a href="/qa/questions/cateid/4">BUG反馈中心</a></li>
-                                <li><a href="/qa/questions/cateid/5">API调用指南</a></li>
-                                <li><a href="/qa/questions/cateid/6">充值付费相关</a></li>
-                                <li><a href="/qa/questions/cateid/7">聚合数据SDK</a></li>
-                                <li><a href="/qa/questions/cateid/8">商务合作</a></li>
-                                <li><a href="/qa/questions/cateid/9">数据定制</a></li>
-                                <li><a href="/qa/questions/cateid/10">其他类型</a></li>
                             </ul>
         </div>
 
@@ -264,16 +237,6 @@
 
         <div class="hot_tags">
         	<ul>
-                        	<li><a href="/qa/t/v/API" class="hot_tags_link">API</a></li>
-                        	<li><a href="/qa/t/v/SDK" class="hot_tags_link">SDK</a></li>
-                        	<li><a href="/qa/t/v/天气" class="hot_tags_link">天气</a></li>
-                        	<li><a href="/qa/t/v/接口" class="hot_tags_link">接口</a></li>
-                        	<li><a href="/qa/t/v/违章" class="hot_tags_link">违章</a></li>
-                        	<li><a href="/qa/t/v/短信" class="hot_tags_link">短信</a></li>
-                        	<li><a href="/qa/t/v/违章查询" class="hot_tags_link">违章查询</a></li>
-                        	<li><a href="/qa/t/v/基站" class="hot_tags_link">基站</a></li>
-                        	<li><a href="/qa/t/v/彩票" class="hot_tags_link">彩票</a></li>
-                        	<li><a href="/qa/t/v/图片" class="hot_tags_link">图片</a></li>
                 
             </ul>
 </div>-->
@@ -301,7 +264,6 @@
             </dl>
             <dl class="footerDl_v4">
                 <dt>关于</dt>
-                <dd><a href="/qa" rel="nofollow">问题&支持</a></dd>
                 <dd><a href="https://juheimg.oss-cn-hangzhou.aliyuncs.com/docs/%E8%81%9A%E5%90%88%E6%95%B0%E6%8D%AEAPI%E7%94%B3%E8%AF%B7%E4%BD%BF%E7%94%A8%E6%B5%81%E7%A8%8B.pdf" rel="nofollow" target="_blank">新手引导</a></dd>
                 <dd><a href="/contact" rel="nofollow">联系我们</a></dd>
                 <dd><a href="/job" rel="nofollow">聚合招聘</a></dd>
@@ -352,7 +314,6 @@
 		<span>联系我们</span>
 	</li>
 	<li id="tools_feedback">
-		<a rel="nofollow" href="https://www.juhe.cn/qa" target="_blank"></a>
 		<span>问题反馈</span>
 	</li>
 	<li id="tools_goTop">

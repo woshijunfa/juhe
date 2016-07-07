@@ -6,7 +6,6 @@
 <meta name="description" content="开发者在使用聚合数据时遇到任何问题以及合作相关事项，都可以在聚合数据问答平台进行提交问题，聚合数据官方会在第一时间进行回复。">
 <link rel="stylesheet" type="text/css" href="/themes/v4/public/css/reset.css"/>
 <link rel="stylesheet" type="text/css" href="/themes/v4/public/css/headFooter.css"/>
-<link type="text/css" rel="stylesheet" href="/themes/v4/public/css/qa.css"/>
 <title>API-聚合数据</title>
 <script src="/themes/v4/public/js/jquery.min.js" type="text/javascript" charset="utf-8"></script>
 <script type="text/javascript" src="/themes/v4/public/js/jquery.form.js"></script>
@@ -48,18 +47,12 @@
             </div>
             <nav class="clearfix">
                 <a href="/">首页</a>
-                <a href="/qa" title="问题最新同台" >最新更新</a>
-                <a href="/qa/questions" title="问题列表" >问题</a>
-                <a href="/qa/tags" title="标签" class="active">标签</a>
-                <a href="/qa/myask" >我的问题</a>
                 <!--<a href="">企业服务</a>
                 <a href="">聚合国际造型</a>-->
-                <a class="contact_v4" href="/qa/ask">找不到答案？通过这里提交问题</a>
             </nav>
         </div>
     </header>
     <script type="text/javascript">
-        var searchUrl = '/qa/s/q/%40q%40';
         var loginOutUrl = '/login/logout';
         var juheIndex = '/';
     </script>
@@ -75,7 +68,6 @@
 
             </div>
             <div class="qaright">
-                <div class="qa_title"><a href="/qa/show/id/1024">nba赛事数据接口，参球队名字参数</a></div>
                  <div class="qa_base">
                     <a class="iviews"></a>
                     <a>285次浏览</a>
@@ -93,7 +85,6 @@
 
             </div>
             <div class="qaright">
-                <div class="qa_title"><a href="/qa/show/id/911">手机直充接口里面的商家订单号不知道如何生成？</a></div>
                  <div class="qa_base">
                     <a class="iviews"></a>
                     <a>371次浏览</a>
@@ -111,7 +102,6 @@
 
             </div>
             <div class="qaright">
-                <div class="qa_title"><a href="/qa/show/id/755">iOS最新版本的API在swift2.0中无法使用</a></div>
                  <div class="qa_base">
                     <a class="iviews"></a>
                     <a>468次浏览</a>
@@ -129,7 +119,6 @@
 
             </div>
             <div class="qaright">
-                <div class="qa_title"><a href="/qa/show/id/660">官方手机充值接口不稳定</a></div>
                  <div class="qa_base">
                     <a class="iviews"></a>
                     <a>566次浏览</a>
@@ -147,7 +136,6 @@
 
             </div>
             <div class="qaright">
-                <div class="qa_title"><a href="/qa/show/id/592">php api按格式填写完执行完成没有发送短信，也没有返回respond</a></div>
                  <div class="qa_base">
                     <a class="iviews"></a>
                     <a>513次浏览</a>
@@ -165,7 +153,6 @@
 
             </div>
             <div class="qaright">
-                <div class="qa_title"><a href="/qa/show/id/539">是否有全球旅游国家（城市）相关接口</a></div>
                  <div class="qa_base">
                     <a class="iviews"></a>
                     <a>631次浏览</a>
@@ -183,7 +170,6 @@
 
             </div>
             <div class="qaright">
-                <div class="qa_title"><a href="/qa/show/id/254">使用黄金api接口需要花钱么？</a></div>
                  <div class="qa_base">
                     <a class="iviews"></a>
                     <a>1308次浏览</a>
@@ -201,7 +187,6 @@
 
             </div>
             <div class="qaright">
-                <div class="qa_title"><a href="/qa/show/id/125">实时公共自行车返回码错误</a></div>
                  <div class="qa_base">
                     <a class="iviews"></a>
                     <a>808次浏览</a>
@@ -219,7 +204,6 @@
 
             </div>
             <div class="qaright">
-                <div class="qa_title"><a href="/qa/show/id/31">聚合是否有整个的API接口文档？</a></div>
                  <div class="qa_base">
                     <a class="iviews"></a>
                     <a>1064次浏览</a>
@@ -233,7 +217,6 @@
         </div>
         
         <div class="juheapi_paging">
-        <a  class="juheapi_prev">上一页</a><a href='javascript:void(0)' class="pageSel">1</a><a href='/qa/t/v/API/page/2'>2</a><a href='/qa/t/v/API/page/2' title='下一页' class="juheapi_next" >下一页</a>
         </div>
 
 
@@ -242,7 +225,6 @@
         <div class="category">
             <ul>
 
-                <li><a href="/qa/questions" title="查看所有分类问题">所有分类问题</a></li>
                 
             </ul>
         </div>
@@ -253,16 +235,6 @@
 
       <div class="hot_tags">
         	<ul>
-                        	<li><a href="/qa/t/v/API" class="hot_tags_link">API</a></li>
-                        	<li><a href="/qa/t/v/SDK" class="hot_tags_link">SDK</a></li>
-                        	<li><a href="/qa/t/v/天气" class="hot_tags_link">天气</a></li>
-                        	<li><a href="/qa/t/v/接口" class="hot_tags_link">接口</a></li>
-                        	<li><a href="/qa/t/v/违章" class="hot_tags_link">违章</a></li>
-                        	<li><a href="/qa/t/v/短信" class="hot_tags_link">短信</a></li>
-                        	<li><a href="/qa/t/v/违章查询" class="hot_tags_link">违章查询</a></li>
-                        	<li><a href="/qa/t/v/基站" class="hot_tags_link">基站</a></li>
-                        	<li><a href="/qa/t/v/彩票" class="hot_tags_link">彩票</a></li>
-                        	<li><a href="/qa/t/v/图片" class="hot_tags_link">图片</a></li>
                 
             </ul>
 </div>
@@ -290,7 +262,6 @@
             </dl>
             <dl class="footerDl_v4">
                 <dt>关于</dt>
-                <dd><a href="/qa" rel="nofollow">问题&支持</a></dd>
                 <dd><a href="https://juheimg.oss-cn-hangzhou.aliyuncs.com/docs/%E8%81%9A%E5%90%88%E6%95%B0%E6%8D%AEAPI%E7%94%B3%E8%AF%B7%E4%BD%BF%E7%94%A8%E6%B5%81%E7%A8%8B.pdf" rel="nofollow" target="_blank">新手引导</a></dd>
                 <dd><a href="/contact" rel="nofollow">联系我们</a></dd>
                 <dd><a href="/job" rel="nofollow">聚合招聘</a></dd>
@@ -341,7 +312,6 @@
 		<span>联系我们</span>
 	</li>
 	<li id="tools_feedback">
-		<a rel="nofollow" href="https://www.juhe.cn/qa" target="_blank"></a>
 		<span>问题反馈</span>
 	</li>
 	<li id="tools_goTop">

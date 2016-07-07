@@ -6,7 +6,6 @@
 <meta name="description" content="银行卡三元素校验和银行卡四元素校验的收费疑问">
 <link rel="stylesheet" type="text/css" href="/themes/v4/public/css/reset.css"/>
 <link rel="stylesheet" type="text/css" href="/themes/v4/public/css/headFooter.css"/>
-<link rel="stylesheet" type="text/css" href="/themes/v4/public/css/qa.css"/>
 <link type="text/css" rel="stylesheet" href="/themes/css/prettify.css">
 <title>银行卡三元素校验和银行卡四元素校验的收费疑问-聚合数据</title>
 <script type="text/javascript" src="/themes/js/jquery-1.4.4.min.js"></script>
@@ -74,7 +73,6 @@ $(document).ready(function(){
 
 <style>
 .btnCode {
-    background:transparent url(/themes/images/qa/code.gif) no-repeat 16px 16px;
     background-position:2px 2px;
 }
 </style>
@@ -109,18 +107,12 @@ $(document).ready(function(){
             </div>
             <nav class="clearfix">
                 <a href="/">首页</a>
-                <a href="/qa" title="问题最新同台" >最新更新</a>
-                <a href="/qa/questions" title="问题列表" class="active">问题</a>
-                <a href="/qa/tags" title="标签" >标签</a>
-                <a href="/qa/myask" >我的问题</a>
                 <!--<a href="">企业服务</a>
                 <a href="">聚合国际造型</a>-->
-                <a class="contact_v4" href="/qa/ask">找不到答案？通过这里提交问题</a>
             </nav>
         </div>
     </header>
     <script type="text/javascript">
-        var searchUrl = '/qa/s/q/%40q%40';
         var loginOutUrl = '/login/logout';
         var juheIndex = '/';
     </script>
@@ -133,9 +125,6 @@ $(document).ready(function(){
             关于银行卡三元素校验和银行卡四元素校验等接口的收费问题<br /><br />请问此类接口是每成功调用扣费还是验证成功扣费？
         </div>
         <div class="qatags">
-                                <a href="/qa/t/v/银行卡校验">银行卡校验</a>
-                                <a href="/qa/t/v/银行卡验证">银行卡验证</a>
-                                <a href="/qa/t/v/银行卡">银行卡</a>
                         </div>
 
         <div class="qabases">
@@ -175,7 +164,6 @@ $(document).ready(function(){
 
             </div>
             <div class="qaright">
-                <div class="qa_title"><a href="/qa/show/id/1429">银行卡三元素校验和银行卡四元素校验的收费疑问</a></div>
                 <div class="qa_base">
                     <a class="iviews"></a>
                     <a>30次浏览</a>
@@ -193,7 +181,6 @@ $(document).ready(function(){
 
             </div>
             <div class="qaright">
-                <div class="qa_title"><a href="/qa/show/id/1426">次数快用完了怎么续费</a></div>
                 <div class="qa_base">
                     <a class="iviews"></a>
                     <a>41次浏览</a>
@@ -209,7 +196,6 @@ $(document).ready(function(){
 
             </div>
             <div class="qaright">
-                <div class="qa_title"><a href="/qa/show/id/1419">运营商系统维护,暂不能充值</a></div>
                 <div class="qa_base">
                     <a class="iviews"></a>
                     <a>60次浏览</a>
@@ -227,7 +213,6 @@ $(document).ready(function(){
 
             </div>
             <div class="qaright">
-                <div class="qa_title"><a href="/qa/show/id/1372">通用礼品卡接口文档支付问题</a></div>
                 <div class="qa_base">
                     <a class="iviews"></a>
                     <a>73次浏览</a>
@@ -243,7 +228,6 @@ $(document).ready(function(){
 
             </div>
             <div class="qaright">
-                <div class="qa_title"><a href="/qa/show/id/1371">礼品卡不是有折扣的吗,为何买了扣钱还是那么多</a></div>
                 <div class="qa_base">
                     <a class="iviews"></a>
                     <a>92次浏览</a>
@@ -270,16 +254,6 @@ $(document).ready(function(){
 
       <div class="hot_tags">
         	<ul>
-                        	<li><a href="/qa/t/v/API" class="hot_tags_link">API</a></li>
-                        	<li><a href="/qa/t/v/SDK" class="hot_tags_link">SDK</a></li>
-                        	<li><a href="/qa/t/v/天气" class="hot_tags_link">天气</a></li>
-                        	<li><a href="/qa/t/v/接口" class="hot_tags_link">接口</a></li>
-                        	<li><a href="/qa/t/v/违章" class="hot_tags_link">违章</a></li>
-                        	<li><a href="/qa/t/v/短信" class="hot_tags_link">短信</a></li>
-                        	<li><a href="/qa/t/v/违章查询" class="hot_tags_link">违章查询</a></li>
-                        	<li><a href="/qa/t/v/基站" class="hot_tags_link">基站</a></li>
-                        	<li><a href="/qa/t/v/彩票" class="hot_tags_link">彩票</a></li>
-                        	<li><a href="/qa/t/v/图片" class="hot_tags_link">图片</a></li>
                 
             </ul>
 </div>
@@ -307,7 +281,6 @@ $(document).ready(function(){
             </dl>
             <dl class="footerDl_v4">
                 <dt>关于</dt>
-                <dd><a href="/qa" rel="nofollow">问题&支持</a></dd>
                 <dd><a href="https://juheimg.oss-cn-hangzhou.aliyuncs.com/docs/%E8%81%9A%E5%90%88%E6%95%B0%E6%8D%AEAPI%E7%94%B3%E8%AF%B7%E4%BD%BF%E7%94%A8%E6%B5%81%E7%A8%8B.pdf" rel="nofollow" target="_blank">新手引导</a></dd>
                 <dd><a href="/contact" rel="nofollow">联系我们</a></dd>
                 <dd><a href="/job" rel="nofollow">聚合招聘</a></dd>
@@ -358,7 +331,6 @@ $(document).ready(function(){
 		<span>联系我们</span>
 	</li>
 	<li id="tools_feedback">
-		<a rel="nofollow" href="https://www.juhe.cn/qa" target="_blank"></a>
 		<span>问题反馈</span>
 	</li>
 	<li id="tools_goTop">

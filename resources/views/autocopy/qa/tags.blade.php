@@ -6,7 +6,6 @@
 <meta name="description" content="开发者在使用聚合数据时遇到任何问题以及合作相关事项，都可以在聚合数据问答平台进行提交问题，聚合数据官方会在第一时间进行回复。">
 <link rel="stylesheet" type="text/css" href="/themes/v4/public/css/reset.css"/>
 <link rel="stylesheet" type="text/css" href="/themes/v4/public/css/headFooter.css"/>
-<link type="text/css" rel="stylesheet" href="/themes/v4/public/css/qa.css"/>
 <title>标签-聚合数据</title>
 <script src="/themes/v4/public/js/jquery.min.js" type="text/javascript" charset="utf-8"></script>
 <script type="text/javascript" src="/themes/v4/public/js/jquery.form.js"></script>
@@ -48,18 +47,12 @@
             </div>
             <nav class="clearfix">
                 <a href="/">首页</a>
-                <a href="/qa" title="问题最新同台" >最新更新</a>
-                <a href="/qa/questions" title="问题列表" >问题</a>
-                <a href="/qa/tags" title="标签" class="active">标签</a>
-                <a href="/qa/myask" >我的问题</a>
                 <!--<a href="">企业服务</a>
                 <a href="">聚合国际造型</a>-->
-                <a class="contact_v4" href="/qa/ask">找不到答案？通过这里提交问题</a>
             </nav>
         </div>
     </header>
     <script type="text/javascript">
-        var searchUrl = '/qa/s/q/%40q%40';
         var loginOutUrl = '/login/logout';
         var juheIndex = '/';
     </script>
@@ -71,113 +64,12 @@
 
         <div class="tagslist">
             <ul>
-                                <li><a href="/qa/t/v/SDK" title="SDK">SDK</a></li>
-                                <li><a href="/qa/t/v/API" title="API">API</a></li>
-                                <li><a href="/qa/t/v/%E5%A4%A9%E6%B0%94" title="天气">天气</a></li>
-                                <li><a href="/qa/t/v/%E6%8E%A5%E5%8F%A3" title="接口">接口</a></li>
-                                <li><a href="/qa/t/v/%E8%BF%9D%E7%AB%A0" title="违章">违章</a></li>
-                                <li><a href="/qa/t/v/%E5%9F%BA%E7%AB%99" title="基站">基站</a></li>
-                                <li><a href="/qa/t/v/%E7%9F%AD%E4%BF%A1" title="短信">短信</a></li>
-                                <li><a href="/qa/t/v/%E8%BF%9D%E7%AB%A0%E6%9F%A5%E8%AF%A2" title="违章查询">违章查询</a></li>
-                                <li><a href="/qa/t/v/%E5%AE%9E%E5%90%8D%E8%AE%A4%E8%AF%81" title="实名认证">实名认证</a></li>
-                                <li><a href="/qa/t/v/%E5%BD%A9%E7%A5%A8" title="彩票">彩票</a></li>
-                                <li><a href="/qa/t/v/%E5%9B%BE%E7%89%87" title="图片">图片</a></li>
-                                <li><a href="/qa/t/v/key" title="key">key</a></li>
-                                <li><a href="/qa/t/v/12306" title="12306">12306</a></li>
-                                <li><a href="/qa/t/v/%E5%9F%BA%E7%AB%99%E5%AE%9A%E4%BD%8D" title="基站定位">基站定位</a></li>
-                                <li><a href="/qa/t/v/%E8%AE%A4%E8%AF%81" title="认证">认证</a></li>
-                                <li><a href="/qa/t/v/%E8%82%A1%E7%A5%A8" title="股票">股票</a></li>
-                                <li><a href="/qa/t/v/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5" title="天气预报">天气预报</a></li>
-                                <li><a href="/qa/t/v/BUG" title="BUG">BUG</a></li>
-                                <li><a href="/qa/t/v/%E5%8F%91%E7%A5%A8" title="发票">发票</a></li>
-                                <li><a href="/qa/t/v/%E5%AE%9A%E4%BD%8D" title="定位">定位</a></li>
-                                <li><a href="/qa/t/v/%E7%94%B3%E8%AF%B7" title="申请">申请</a></li>
-                                <li><a href="/qa/t/v/%E5%85%85%E5%80%BC" title="充值">充值</a></li>
-                                <li><a href="/qa/t/v/%E5%85%8D%E8%B4%B9" title="免费">免费</a></li>
-                                <li><a href="/qa/t/v/%E5%BF%AB%E9%80%92" title="快递">快递</a></li>
-                                <li><a href="/qa/t/v/%E5%9F%8E%E5%B8%82" title="城市">城市</a></li>
-                                <li><a href="/qa/t/v/%E9%94%99%E8%AF%AF" title="错误">错误</a></li>
-                                <li><a href="/qa/t/v/%E6%B5%81%E9%87%8F" title="流量">流量</a></li>
-                                <li><a href="/qa/t/v/%E5%90%8D%E7%89%87%E8%AF%86%E5%88%AB" title="名片识别">名片识别</a></li>
-                                <li><a href="/qa/t/v/android" title="android">android</a></li>
-                                <li><a href="/qa/t/v/PHP" title="PHP">PHP</a></li>
-                                <li><a href="/qa/t/v/%E5%AE%A1%E6%A0%B8" title="审核">审核</a></li>
-                                <li><a href="/qa/t/v/%E5%BD%B1%E8%AE%AFAPI" title="影讯API">影讯API</a></li>
-                                <li><a href="/qa/t/v/%E6%95%B0%E6%8D%AE" title="数据">数据</a></li>
-                                <li><a href="/qa/t/v/%E6%AC%A1%E6%95%B0" title="次数">次数</a></li>
-                                <li><a href="/qa/t/v/%E6%B1%87%E7%8E%87" title="汇率">汇率</a></li>
-                                <li><a href="/qa/t/v/%E8%B5%84%E8%B4%B9" title="资费">资费</a></li>
-                                <li><a href="/qa/t/v/%E6%89%8B%E6%9C%BA%E5%8F%B7%E7%A0%81" title="手机号码">手机号码</a></li>
-                                <li><a href="/qa/t/v/%E4%BC%9A%E5%91%98" title="会员">会员</a></li>
-                                <li><a href="/qa/t/v/%E6%89%A3%E5%87%8F%E6%AC%A1%E6%95%B0" title="扣减次数">扣减次数</a></li>
-                                <li><a href="/qa/t/v/%E7%9F%AD%E4%BF%A1api" title="短信api">短信api</a></li>
-                                <li><a href="/qa/t/v/%E7%B2%89%E4%B8%9D%E7%B2%89%E4%B8%9D" title="粉丝粉丝">粉丝粉丝</a></li>
-                                <li><a href="/qa/t/v/%E6%9F%A5%E8%AF%A2" title="查询">查询</a></li>
-                                <li><a href="/qa/t/v/%E5%9F%BA%E9%87%91" title="基金">基金</a></li>
-                                <li><a href="/qa/t/v/OpenID" title="OpenID">OpenID</a></li>
-                                <li><a href="/qa/t/v/%E8%82%A1%E7%A5%A8%E6%8E%A5%E5%8F%A3%E5%8F%82%E6%95%B0" title="股票接口参数">股票接口参数</a></li>
-                                <li><a href="/qa/t/v/%E9%94%99%E8%AF%AF%E7%A0%81" title="错误码">错误码</a></li>
-                                <li><a href="/qa/t/v/iphone" title="iphone">iphone</a></li>
-                                <li><a href="/qa/t/v/API%E6%B5%8B%E8%AF%95" title="API测试">API测试</a></li>
-                                <li><a href="/qa/t/v/%E6%95%B0%E6%8D%AE%E5%AE%9A%E5%88%B6" title="数据定制">数据定制</a></li>
-                                <li><a href="/qa/t/v/%E6%98%9F%E5%BA%A7%E8%BF%90%E5%8A%BF" title="星座运势">星座运势</a></li>
-                                <li><a href="/qa/t/v/%E8%BF%9D%E7%AB%A0%E5%9F%8E%E5%B8%82" title="违章城市">违章城市</a></li>
-                                <li><a href="/qa/t/v/%E6%97%A5%E6%9C%9F" title="日期">日期</a></li>
-                                <li><a href="/qa/t/v/%E7%9F%AD%E4%BF%A1%E6%8E%A5%E5%8F%A3" title="短信接口">短信接口</a></li>
-                                <li><a href="/qa/t/v/%E8%82%A1%E7%A5%A8%E6%8E%A5%E5%8F%A3" title="股票接口">股票接口</a></li>
-                                <li><a href="/qa/t/v/%E5%90%88%E5%90%8C" title="合同">合同</a></li>
-                                <li><a href="/qa/t/v/%E6%97%B6%E6%97%B6%E5%BD%A9" title="时时彩">时时彩</a></li>
-                                <li><a href="/qa/t/v/%E5%9B%BE%E6%A0%87" title="图标">图标</a></li>
-                                <li><a href="/qa/t/v/%E6%8A%A5%E9%94%99" title="报错">报错</a></li>
-                                <li><a href="/qa/t/v/ios" title="ios">ios</a></li>
-                                <li><a href="/qa/t/v/213403" title="213403">213403</a></li>
-                                <li><a href="/qa/t/v/%E6%8E%A5%E5%8F%A3%E8%B7%A8%E5%9F%9F%E8%AE%BF%E9%97%AE" title="接口跨域访问">接口跨域访问</a></li>
-                                <li><a href="/qa/t/v/%E6%A0%BC%E5%BC%8F" title="格式">格式</a></li>
-                                <li><a href="/qa/t/v/%E7%AC%91%E8%AF%9D" title="笑话">笑话</a></li>
-                                <li><a href="/qa/t/v/%E9%A2%91%E7%8E%87" title="频率">频率</a></li>
-                                <li><a href="/qa/t/v/json%E6%A0%BC%E5%BC%8F%E8%A7%A3%E6%9E%90" title="json格式解析">json格式解析</a></li>
-                                <li><a href="/qa/t/v/ddddddddd" title="ddddddddd">ddddddddd</a></li>
-                                <li><a href="/qa/t/v/%E7%BC%96%E7%A0%81" title="编码">编码</a></li>
-                                <li><a href="/qa/t/v/API%E8%B0%83%E7%94%A8" title="API调用">API调用</a></li>
-                                <li><a href="/qa/t/v/%E5%AE%9E%E5%90%8D%E5%88%B6" title="实名制">实名制</a></li>
-                                <li><a href="/qa/t/v/%E5%A4%A9%E6%B0%94API" title="天气API">天气API</a></li>
-                                <li><a href="/qa/t/v/%E8%B7%A8%E5%9F%9F" title="跨域">跨域</a></li>
-                                <li><a href="/qa/t/v/%E8%82%A1%E7%A5%A8%E5%8F%82%E6%95%B0" title="股票参数">股票参数</a></li>
-                                <li><a href="/qa/t/v/%E9%99%90%E5%88%B6" title="限制">限制</a></li>
-                                <li><a href="/qa/t/v/%E5%BA%94%E7%94%A8%E5%90%8D%E7%A7%B0" title="应用名称">应用名称</a></li>
-                                <li><a href="/qa/t/v/%E5%BA%94%E7%94%A8%E5%9C%B0%E5%9D%80" title="应用地址">应用地址</a></li>
-                                <li><a href="/qa/t/v/js" title="js">js</a></li>
-                                <li><a href="/qa/t/v/%E6%94%AF%E4%BB%98%E5%AE%9D" title="支付宝">支付宝</a></li>
-                                <li><a href="/qa/t/v/%E9%82%AE%E7%AE%B1" title="邮箱">邮箱</a></li>
-                                <li><a href="/qa/t/v/%E5%A4%87%E6%A1%88%E6%9F%A5%E8%AF%A2" title="备案查询">备案查询</a></li>
-                                <li><a href="/qa/t/v/%E8%BD%A6%E8%BE%86%E8%BF%9D%E7%AB%A0" title="车辆违章">车辆违章</a></li>
-                                <li><a href="/qa/t/v/%E5%87%80%E5%80%BC" title="净值">净值</a></li>
-                                <li><a href="/qa/t/v/%E8%BD%A6%E8%BE%86%E8%BF%9D%E7%AB%A0%E6%9F%A5%E8%AF%A2" title="车辆违章查询">车辆违章查询</a></li>
-                                <li><a href="/qa/t/v/%E5%85%B3%E9%94%AE%E5%AD%97" title="关键字">关键字</a></li>
-                                <li><a href="/qa/t/v/%E5%85%A8%E5%9B%BD%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5" title="全国天气预报">全国天气预报</a></li>
-                                <li><a href="/qa/t/v/%E5%BD%B1%E8%AE%AF" title="影讯">影讯</a></li>
-                                <li><a href="/qa/t/v/%E6%89%8B%E6%9C%BA%E8%AF%9D%E8%B4%B9%E5%85%85%E5%80%BC" title="手机话费充值">手机话费充值</a></li>
-                                <li><a href="/qa/t/v/NBA" title="NBA">NBA</a></li>
-                                <li><a href="/qa/t/v/%E8%BA%AB%E4%BB%BD%E8%AF%81" title="身份证">身份证</a></li>
-                                <li><a href="/qa/t/v/%E7%9F%AD%E4%BF%A1%E9%AA%8C%E8%AF%81%E7%A0%81" title="短信验证码">短信验证码</a></li>
-                                <li><a href="/qa/t/v/%E6%9B%B4%E6%96%B0" title="更新">更新</a></li>
-                                <li><a href="/qa/t/v/%E7%94%B5%E4%BF%A1%E5%9F%BA%E7%AB%99" title="电信基站">电信基站</a></li>
-                                <li><a href="/qa/t/v/%E7%81%AB%E8%BD%A6%E7%A5%A8" title="火车票">火车票</a></li>
-                                <li><a href="/qa/t/v/%E5%8F%82%E6%95%B0" title="参数">参数</a></li>
-                                <li><a href="/qa/t/v/%E6%89%8B%E6%9C%BA%E5%8F%B7" title="手机号">手机号</a></li>
-                                <li><a href="/qa/t/v/%E6%95%B0%E6%8D%AE%E6%8E%A5%E5%8F%A3" title="数据接口">数据接口</a></li>
-                                <li><a href="/qa/t/v/%E6%9C%89%E8%B5%9E+++%E6%8E%A5%E5%8F%A3" title="有赞   接口">有赞   接口</a></li>
-                                <li><a href="/qa/t/v/%E9%AA%8C%E8%AF%81%E7%A0%81" title="验证码">验证码</a></li>
-                                <li><a href="/qa/t/v/%E4%BB%98%E8%B4%B9" title="付费">付费</a></li>
-                                <li><a href="/qa/t/v/ajax" title="ajax">ajax</a></li>
-                                <li><a href="/qa/t/v/%E8%8B%B9%E6%9E%9C%E5%BA%8F%E5%88%97%E5%8F%B7" title="苹果序列号">苹果序列号</a></li>
                 
             </ul>
             <div class="clear"></div>
         </div>
 
          <div class="appPages">
-            <!--<a  class="juheapi_prev">上一页</a><a href='javascript:void(0)' class="pageSel">1</a><a href='/qa/tags/page/2'>2</a><a href='/qa/tags/page/3'>3</a><a href='/qa/tags/page/4'>4</a><a href='/qa/tags/page/5'>5</a><a href='/qa/tags/page/6'>6</a><a href='/qa/tags/page/2' title='下一页' class="juheapi_next" >下一页</a>-->
         </div>
 
 
@@ -189,16 +81,6 @@
         <div class="category">
             <ul>
                 <li>所有分类问题</li>
-                                <li><a href="/qa/questions/cateid/1">账户注册与登录</a></li>
-                                <li><a href="/qa/questions/cateid/2">接口申请与调用</a></li>
-                                <li><a href="/qa/questions/cateid/3">数据接口咨询</a></li>
-                                <li><a href="/qa/questions/cateid/4">BUG反馈中心</a></li>
-                                <li><a href="/qa/questions/cateid/5">API调用指南</a></li>
-                                <li><a href="/qa/questions/cateid/6">充值付费相关</a></li>
-                                <li><a href="/qa/questions/cateid/7">聚合数据SDK</a></li>
-                                <li><a href="/qa/questions/cateid/8">商务合作</a></li>
-                                <li><a href="/qa/questions/cateid/9">数据定制</a></li>
-                                <li><a href="/qa/questions/cateid/10">其他类型</a></li>
                             </ul>
         </div>
 
@@ -208,16 +90,6 @@
 
        <div class="hot_tags">
                 <ul>
-                                    <li><a href="/qa/t/v/API" class="hot_tags_link">API</a></li>
-                                    <li><a href="/qa/t/v/SDK" class="hot_tags_link">SDK</a></li>
-                                    <li><a href="/qa/t/v/天气" class="hot_tags_link">天气</a></li>
-                                    <li><a href="/qa/t/v/接口" class="hot_tags_link">接口</a></li>
-                                    <li><a href="/qa/t/v/违章" class="hot_tags_link">违章</a></li>
-                                    <li><a href="/qa/t/v/短信" class="hot_tags_link">短信</a></li>
-                                    <li><a href="/qa/t/v/违章查询" class="hot_tags_link">违章查询</a></li>
-                                    <li><a href="/qa/t/v/基站" class="hot_tags_link">基站</a></li>
-                                    <li><a href="/qa/t/v/彩票" class="hot_tags_link">彩票</a></li>
-                                    <li><a href="/qa/t/v/图片" class="hot_tags_link">图片</a></li>
                                 </ul>
     </div>
 
@@ -245,7 +117,6 @@
             </dl>
             <dl class="footerDl_v4">
                 <dt>关于</dt>
-                <dd><a href="/qa" rel="nofollow">问题&支持</a></dd>
                 <dd><a href="https://juheimg.oss-cn-hangzhou.aliyuncs.com/docs/%E8%81%9A%E5%90%88%E6%95%B0%E6%8D%AEAPI%E7%94%B3%E8%AF%B7%E4%BD%BF%E7%94%A8%E6%B5%81%E7%A8%8B.pdf" rel="nofollow" target="_blank">新手引导</a></dd>
                 <dd><a href="/contact" rel="nofollow">联系我们</a></dd>
                 <dd><a href="/job" rel="nofollow">聚合招聘</a></dd>
@@ -296,7 +167,6 @@
 		<span>联系我们</span>
 	</li>
 	<li id="tools_feedback">
-		<a rel="nofollow" href="https://www.juhe.cn/qa" target="_blank"></a>
 		<span>问题反馈</span>
 	</li>
 	<li id="tools_goTop">

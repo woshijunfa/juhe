@@ -64,7 +64,6 @@
 
                 <!--<a href="">活动</a>-->
                 <!--<a href="/docs" title="资费价格" >价格</a>-->
-                <a href="/qa" title="常见问题" >常见问题</a>
                 <!--<a href="/contact" >商务合作</a>-->
                 <!-- <a href="http://open.juhe.cn">发布服务</a> -->
                 <!--<a href="">企业服务</a>
@@ -410,7 +409,6 @@ b1c8_1_mwpl_05500201.jpeg&quot;,<font color='red'>/*图片3*/</font>
                             <tr>
                                 <td>&nbsp;</td>
                                 <td class="url">常见问题:</td>
-                                <td class="url"><a href="http://www.juhe.cn/qa/index/1467878599" class="blue" target="_blank">http://www.juhe.cn/qa/index/1467878599</a></td>
                             </tr>
                         </table>
                     </div>
@@ -543,7 +541,6 @@ b1c8_1_mwpl_05500201.jpeg&quot;,<font color='red'>/*图片3*/</font>
             </dl>
             <dl class="footerDl_v4">
                 <dt>关于</dt>
-                <dd><a href="/qa" rel="nofollow">问题&支持</a></dd>
                 <dd><a href="https://juheimg.oss-cn-hangzhou.aliyuncs.com/docs/%E8%81%9A%E5%90%88%E6%95%B0%E6%8D%AEAPI%E7%94%B3%E8%AF%B7%E4%BD%BF%E7%94%A8%E6%B5%81%E7%A8%8B.pdf" rel="nofollow" target="_blank">新手引导</a></dd>
                 <dd><a href="/contact" rel="nofollow">联系我们</a></dd>
                 <dd><a href="/job" rel="nofollow">聚合招聘</a></dd>
@@ -594,7 +591,6 @@ b1c8_1_mwpl_05500201.jpeg&quot;,<font color='red'>/*图片3*/</font>
 		<span>联系我们</span>
 	</li>
 	<li id="tools_feedback">
-		<a rel="nofollow" href="https://www.juhe.cn/qa" target="_blank"></a>
 		<span>问题反馈</span>
 	</li>
 	<li id="tools_goTop">

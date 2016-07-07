@@ -61,7 +61,8 @@
                 <a href="/docs" title="所有数据API" class="active">API</a>
 
                 <!--<a href="">活动</a>-->
-                <!--<a href="/docs" title="资费价格" >价格</a>-->
+                <a href="/news/listview" >动态</a>
+                <!--<a href="/price" title="资费价格" >价格</a>-->
                 <!--<a href="/contact" >商务合作</a>-->
                 <!-- <a href="http://open.juhe.cn">发布服务</a> -->
                 <!--<a href="">企业服务</a>
@@ -120,8 +121,8 @@
                     <div class="juheapi_main_title">
                         <h1>所有数据<span>（145个）</span></h1>
                                                                               <ul class="clear api_sort">
-                               <li class="active"><a href="/docs/index/sortby/1">默认排序</a></li>
-                               <li ><a href="/docs/index/sortby/2">最新上线</a></li>
+                               <li ><a href="/docs/index/sortby/1">默认排序</a></li>
+                               <li class="active"><a href="/docs/index/sortby/2">最新上线</a></li>
                                <li ><a href="/docs/index/sortby/3">连接应用数</a></li>
                                <li ><a href="/docs/index/sortby/4">免费数据</a></li>
                            </ul>
@@ -137,58 +138,7 @@
                         <div class="juheapis_desc clearfix">
                         	<!--五周年活动 icon-->
 		                				                	<!--五周年活动 icon end-->
-                            <a href="/docs/api/id/44" title="电影票房 接口"><img src="/themes/images/data/new/a44.png"/></a>
-                            <h2>
-                                <a href="/docs/api/id/44" title="电影票房 接口">电影票房</a>
-                                <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
-                            </h2>
-                            <p class="juhe_desc_p1">电影票房，票房榜</p>
-                            <div class="juhe_desc_p2 clearfix">
-                                <span class="juheicon1"><font>浏览量：</font>45282</span>
-                                <span class="juheicon2"><font>连接应用数：</font>4929</span>
-                                <span class="juheicon3"><font>收藏数：</font>22</span>
-                            </div>
-                            <p class="juheapi_price">
-                                                                    <span><font color="#28da84">免费</font>/无限次</span>
-                                                            </p>
-                            <div class="freeuserBtn">
-                                                                <a href="/docs/api/id/44" title="电影票房 接口">立即使用</a>
-                                                                                                <span>申请即送100次</span>
-                                                            </div>
-                        </div>
-                    </li>
-                                        <li>
-                        <div class="juheapis_desc clearfix">
-                        	<!--五周年活动 icon-->
-		                				                	<!--五周年活动 icon end-->
-                            <a href="/docs/api/id/112" title="问答机器人 接口"><img src="/themes/images/data/new/a112.png"/></a>
-                            <h2>
-                                <a href="/docs/api/id/112" title="问答机器人 接口">问答机器人</a>
-                                <span>
-                                                                        <label class="color_auto">图灵机器人</label>
-                                                                        <label class="color_mianfei">免费</label>                                </span>
-                            </h2>
-                            <p class="juhe_desc_p1">图灵机器人平台，图灵机器人</p>
-                            <div class="juhe_desc_p2 clearfix">
-                                <span class="juheicon1"><font>浏览量：</font>43279</span>
-                                <span class="juheicon2"><font>连接应用数：</font>3943</span>
-                                <span class="juheicon3"><font>收藏数：</font>31</span>
-                            </div>
-                            <p class="juheapi_price">
-                                                                    <span><font color="#28da84">免费</font>/无限次</span>
-                                                            </p>
-                            <div class="freeuserBtn">
-                                                                <a href="/docs/api/id/112" title="问答机器人 接口">立即使用</a>
-                                                                                                <span>申请即送500次</span>
-                                                            </div>
-                        </div>
-                    </li>
-                                        <li>
-                        <div class="juheapis_desc clearfix">
-                        	<!--五周年活动 icon-->
-		                				                	<!--五周年活动 icon end-->
-                            <a href="/docs/api/id/92" title="NBA赛事 接口"><img src="/themes/images/data/new/a92.png"/></a>
+                            <a href="/docs/api/id/92" title="NBA赛事 接口"><img src="https://www.juhe.cn/themes/images/data/new/a92.png"/></a>
                             <h2>
                                 <a href="/docs/api/id/92" title="NBA赛事 接口">NBA赛事</a>
                                 <span>
@@ -197,7 +147,7 @@
                             </h2>
                             <p class="juhe_desc_p1">NBA赛事赛程相关信息</p>
                             <div class="juhe_desc_p2 clearfix">
-                                <span class="juheicon1"><font>浏览量：</font>41009</span>
+                                <span class="juheicon1"><font>浏览量：</font>41038</span>
                                 <span class="juheicon2"><font>连接应用数：</font>2982</span>
                                 <span class="juheicon3"><font>收藏数：</font>28</span>
                             </div>
@@ -214,23 +164,23 @@
                         <div class="juheapis_desc clearfix">
                         	<!--五周年活动 icon-->
 		                				                	<!--五周年活动 icon end-->
-                            <a href="/docs/api/id/50" title="图书电商数据 接口"><img src="/themes/images/data/new/a50.png"/></a>
+                            <a href="/docs/api/id/91" title="违章高发地 接口"><img src="https://www.juhe.cn/themes/images/data/new/a91.png"/></a>
                             <h2>
-                                <a href="/docs/api/id/50" title="图书电商数据 接口">图书电商数据</a>
+                                <a href="/docs/api/id/91" title="违章高发地 接口">违章高发地</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
+                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
-                            <p class="juhe_desc_p1">于万千之中选择你所爱--好书推荐，值得你信赖。</p>
+                            <p class="juhe_desc_p1">根据百度地图坐标，检索周边违章高发地信息</p>
                             <div class="juhe_desc_p2 clearfix">
-                                <span class="juheicon1"><font>浏览量：</font>40097</span>
-                                <span class="juheicon2"><font>连接应用数：</font>2893</span>
-                                <span class="juheicon3"><font>收藏数：</font>26</span>
+                                <span class="juheicon1"><font>浏览量：</font>13913</span>
+                                <span class="juheicon2"><font>连接应用数：</font>765</span>
+                                <span class="juheicon3"><font>收藏数：</font>2</span>
                             </div>
                             <p class="juheapi_price">
-                                                                    <span><font color="#28da84">免费</font>/无限次</span>
-                                                            </p>
+                                                                                                        <span><font color="#f0767f">￥64.00</font>/10000次</span>
+                                                                                                </p>
                             <div class="freeuserBtn">
-                                                                <a href="/docs/api/id/50" title="图书电商数据 接口">立即使用</a>
+                                                                <a href="/docs/api/id/91" title="违章高发地 接口">免费试用</a>
                                                                                                 <span>申请即送100次</span>
                                                             </div>
                         </div>
@@ -239,76 +189,148 @@
                         <div class="juheapis_desc clearfix">
                         	<!--五周年活动 icon-->
 		                				                	<!--五周年活动 icon end-->
-                            <a href="/docs/api/id/152" title="国内机票订票 接口"><img src="/themes/images/data/new/a152.png"/></a>
+                            <a href="/docs/api/id/90" title="足球联赛 接口"><img src="https://www.juhe.cn/themes/images/data/new/a90.png"/></a>
                             <h2>
-                                <a href="/docs/api/id/152" title="国内机票订票 接口">国内机票订票</a>
+                                <a href="/docs/api/id/90" title="足球联赛 接口">足球联赛</a>
                                 <span>
-                                                                        <label class="color_auto">中兴商旅</label>
-                                                                                                        </span>
-                            </h2>
-                            <p class="juhe_desc_p1">签订协议或更多需求，请与商务联系。为保证后续正常使用，测试完毕后请联系开通正式生产环境</p>
-                            <div class="juhe_desc_p2 clearfix">
-                                <span class="juheicon1"><font>浏览量：</font>40053</span>
-                                <span class="juheicon2"><font>连接应用数：</font>1175</span>
-                                <span class="juheicon3"><font>收藏数：</font>5</span>
-                            </div>
-                            <p class="juheapi_price">
-                                                                                                        <span><font color="#f0767f">按需资费</font></span>
-                                                                                                </p>
-                            <div class="freeuserBtn">
-                                                                <a href="/docs/api/id/152" title="国内机票订票 接口">免费试用</a>
-                                                                                                <span>申请即送30次</span>
-                                                            </div>
-                        </div>
-                    </li>
-                                        <li>
-                        <div class="juheapis_desc clearfix">
-                        	<!--五周年活动 icon-->
-		                				                	<!--五周年活动 icon end-->
-                            <a href="/docs/api/id/153" title="证件识别 接口"><img src="/themes/images/data/new/a153.png"/></a>
-                            <h2>
-                                <a href="/docs/api/id/153" title="证件识别 接口">证件识别</a>
-                                <span>
-                                                                        <label class="color_auto">北京文通科技</label>
-                                                                                                        </span>
-                            </h2>
-                            <p class="juhe_desc_p1"></p>
-                            <div class="juhe_desc_p2 clearfix">
-                                <span class="juheicon1"><font>浏览量：</font>39338</span>
-                                <span class="juheicon2"><font>连接应用数：</font>2038</span>
-                                <span class="juheicon3"><font>收藏数：</font>10</span>
-                            </div>
-                            <p class="juheapi_price">
-                                                                                                        <span><font color="#f0767f">￥84.00</font>/1000次</span>
-                                                                                                </p>
-                            <div class="freeuserBtn">
-                                                                <a href="/docs/api/id/153" title="证件识别 接口">免费试用</a>
-                                                                                                <span>申请即送5次</span>
-                                                            </div>
-                        </div>
-                    </li>
-                                        <li>
-                        <div class="juheapis_desc clearfix">
-                        	<!--五周年活动 icon-->
-		                				                	<!--五周年活动 icon end-->
-                            <a href="/docs/api/id/177" title="万年历 接口"><img src="/themes/images/data/new/a177.png"/></a>
-                            <h2>
-                                <a href="/docs/api/id/177" title="万年历 接口">万年历</a>
-                                <span>
-                                                                        <label class="color_auto">聚合数据</label>
+                                                                        <label class="color_auto">360搜索</label>
                                                                         <label class="color_mianfei">免费</label>                                </span>
                             </h2>
-                            <p class="juhe_desc_p1"></p>
+                            <p class="juhe_desc_p1">目前支持 英超，西甲，德甲，意甲，法甲，中超等赛事</p>
                             <div class="juhe_desc_p2 clearfix">
-                                <span class="juheicon1"><font>浏览量：</font>38711</span>
-                                <span class="juheicon2"><font>连接应用数：</font>3229</span>
-                                <span class="juheicon3"><font>收藏数：</font>26</span>
+                                <span class="juheicon1"><font>浏览量：</font>32805</span>
+                                <span class="juheicon2"><font>连接应用数：</font>1883</span>
+                                <span class="juheicon3"><font>收藏数：</font>12</span>
                             </div>
                             <p class="juheapi_price">
                                                                     <span><font color="#28da84">免费</font>/无限次</span>
                                                             </p>
                             <div class="freeuserBtn">
-                                                                <a href="/docs/api/id/177" title="万年历 接口">立即使用</a>
+                                                                <a href="/docs/api/id/90" title="足球联赛 接口">立即使用</a>
+                                                                                                <span>申请即送100次</span>
+                                                            </div>
+                        </div>
+                    </li>
+                                        <li>
+                        <div class="juheapis_desc clearfix">
+                        	<!--五周年活动 icon-->
+		                				                	<!--五周年活动 icon end-->
+                            <a href="/docs/api/id/87" title="加油卡充值 接口"><img src="https://www.juhe.cn/themes/images/data/new/a87.png"/></a>
+                            <h2>
+                                <a href="/docs/api/id/87" title="加油卡充值 接口">加油卡充值</a>
+                                <span>
+                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
+                            </h2>
+                            <p class="juhe_desc_p1">中石化、中石油加油卡充值</p>
+                            <div class="juhe_desc_p2 clearfix">
+                                <span class="juheicon1"><font>浏览量：</font>72287</span>
+                                <span class="juheicon2"><font>连接应用数：</font>2016</span>
+                                <span class="juheicon3"><font>收藏数：</font>28</span>
+                            </div>
+                            <p class="juheapi_price">
+                                                                                                        <span><font color="#f0767f">按需资费</font></span>
+                                                                                                </p>
+                            <div class="freeuserBtn">
+                                                                <a href="/docs/api/id/87" title="加油卡充值 接口">免费试用</a>
+                                                                                            </div>
+                        </div>
+                    </li>
+                                        <li>
+                        <div class="juheapis_desc clearfix">
+                        	<!--五周年活动 icon-->
+		                				                	<!--五周年活动 icon end-->
+                            <a href="/docs/api/id/83" title="律师查询 接口"><img src="https://www.juhe.cn/themes/images/data/new/a83.png"/></a>
+                            <h2>
+                                <a href="/docs/api/id/83" title="律师查询 接口">律师查询</a>
+                                <span>
+                                                                        <label class="color_auto">固实科技</label>
+                                                                        <label class="color_mianfei">免费</label>                                </span>
+                            </h2>
+                            <p class="juhe_desc_p1">法律律师详细信息接口列表，所有参数需要UTF-8 UrlEncode</p>
+                            <div class="juhe_desc_p2 clearfix">
+                                <span class="juheicon1"><font>浏览量：</font>21063</span>
+                                <span class="juheicon2"><font>连接应用数：</font>684</span>
+                                <span class="juheicon3"><font>收藏数：</font>10</span>
+                            </div>
+                            <p class="juheapi_price">
+                                                                    <span><font color="#28da84">免费</font>/无限次</span>
+                                                            </p>
+                            <div class="freeuserBtn">
+                                                                <a href="/docs/api/id/83" title="律师查询 接口">立即使用</a>
+                                                                                                <span>申请即送20次</span>
+                                                            </div>
+                        </div>
+                    </li>
+                                        <li>
+                        <div class="juheapis_desc clearfix">
+                        	<!--五周年活动 icon-->
+		                				                	<!--五周年活动 icon end-->
+                            <a href="/docs/api/id/85" title="手机话费充值 接口"><img src="https://www.juhe.cn/themes/images/data/new/a85.png"/></a>
+                            <h2>
+                                <a href="/docs/api/id/85" title="手机话费充值 接口">手机话费充值</a>
+                                <span>
+                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
+                            </h2>
+                            <p class="juhe_desc_p1">手机话费快速充值</p>
+                            <div class="juhe_desc_p2 clearfix">
+                                <span class="juheicon1"><font>浏览量：</font>143855</span>
+                                <span class="juheicon2"><font>连接应用数：</font>7902</span>
+                                <span class="juheicon3"><font>收藏数：</font>35</span>
+                            </div>
+                            <p class="juheapi_price">
+                                                                                                        <span><font color="#f0767f">按需资费</font></span>
+                                                                                                </p>
+                            <div class="freeuserBtn">
+                                                                <a href="/docs/api/id/85" title="手机话费充值 接口">免费试用</a>
+                                                                                            </div>
+                        </div>
+                    </li>
+                                        <li>
+                        <div class="juheapis_desc clearfix">
+                        	<!--五周年活动 icon-->
+		                				                	<!--五周年活动 icon end-->
+                            <a href="/docs/api/id/20" title="航班动态 接口"><img src="https://www.juhe.cn/themes/images/data/new/a20.png"/></a>
+                            <h2>
+                                <a href="/docs/api/id/20" title="航班动态 接口">航班动态</a>
+                                <span>
+                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
+                            </h2>
+                            <p class="juhe_desc_p1">提供国内航班动态查询</p>
+                            <div class="juhe_desc_p2 clearfix">
+                                <span class="juheicon1"><font>浏览量：</font>73145</span>
+                                <span class="juheicon2"><font>连接应用数：</font>5303</span>
+                                <span class="juheicon3"><font>收藏数：</font>5</span>
+                            </div>
+                            <p class="juheapi_price">
+                                                                                                        <span><font color="#f0767f">￥32.00</font>/5000次</span>
+                                                                                                </p>
+                            <div class="freeuserBtn">
+                                                                <a href="/docs/api/id/20" title="航班动态 接口">免费试用</a>
+                                                                                                <span>申请即送100次</span>
+                                                            </div>
+                        </div>
+                    </li>
+                                        <li>
+                        <div class="juheapis_desc clearfix">
+                        	<!--五周年活动 icon-->
+		                				                	<!--五周年活动 icon end-->
+                            <a href="/docs/api/id/22" title="12306火车票查询 接口"><img src="https://www.juhe.cn/themes/images/data/new/a22.png"/></a>
+                            <h2>
+                                <a href="/docs/api/id/22" title="12306火车票查询 接口">12306火车票查询</a>
+                                <span>
+                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
+                            </h2>
+                            <p class="juhe_desc_p1">火车时刻表、余票查询</p>
+                            <div class="juhe_desc_p2 clearfix">
+                                <span class="juheicon1"><font>浏览量：</font>150577</span>
+                                <span class="juheicon2"><font>连接应用数：</font>11269</span>
+                                <span class="juheicon3"><font>收藏数：</font>12</span>
+                            </div>
+                            <p class="juheapi_price">
+                                                                                                        <span><font color="#f0767f">￥32.00</font>/6000次</span>
+                                                                                                </p>
+                            <div class="freeuserBtn">
+                                                                <a href="/docs/api/id/22" title="12306火车票查询 接口">免费试用</a>
                                                                                                 <span>申请即送500次</span>
                                                             </div>
                         </div>
@@ -317,24 +339,199 @@
                         <div class="juheapis_desc clearfix">
                         	<!--五周年活动 icon-->
 		                				                	<!--五周年活动 icon end-->
-                            <a href="/docs/api/id/80" title="汇率 接口"><img src="/themes/images/data/new/a80.png"/></a>
+                            <a href="/docs/api/id/82" title="长途汽车信息 接口"><img src="https://www.juhe.cn/themes/images/data/new/a82.png"/></a>
                             <h2>
-                                <a href="/docs/api/id/80" title="汇率 接口">汇率</a>
+                                <a href="/docs/api/id/82" title="长途汽车信息 接口">长途汽车信息</a>
                                 <span>
                                                                         <label class="color_auto">360搜索</label>
                                                                         <label class="color_mianfei">免费</label>                                </span>
                             </h2>
-                            <p class="juhe_desc_p1">外汇报价，货币汇率</p>
+                            <p class="juhe_desc_p1">全国汽车时刻表查询</p>
                             <div class="juhe_desc_p2 clearfix">
-                                <span class="juheicon1"><font>浏览量：</font>37479</span>
-                                <span class="juheicon2"><font>连接应用数：</font>1977</span>
+                                <span class="juheicon1"><font>浏览量：</font>21035</span>
+                                <span class="juheicon2"><font>连接应用数：</font>1653</span>
+                                <span class="juheicon3"><font>收藏数：</font>12</span>
+                            </div>
+                            <p class="juheapi_price">
+                                                                    <span><font color="#28da84">免费</font>/无限次</span>
+                                                            </p>
+                            <div class="freeuserBtn">
+                                                                <a href="/docs/api/id/82" title="长途汽车信息 接口">立即使用</a>
+                                                                                                <span>申请即送100次</span>
+                                                            </div>
+                        </div>
+                    </li>
+                                        <li>
+                        <div class="juheapis_desc clearfix">
+                        	<!--五周年活动 icon-->
+		                				                	<!--五周年活动 icon end-->
+                            <a href="/docs/api/id/69" title="简/繁/火星字体转换 接口"><img src="https://www.juhe.cn/themes/images/data/new/a69.png"/></a>
+                            <h2>
+                                <a href="/docs/api/id/69" title="简/繁/火星字体转换 接口">简/繁/火星字体转换</a>
+                                <span>
+                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
+                            </h2>
+                            <p class="juhe_desc_p1">实现简体、繁体、火星文之间的转换</p>
+                            <div class="juhe_desc_p2 clearfix">
+                                <span class="juheicon1"><font>浏览量：</font>9645</span>
+                                <span class="juheicon2"><font>连接应用数：</font>794</span>
+                                <span class="juheicon3"><font>收藏数：</font>16</span>
+                            </div>
+                            <p class="juheapi_price">
+                                                                    <span><font color="#28da84">免费</font>/无限次</span>
+                                                            </p>
+                            <div class="freeuserBtn">
+                                                                <a href="/docs/api/id/69" title="简/繁/火星字体转换 接口">立即使用</a>
+                                                                                                <span>申请即送500次</span>
+                                                            </div>
+                        </div>
+                    </li>
+                                        <li>
+                        <div class="juheapis_desc clearfix">
+                        	<!--五周年活动 icon-->
+		                				                	<!--五周年活动 icon end-->
+                            <a href="/docs/api/id/68" title="域名备案查询 接口"><img src="https://www.juhe.cn/themes/images/data/new/a68.png"/></a>
+                            <h2>
+                                <a href="/docs/api/id/68" title="域名备案查询 接口">域名备案查询</a>
+                                <span>
+                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
+                            </h2>
+                            <p class="juhe_desc_p1">ICP备案查询</p>
+                            <div class="juhe_desc_p2 clearfix">
+                                <span class="juheicon1"><font>浏览量：</font>15839</span>
+                                <span class="juheicon2"><font>连接应用数：</font>1160</span>
+                                <span class="juheicon3"><font>收藏数：</font>2</span>
+                            </div>
+                            <p class="juheapi_price">
+                                                                                                        <span><font color="#f0767f">￥89.00</font>/2000次</span>
+                                                                                                </p>
+                            <div class="freeuserBtn">
+                                                                <a href="/docs/api/id/68" title="域名备案查询 接口">免费试用</a>
+                                                                                                <span>申请即送10次</span>
+                                                            </div>
+                        </div>
+                    </li>
+                                        <li>
+                        <div class="juheapis_desc clearfix">
+                        	<!--五周年活动 icon-->
+		                				                	<!--五周年活动 icon end-->
+                            <a href="/docs/api/id/1" title="IP地址 接口"><img src="https://www.juhe.cn/themes/images/data/new/a1.png"/></a>
+                            <h2>
+                                <a href="/docs/api/id/1" title="IP地址 接口">IP地址</a>
+                                <span>
+                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
+                            </h2>
+                            <p class="juhe_desc_p1">根据查询的IP地址或者域名，查询该IP所属的区域</p>
+                            <div class="juhe_desc_p2 clearfix">
+                                <span class="juheicon1"><font>浏览量：</font>59230</span>
+                                <span class="juheicon2"><font>连接应用数：</font>7126</span>
+                                <span class="juheicon3"><font>收藏数：</font>20</span>
+                            </div>
+                            <p class="juheapi_price">
+                                                                    <span><font color="#28da84">免费</font>/无限次</span>
+                                                            </p>
+                            <div class="freeuserBtn">
+                                                                <a href="/docs/api/id/1" title="IP地址 接口">立即使用</a>
+                                                                                                <span>申请即送1000次</span>
+                                                            </div>
+                        </div>
+                    </li>
+                                        <li>
+                        <div class="juheapis_desc clearfix">
+                        	<!--五周年活动 icon-->
+		                				                	<!--五周年活动 icon end-->
+                            <a href="/docs/api/id/66" title="邮编查询 接口"><img src="https://www.juhe.cn/themes/images/data/new/a66.png"/></a>
+                            <h2>
+                                <a href="/docs/api/id/66" title="邮编查询 接口">邮编查询</a>
+                                <span>
+                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
+                            </h2>
+                            <p class="juhe_desc_p1">提供全国邮政编码大全,为你快速准确查邮编</p>
+                            <div class="juhe_desc_p2 clearfix">
+                                <span class="juheicon1"><font>浏览量：</font>22639</span>
+                                <span class="juheicon2"><font>连接应用数：</font>1853</span>
+                                <span class="juheicon3"><font>收藏数：</font>14</span>
+                            </div>
+                            <p class="juheapi_price">
+                                                                    <span><font color="#28da84">免费</font>/无限次</span>
+                                                            </p>
+                            <div class="freeuserBtn">
+                                                                <a href="/docs/api/id/66" title="邮编查询 接口">立即使用</a>
+                                                                                                <span>申请即送100次</span>
+                                                            </div>
+                        </div>
+                    </li>
+                                        <li>
+                        <div class="juheapis_desc clearfix">
+                        	<!--五周年活动 icon-->
+		                				                	<!--五周年活动 icon end-->
+                            <a href="/docs/api/id/65" title="老黄历 接口"><img src="https://www.juhe.cn/themes/images/data/new/a65.png"/></a>
+                            <h2>
+                                <a href="/docs/api/id/65" title="老黄历 接口">老黄历</a>
+                                <span>
+                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
+                            </h2>
+                            <p class="juhe_desc_p1">提供老黄历查询,黄历每日吉凶宜忌查询</p>
+                            <div class="juhe_desc_p2 clearfix">
+                                <span class="juheicon1"><font>浏览量：</font>21140</span>
+                                <span class="juheicon2"><font>连接应用数：</font>1997</span>
+                                <span class="juheicon3"><font>收藏数：</font>14</span>
+                            </div>
+                            <p class="juheapi_price">
+                                                                    <span><font color="#28da84">免费</font>/无限次</span>
+                                                            </p>
+                            <div class="freeuserBtn">
+                                                                <a href="/docs/api/id/65" title="老黄历 接口">立即使用</a>
+                                                                                                <span>申请即送100次</span>
+                                                            </div>
+                        </div>
+                    </li>
+                                        <li>
+                        <div class="juheapis_desc clearfix">
+                        	<!--五周年活动 icon-->
+		                				                	<!--五周年活动 icon end-->
+                            <a href="/docs/api/id/63" title="历史上的今天 接口"><img src="https://www.juhe.cn/themes/images/data/new/a63.png"/></a>
+                            <h2>
+                                <a href="/docs/api/id/63" title="历史上的今天 接口">历史上的今天</a>
+                                <span>
+                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
+                            </h2>
+                            <p class="juhe_desc_p1">回顾历史的长河，历史是生活的一面镜子</p>
+                            <div class="juhe_desc_p2 clearfix">
+                                <span class="juheicon1"><font>浏览量：</font>38676</span>
+                                <span class="juheicon2"><font>连接应用数：</font>4511</span>
+                                <span class="juheicon3"><font>收藏数：</font>38</span>
+                            </div>
+                            <p class="juheapi_price">
+                                                                    <span><font color="#28da84">免费</font>/无限次</span>
+                                                            </p>
+                            <div class="freeuserBtn">
+                                                                <a href="/docs/api/id/63" title="历史上的今天 接口">立即使用</a>
+                                                                                                <span>申请即送100次</span>
+                                                            </div>
+                        </div>
+                    </li>
+                                        <li>
+                        <div class="juheapis_desc clearfix">
+                        	<!--五周年活动 icon-->
+		                				                	<!--五周年活动 icon end-->
+                            <a href="/docs/api/id/64" title="周公解梦 接口"><img src="https://www.juhe.cn/themes/images/data/new/a64.png"/></a>
+                            <h2>
+                                <a href="/docs/api/id/64" title="周公解梦 接口">周公解梦</a>
+                                <span>
+                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
+                            </h2>
+                            <p class="juhe_desc_p1">周公解梦,周公解梦大全,周公解梦查询，免费周公解梦</p>
+                            <div class="juhe_desc_p2 clearfix">
+                                <span class="juheicon1"><font>浏览量：</font>26270</span>
+                                <span class="juheicon2"><font>连接应用数：</font>2542</span>
                                 <span class="juheicon3"><font>收藏数：</font>11</span>
                             </div>
                             <p class="juheapi_price">
                                                                     <span><font color="#28da84">免费</font>/无限次</span>
                                                             </p>
                             <div class="freeuserBtn">
-                                                                <a href="/docs/api/id/80" title="汇率 接口">立即使用</a>
+                                                                <a href="/docs/api/id/64" title="周公解梦 接口">立即使用</a>
                                                                                                 <span>申请即送100次</span>
                                                             </div>
                         </div>
@@ -343,23 +540,23 @@
                         <div class="juheapis_desc clearfix">
                         	<!--五周年活动 icon-->
 		                				                	<!--五周年活动 icon end-->
-                            <a href="/docs/api/id/18" title="全国WIFI 接口"><img src="/themes/images/data/new/a18.png"/></a>
+                            <a href="/docs/api/id/11" title="手机号码归属地 接口"><img src="https://www.juhe.cn/themes/images/data/new/a11.png"/></a>
                             <h2>
-                                <a href="/docs/api/id/18" title="全国WIFI 接口">全国WIFI</a>
+                                <a href="/docs/api/id/11" title="手机号码归属地 接口">手机号码归属地</a>
                                 <span>
                                     <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
-                            <p class="juhe_desc_p1">全国免费的WIFI热点分布</p>
+                            <p class="juhe_desc_p1">根据手机号码或手机号码的前7位，查询手机号码归属地信息，包括省份 、城市、区号、邮编、运营商和卡类型。</p>
                             <div class="juhe_desc_p2 clearfix">
-                                <span class="juheicon1"><font>浏览量：</font>37445</span>
-                                <span class="juheicon2"><font>连接应用数：</font>3130</span>
-                                <span class="juheicon3"><font>收藏数：</font>19</span>
+                                <span class="juheicon1"><font>浏览量：</font>78194</span>
+                                <span class="juheicon2"><font>连接应用数：</font>9855</span>
+                                <span class="juheicon3"><font>收藏数：</font>45</span>
                             </div>
                             <p class="juheapi_price">
                                                                     <span><font color="#28da84">免费</font>/无限次</span>
                                                             </p>
                             <div class="freeuserBtn">
-                                                                <a href="/docs/api/id/18" title="全国WIFI 接口">立即使用</a>
+                                                                <a href="/docs/api/id/11" title="手机号码归属地 接口">立即使用</a>
                                                                                                 <span>申请即送1000次</span>
                                                             </div>
                         </div>
@@ -368,49 +565,23 @@
                         <div class="juheapis_desc clearfix">
                         	<!--五周年活动 icon-->
 		                				                	<!--五周年活动 icon end-->
-                            <a href="/docs/api/id/23" title="货币汇率 接口"><img src="/themes/images/data/new/a23.png"/></a>
+                            <a href="/docs/api/id/45" title="餐饮美食 接口"><img src="https://www.juhe.cn/themes/images/data/new/a45.png"/></a>
                             <h2>
-                                <a href="/docs/api/id/23" title="货币汇率 接口">货币汇率</a>
+                                <a href="/docs/api/id/45" title="餐饮美食 接口">餐饮美食</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
+                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
-                            <p class="juhe_desc_p1">支持人民币牌价、外汇汇率查询；数据仅供参考，交易时以银行柜台成交价为准</p>
+                            <p class="juhe_desc_p1">提供周边美食餐厅检索</p>
                             <div class="juhe_desc_p2 clearfix">
-                                <span class="juheicon1"><font>浏览量：</font>37286</span>
-                                <span class="juheicon2"><font>连接应用数：</font>3128</span>
-                                <span class="juheicon3"><font>收藏数：</font>19</span>
+                                <span class="juheicon1"><font>浏览量：</font>50982</span>
+                                <span class="juheicon2"><font>连接应用数：</font>7666</span>
+                                <span class="juheicon3"><font>收藏数：</font>11</span>
                             </div>
                             <p class="juheapi_price">
-                                                                    <span><font color="#28da84">免费</font>/无限次</span>
-                                                            </p>
-                            <div class="freeuserBtn">
-                                                                <a href="/docs/api/id/23" title="货币汇率 接口">立即使用</a>
-                                                                                                <span>申请即送100次</span>
-                                                            </div>
-                        </div>
-                    </li>
-                                        <li>
-                        <div class="juheapis_desc clearfix">
-                        	<!--五周年活动 icon-->
-		                				                	<!--五周年活动 icon end-->
-                            <a href="/docs/api/id/143" title="健康知识 接口"><img src="/themes/images/data/new/a143.png"/></a>
-                            <h2>
-                                <a href="/docs/api/id/143" title="健康知识 接口">健康知识</a>
-                                <span>
-                                                                        <label class="color_auto">天狗云</label>
-                                                                                                        </span>
-                            </h2>
-                            <p class="juhe_desc_p1">打造专业的知识文化提供平台，提供免费开放的数据接口。我们将会用最全新的方式， 提供专业的文化知识。</p>
-                            <div class="juhe_desc_p2 clearfix">
-                                <span class="juheicon1"><font>浏览量：</font>36648</span>
-                                <span class="juheicon2"><font>连接应用数：</font>3488</span>
-                                <span class="juheicon3"><font>收藏数：</font>9</span>
-                            </div>
-                            <p class="juheapi_price">
-                                                                                                        <span><font color="#f0767f">￥89.00</font>/10000次</span>
+                                                                                                        <span><font color="#f0767f">￥64.00</font>/10000次</span>
                                                                                                 </p>
                             <div class="freeuserBtn">
-                                                                <a href="/docs/api/id/143" title="健康知识 接口">免费试用</a>
+                                                                <a href="/docs/api/id/45" title="餐饮美食 接口">免费试用</a>
                                                                                                 <span>申请即送100次</span>
                                                             </div>
                         </div>
@@ -419,110 +590,7 @@
                         <div class="juheapis_desc clearfix">
                         	<!--五周年活动 icon-->
 		                				                	<!--五周年活动 icon end-->
-                            <a href="/docs/api/id/109" title="小说大全 接口"><img src="/themes/images/data/new/a109.png"/></a>
-                            <h2>
-                                <a href="/docs/api/id/109" title="小说大全 接口">小说大全</a>
-                                <span>
-                                                                        <label class="color_auto">固实科技</label>
-                                                                                                        </span>
-                            </h2>
-                            <p class="juhe_desc_p1">海量小说资源，种类丰富。</p>
-                            <div class="juhe_desc_p2 clearfix">
-                                <span class="juheicon1"><font>浏览量：</font>36581</span>
-                                <span class="juheicon2"><font>连接应用数：</font>3827</span>
-                                <span class="juheicon3"><font>收藏数：</font>5</span>
-                            </div>
-                            <p class="juheapi_price">
-                                                                                                        <span><font color="#f0767f">￥89.00</font>/20000次</span>
-                                                                                                </p>
-                            <div class="freeuserBtn">
-                                                                <a href="/docs/api/id/109" title="小说大全 接口">免费试用</a>
-                                                                                                <span>申请即送100次</span>
-                                                            </div>
-                        </div>
-                    </li>
-                                        <li>
-                        <div class="juheapis_desc clearfix">
-                        	<!--五周年活动 icon-->
-		                				                	<!--五周年活动 icon end-->
-                            <a href="/docs/api/id/147" title="微信精选 接口"><img src="/themes/images/data/new/a147.png"/></a>
-                            <h2>
-                                <a href="/docs/api/id/147" title="微信精选 接口">微信精选</a>
-                                <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
-                            </h2>
-                            <p class="juhe_desc_p1">微信精选全新上线</p>
-                            <div class="juhe_desc_p2 clearfix">
-                                <span class="juheicon1"><font>浏览量：</font>36504</span>
-                                <span class="juheicon2"><font>连接应用数：</font>4452</span>
-                                <span class="juheicon3"><font>收藏数：</font>36</span>
-                            </div>
-                            <p class="juheapi_price">
-                                                                    <span><font color="#28da84">免费</font>/无限次</span>
-                                                            </p>
-                            <div class="freeuserBtn">
-                                                                <a href="/docs/api/id/147" title="微信精选 接口">立即使用</a>
-                                                                                                <span>申请即送1000次</span>
-                                                            </div>
-                        </div>
-                    </li>
-                                        <li>
-                        <div class="juheapis_desc clearfix">
-                        	<!--五周年活动 icon-->
-		                				                	<!--五周年活动 icon end-->
-                            <a href="/docs/api/id/94" title="影视影讯检索 接口"><img src="/themes/images/data/new/a94.png"/></a>
-                            <h2>
-                                <a href="/docs/api/id/94" title="影视影讯检索 接口">影视影讯检索</a>
-                                <span>
-                                                                        <label class="color_auto">360搜索</label>
-                                                                        <label class="color_mianfei">免费</label>                                </span>
-                            </h2>
-                            <p class="juhe_desc_p1">影视信息播放链接检索，城市影讯检索</p>
-                            <div class="juhe_desc_p2 clearfix">
-                                <span class="juheicon1"><font>浏览量：</font>36011</span>
-                                <span class="juheicon2"><font>连接应用数：</font>3102</span>
-                                <span class="juheicon3"><font>收藏数：</font>28</span>
-                            </div>
-                            <p class="juheapi_price">
-                                                                    <span><font color="#28da84">免费</font>/无限次</span>
-                                                            </p>
-                            <div class="freeuserBtn">
-                                                                <a href="/docs/api/id/94" title="影视影讯检索 接口">立即使用</a>
-                                                                                                <span>申请即送100次</span>
-                                                            </div>
-                        </div>
-                    </li>
-                                        <li>
-                        <div class="juheapis_desc clearfix">
-                        	<!--五周年活动 icon-->
-		                				                	<!--五周年活动 icon end-->
-                            <a href="/docs/api/id/121" title="笑话大全 接口"><img src="/themes/images/data/new/a121.png"/></a>
-                            <h2>
-                                <a href="/docs/api/id/121" title="笑话大全 接口">笑话大全</a>
-                                <span>
-                                                                        <label class="color_auto">固实科技</label>
-                                                                                                        </span>
-                            </h2>
-                            <p class="juhe_desc_p1">笑话大全</p>
-                            <div class="juhe_desc_p2 clearfix">
-                                <span class="juheicon1"><font>浏览量：</font>35720</span>
-                                <span class="juheicon2"><font>连接应用数：</font>5962</span>
-                                <span class="juheicon3"><font>收藏数：</font>5</span>
-                            </div>
-                            <p class="juheapi_price">
-                                                                                                        <span><font color="#f0767f">￥99.00</font>/10000次</span>
-                                                                                                </p>
-                            <div class="freeuserBtn">
-                                                                <a href="/docs/api/id/121" title="笑话大全 接口">免费试用</a>
-                                                                                                <span>申请即送100次</span>
-                                                            </div>
-                        </div>
-                    </li>
-                                        <li>
-                        <div class="juheapis_desc clearfix">
-                        	<!--五周年活动 icon-->
-		                				                	<!--五周年活动 icon end-->
-                            <a href="/docs/api/id/58" title="星座运势 接口"><img src="/themes/images/data/new/a58.png"/></a>
+                            <a href="/docs/api/id/58" title="星座运势 接口"><img src="https://www.juhe.cn/themes/images/data/new/a58.png"/></a>
                             <h2>
                                 <a href="/docs/api/id/58" title="星座运势 接口">星座运势</a>
                                 <span>
@@ -530,7 +598,7 @@
                             </h2>
                             <p class="juhe_desc_p1">十二星座每日、每月、每年运势</p>
                             <div class="juhe_desc_p2 clearfix">
-                                <span class="juheicon1"><font>浏览量：</font>35393</span>
+                                <span class="juheicon1"><font>浏览量：</font>35415</span>
                                 <span class="juheicon2"><font>连接应用数：</font>4781</span>
                                 <span class="juheicon3"><font>收藏数：</font>37</span>
                             </div>
@@ -547,100 +615,24 @@
                         <div class="juheapis_desc clearfix">
                         	<!--五周年活动 icon-->
 		                				                	<!--五周年活动 icon end-->
-                            <a href="/docs/api/id/52" title="条码查询 接口"><img src="/themes/images/data/new/a52.png"/></a>
+                            <a href="/docs/api/id/54" title="短信API服务 接口"><img src="https://www.juhe.cn/themes/images/data/new/a54.png"/></a>
                             <h2>
-                                <a href="/docs/api/id/52" title="条码查询 接口">条码查询</a>
+                                <a href="/docs/api/id/54" title="短信API服务 接口">短信API服务</a>
                                 <span>
                                     <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
-                            <p class="juhe_desc_p1">提供全网商品条码比价</p>
+                            <p class="juhe_desc_p1">稳定的短信发送API，低至3.7分/条；【请务必添加图片验证码等防恶意攻击的机制，以防短信轰炸】。</p>
                             <div class="juhe_desc_p2 clearfix">
-                                <span class="juheicon1"><font>浏览量：</font>35293</span>
-                                <span class="juheicon2"><font>连接应用数：</font>4528</span>
-                                <span class="juheicon3"><font>收藏数：</font>6</span>
+                                <span class="juheicon1"><font>浏览量：</font>293167</span>
+                                <span class="juheicon2"><font>连接应用数：</font>14751</span>
+                                <span class="juheicon3"><font>收藏数：</font>108</span>
                             </div>
                             <p class="juheapi_price">
-                                                                                                        <span><font color="#f0767f">￥499.00</font>/10000次</span>
+                                                                                                        <span><font color="#f0767f">￥39.00</font>/1000次</span>
                                                                                                 </p>
                             <div class="freeuserBtn">
-                                                                <a href="/docs/api/id/52" title="条码查询 接口">免费试用</a>
-                                                                                                <span>申请即送50次</span>
-                                                            </div>
-                        </div>
-                    </li>
-                                        <li>
-                        <div class="juheapis_desc clearfix">
-                        	<!--五周年活动 icon-->
-		                				                	<!--五周年活动 icon end-->
-                            <a href="/docs/api/id/15" title="经纬度地址解析 接口"><img src="/themes/images/data/new/a15.png"/></a>
-                            <h2>
-                                <a href="/docs/api/id/15" title="经纬度地址解析 接口">经纬度地址解析</a>
-                                <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
-                            </h2>
-                            <p class="juhe_desc_p1">根据提供的谷歌地图坐标、百度地图坐标或GPS坐标，查询位置信息</p>
-                            <div class="juhe_desc_p2 clearfix">
-                                <span class="juheicon1"><font>浏览量：</font>35159</span>
-                                <span class="juheicon2"><font>连接应用数：</font>5609</span>
-                                <span class="juheicon3"><font>收藏数：</font>6</span>
-                            </div>
-                            <p class="juheapi_price">
-                                                                                                        <span><font color="#f0767f">￥49.00</font>/5000次</span>
-                                                                                                </p>
-                            <div class="freeuserBtn">
-                                                                <a href="/docs/api/id/15" title="经纬度地址解析 接口">免费试用</a>
-                                                                                                <span>申请即送100次</span>
-                                                            </div>
-                        </div>
-                    </li>
-                                        <li>
-                        <div class="juheapis_desc clearfix">
-                        	<!--五周年活动 icon-->
-		                				                	<!--五周年活动 icon end-->
-                            <a href="/docs/api/id/25" title="净值数据 接口"><img src="/themes/images/data/new/a25.png"/></a>
-                            <h2>
-                                <a href="/docs/api/id/25" title="净值数据 接口">净值数据</a>
-                                <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
-                            </h2>
-                            <p class="juhe_desc_p1">净值数据</p>
-                            <div class="juhe_desc_p2 clearfix">
-                                <span class="juheicon1"><font>浏览量：</font>34348</span>
-                                <span class="juheicon2"><font>连接应用数：</font>1766</span>
-                                <span class="juheicon3"><font>收藏数：</font>11</span>
-                            </div>
-                            <p class="juheapi_price">
-                                                                    <span><font color="#28da84">免费</font>/无限次</span>
-                                                            </p>
-                            <div class="freeuserBtn">
-                                                                <a href="/docs/api/id/25" title="净值数据 接口">立即使用</a>
-                                                                                                <span>申请即送100次</span>
-                                                            </div>
-                        </div>
-                    </li>
-                                        <li>
-                        <div class="juheapis_desc clearfix">
-                        	<!--五周年活动 icon-->
-		                				                	<!--五周年活动 icon end-->
-                            <a href="/docs/api/id/90" title="足球联赛 接口"><img src="/themes/images/data/new/a90.png"/></a>
-                            <h2>
-                                <a href="/docs/api/id/90" title="足球联赛 接口">足球联赛</a>
-                                <span>
-                                                                        <label class="color_auto">360搜索</label>
-                                                                        <label class="color_mianfei">免费</label>                                </span>
-                            </h2>
-                            <p class="juhe_desc_p1">目前支持 英超，西甲，德甲，意甲，法甲，中超等赛事</p>
-                            <div class="juhe_desc_p2 clearfix">
-                                <span class="juheicon1"><font>浏览量：</font>32771</span>
-                                <span class="juheicon2"><font>连接应用数：</font>1877</span>
-                                <span class="juheicon3"><font>收藏数：</font>12</span>
-                            </div>
-                            <p class="juheapi_price">
-                                                                    <span><font color="#28da84">免费</font>/无限次</span>
-                                                            </p>
-                            <div class="freeuserBtn">
-                                                                <a href="/docs/api/id/90" title="足球联赛 接口">立即使用</a>
-                                                                                                <span>申请即送100次</span>
+                                                                <a href="/docs/api/id/54" title="短信API服务 接口">免费试用</a>
+                                                                                                <span>申请即送10次</span>
                                                             </div>
                         </div>
                     </li>
@@ -648,7 +640,7 @@
                 <!-- api list end -->
                 <!-- paging start -->
                 <div id="juheapi_paging">
-                    <a href='/docs/index/sortby/1/page/2' title='上一页' class="juheapi_prev">上一页</a><a href='/docs/index/sortby/1/page/1'>1</a><a href='/docs/index/sortby/1/page/2'>2</a><a href='javascript:void(0)' class="pageSel">3</a><a href='/docs/index/sortby/1/page/4'>4</a><a href='/docs/index/sortby/1/page/5'>5</a><a href='/docs/index/sortby/1/page/6'>6</a><a href='/docs/index/sortby/1/page/7'>7</a><a href='/docs/index/sortby/1/page/8'>8</a><a href='/docs/index/sortby/1/page/4' title='下一页' class="juheapi_next" >下一页</a>                </div>
+                    <a href='/docs/index/sortby/2/page/4' title='上一页' class="juheapi_prev">上一页</a><a href='/docs/index/sortby/2/page/1'>1</a><a href='/docs/index/sortby/2/page/2'>2</a><a href='/docs/index/sortby/2/page/3'>3</a><a href='/docs/index/sortby/2/page/4'>4</a><a href='javascript:void(0)' class="pageSel">5</a><a href='/docs/index/sortby/2/page/6'>6</a><a href='/docs/index/sortby/2/page/7'>7</a><a href='/docs/index/sortby/2/page/8'>8</a><a href='/docs/index/sortby/2/page/6' title='下一页' class="juheapi_next" >下一页</a>                </div>
                 <!--paging end-->
             </div>
         </div>
@@ -657,14 +649,17 @@
         <div class="width1200_v4 footerContent_v4 clearfix">
             <div class="footer1_v4">
                 <div class="footerLogo"><a href="https://www.juhe.cn"><img width="238" height="33" src="/themes/v4/public/images/footerLogo.png" alt="聚合数据"/></a></div>
-                <p>京 ICP 备 16034375 号ShareApi©版权所有</p>
+                <p>苏州新科兰德科技有限公司©版权所有</p>
+                <p><a href="http://www.miitbeian.gov.cn/" target="_blank" style="color: #999;">苏ICP备14006450号-3</a></p>
+                <p>增值电信业务经营许可证：苏B2-20140496</p>
                 <div class="footerContact">400-8827-715</div>
             </div>
             <dl class="footerDl_v4">
                 <dt>首页</dt>
                 <dd><a href="/docs" rel="nofollow">API</a></dd>
-                <dd><a href="/docs" rel="nofollow">价格</a></dd>
+                <dd><a href="/price" rel="nofollow">价格</a></dd>
                 <dd><a href="javascript:void(0);" rel="nofollow">活动</a></dd>
+                <dd><a href="/news/listview" rel="nofollow">动态</a></dd>
                 <dd><a href="/contact" rel="nofollow">商务合作</a></dd>
                 <!--<dd><a href="">企业服务</a></dd>-->
             </dl>
@@ -681,7 +676,7 @@
             <dl class="footerDl_v4" style="border-right: 1px solid #e7e7e7;">
                 <dt>聚合工具</dt>
                 <dd><a href="/box">聚盒子</a></dd>
-                <dd><a href="/d/cellmap">聚合基站</a></dd>
+                <dd><a href="https://www.juhe.cn/d/cellmap">聚合基站</a></dd>
                 <dd><a href="http://www.wodiche.cn" target="_blank">车辆违章查询</a></dd>
                 <dd><a href="http://lbs.juhe.cn">LBS聚合</a></dd>
                 <dd><a href="http://tools.juhe.cn">聚合工具</a></dd>
@@ -710,13 +705,13 @@
 #juhegoTop span{display: none; width: 82px; height: 27px; padding-right:6px; line-height: 27px; background: url(/themes/v4/public/images/topTipsBg.png) no-repeat; font-size: 12px; color: #fff; font-family: "microsoft yahei"; text-align: center; position: absolute; top: 12px; right: 55px;}
 #tools_goTop{display: none;margin-top: 6px;}
 </style>
-<ul id="juhegoTop" style="display:none">
+<ul id="juhegoTop">
 	<li id="tools_qq">
 		<a rel="nofollow" href="http://crm2.qq.com/page/portalpage/wpa.php?uin=800076065&f=1&ty=1&aty=0&a=&from=6" target="_blank"></a>
 		<span>QQ客服</span>
 	</li>
 	<li id="tools_contact">
-		<a rel="nofollow" href="/contact" target="_blank"></a>
+		<a rel="nofollow" href="https://www.juhe.cn/contact" target="_blank"></a>
 		<span>联系我们</span>
 	</li>
 	<li id="tools_feedback">

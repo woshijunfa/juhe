@@ -198,7 +198,6 @@ function logout(){
 						<a title="国外API检索" target="_blank" href="/foreign">国外API检索</a>
 					</div>
 				</li>
-				<li ><a href="/qa" title="常见问题"><strong>常见问题</strong><span>Q&A </span></a></li>
 				
                 <li style="border-right:1px solid #0091d0;"  ><a href="/docs" title="资费说明"><strong>资费问题</strong><span>Pricing</span></a></li>
 				
@@ -294,7 +293,6 @@ function code_num(htmlCode){
     <li id="devdocs">Windows Phone SDK 开发指南</li>
     <li ><a href="/juhesdk/wdocs/v/1">&nbsp;└&nbsp; SDK v1.x</a></li>
     <li ><a href="/juhesdk/update">更新日志</a></li>
-    <li ><a href="/juhesdk/qa">常见问题</a></li>
     <li ><a href="/juhesdk/download">相关下载</a></li>
 </ul>
 <!--<script language="javascript" src="http://www.juhe.cn/themes/js/jquery.min.js"></script>-->
