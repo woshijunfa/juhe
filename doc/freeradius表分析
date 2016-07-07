@@ -17,7 +17,13 @@ grep -rl "id=\"juhegoTop" ./ |xargs sed -i -e 's/id="juhegoTop"/id="juhegoTop" s
 #删除-e文件
  find  ./ -name "*.blade.php-e*"|xargs rm -r
 
+#修正httpsimag
+grep -rl "src=\"https://www.shareapi.com" ./|xargs sudo sed -i -e "s/src=\"https:\/\/www.shareapi.com/src=\"/g"
 
+#git删除-e文件
+find  ./ -name "*.blade.php-e*"|xargs git rm
+
+#删除各种icon
 
 ########resource view下执行命令#######
 grep -rl "/news/listview" ./|xargs sudo sed -i "" "/news\/listview/d"
@@ -26,9 +32,10 @@ grep -rl "/qa" ./|xargs sudo sed -i "" "/\/qa/d"
 grep -rl "id=\"juhegoTop" ./ |xargs sudo sed -i -e 's/id="juhegoTop"/id="juhegoTop" style="display:none"/g'
 grep -rl "/qa" ./|xargs sudo sed -i "" "/\/qa/d"
 grep -rl "苏州新科兰德科技有限公司" ./|xargs sudo sed -i -e "s/苏州新科兰德科技有限公司/京 ICP 备 16034375 号ShareApi/g"
+grep -rl "聚合" ./|xargs sudo sed -i -e "s/聚合/分享/g"
 grep -rl "备14006450" ./|xargs sudo sed -i "" "/备14006450/d"
 find  ./ -name "*.blade.php-e*"|xargs sudo rm -r
-
-
+grep -rl "color_https" ./|xargs sudo sed -i "" "/color_https/d"
+grep -rl "color_disanfang" ./|xargs sudo sed -i "" "/color_https/d"
 
 
