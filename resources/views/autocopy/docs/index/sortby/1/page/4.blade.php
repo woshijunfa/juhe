@@ -63,7 +63,7 @@
                 <!--<a href="">活动</a>-->
                 <!--<a href="/docs" title="资费价格" >价格</a>-->
                 <!--<a href="/contact" >商务合作</a>-->
-                <!-- <a href="http://open.juhe.cn">发布服务</a> -->
+                <!-- <a href="http://open.shareapi.com">发布服务</a> -->
                 <!--<a href="">企业服务</a>
                 <a href="">聚合国际造型</a>-->
                 <a class="contact_v4" href="/contact">联系我们</a>
@@ -646,7 +646,7 @@
     <footer class="width100_v4">
         <div class="width1200_v4 footerContent_v4 clearfix">
             <div class="footer1_v4">
-                <div class="footerLogo"><a href="https://www.juhe.cn"><img width="238" height="33" src="/themes/v4/public/images/footerLogo.png" alt="聚合数据"/></a></div>
+                <div class="footerLogo"><a href="https://www.shareapi.com"><img width="238" height="33" src="/themes/v4/public/images/footerLogo.png" alt="聚合数据"/></a></div>
                 <p>京 ICP 备 16034375 号ShareApi©版权所有</p>
                 <div class="footerContact">400-8827-715</div>
             </div>
@@ -673,9 +673,9 @@
                 <dd><a href="/box">聚盒子</a></dd>
                 <dd><a href="/d/cellmap">聚合基站</a></dd>
                 <dd><a href="http://www.wodiche.cn" target="_blank">车辆违章查询</a></dd>
-                <dd><a href="http://lbs.juhe.cn">LBS聚合</a></dd>
-                <dd><a href="http://tools.juhe.cn">聚合工具</a></dd>
-                <dd><a href="https://code.juhe.cn">聚合代码</a></dd>
+                <dd><a href="http://lbs.shareapi.com">LBS聚合</a></dd>
+                <dd><a href="http://tools.shareapi.com">聚合工具</a></dd>
+                <dd><a href="https://code.shareapi.com">聚合代码</a></dd>
                 <dd><a href="/foreign">国外API检索</a></dd>
             </dl>
             <div class="juheCode_v4">
@@ -700,7 +700,7 @@
 #juhegoTop span{display: none; width: 82px; height: 27px; padding-right:6px; line-height: 27px; background: url(/themes/v4/public/images/topTipsBg.png) no-repeat; font-size: 12px; color: #fff; font-family: "microsoft yahei"; text-align: center; position: absolute; top: 12px; right: 55px;}
 #tools_goTop{display: none;margin-top: 6px;}
 </style>
-<ul id="juhegoTop" style="display:none" style="display:none">
+<ul id="juhegoTop" style="display:none" style="display:none" style="display:none" style="display:none" style="display:none">
 	<li id="tools_qq">
 		<a rel="nofollow" href="http://crm2.qq.com/page/portalpage/wpa.php?uin=800076065&f=1&ty=1&aty=0&a=&from=6" target="_blank"></a>
 		<span>QQ客服</span>

@@ -5,7 +5,7 @@
 <title>聚合数据-手机号码注册</title>
 <link rel="stylesheet" type="text/css" href="/themes/v5/public/css/reset.css"/>
 <link rel="stylesheet" type="text/css" href="/themes/v5/public/css/regstyle.css"/>
-<script src="//cdn.juheapi.com/common/baidu.js" type="text/javascript" charset="utf-8"></script>
+<script src="//cdn.shareapi.com/common/baidu.js" type="text/javascript" charset="utf-8"></script>
 </head>
 <body>
 	<div class="registerContent">

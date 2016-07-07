@@ -65,7 +65,7 @@
                 <!--<a href="">活动</a>-->
                 <!--<a href="/docs" title="资费价格" >价格</a>-->
                 <!--<a href="/contact" >商务合作</a>-->
-                <!-- <a href="http://open.juhe.cn">发布服务</a> -->
+                <!-- <a href="http://open.shareapi.com">发布服务</a> -->
                 <!--<a href="">企业服务</a>
                 <a href="">聚合国际造型</a>-->
                 <a class="contact_v4" href="/contact">联系我们</a>
@@ -111,7 +111,7 @@
                                     /1000次</span>
                                                                         <span style="color: #f0767f;">（申请即送10次）</span>
                                                                     </p>
-                                                                                        <!-- <p>使用SDK每日免费赠送 10000 次 <a class="youhuia" href="https://www.juhe.cn/docs" target="_blank" rel="nofollow">详情&gt;&gt;</a></p> -->
+                                                                                        <!-- <p>使用SDK每日免费赠送 10000 次 <a class="youhuia" href="https://www.shareapi.com/docs" target="_blank" rel="nofollow">详情&gt;&gt;</a></p> -->
                         </div>
                     </div>
                     <div class="api_data_btns">
@@ -153,12 +153,12 @@
                         </li>
                                             </ul>
                     <div class="das_right">
-                        <div class="simpleline"><strong>接口地址：</strong><span class="url">http://v.juhe.cn/sms/send</span></div>
+                        <div class="simpleline"><strong>接口地址：</strong><span class="url">http://v.shareapi.com/sms/send</span></div>
                         <div class="simpleline"><strong>支持格式：</strong><span class="url">json/xml</span></div>
                         <div class="simpleline"><strong>请求方式：</strong><span class="url">http get</span></div>
-                        <div class="simpleline"><strong>请求示例：</strong><span class="url">http://v.juhe.cn/sms/send?mobile=手机号码&amp;tpl_id=短信模板ID&amp;tpl_value=%23code%23%3D654654&amp;key=</span></div>
+                        <div class="simpleline"><strong>请求示例：</strong><span class="url">http://v.shareapi.com/sms/send?mobile=手机号码&amp;tpl_id=短信模板ID&amp;tpl_value=%23code%23%3D654654&amp;key=</span></div>
 
-                                                <div class="simpleline"><strong>接口备注：</strong><font color="">同1个号码同1个签名的内容30秒内只能发1条，1分钟内只能发2条，30分钟内只能发3条，详细请参考：<a href="http://www.juhe.cn/news/index/id/50" target="_blank"><font color=red>http://www.juhe.cn/news/index/id/50</font></a></font></div>
+                                                <div class="simpleline"><strong>接口备注：</strong><font color="">同1个号码同1个签名的内容30秒内只能发1条，1分钟内只能发2条，30分钟内只能发3条，详细请参考：<a href="http://www.shareapi.com/news/index/id/50" target="_blank"><font color=red>http://www.shareapi.com/news/index/id/50</font></a></font></div>
                         
                                                 <div class="simpleline simpleTable">
                             <strong>请求参数说明：</strong>
@@ -189,7 +189,7 @@
                                     <td class="url">tpl_value</td>
                                     <td class="url">string</td>
                                     <td class="url">是</td>
-                                    <td>变量名和变量值对，如：#code#=431515，整串值需要urlencode，比如正确结果为：%23code%23%3d431515。如果你的变量名或者变量值中带有#&=中的任意一个特殊符号，请先分别进行utf-8 urlencode编码后再传递，<a href="http://www.juhe.cn/news/index/id/50" target="_blank">详细说明></a></td>
+                                    <td>变量名和变量值对，如：#code#=431515，整串值需要urlencode，比如正确结果为：%23code%23%3d431515。如果你的变量名或者变量值中带有#&=中的任意一个特殊符号，请先分别进行utf-8 urlencode编码后再传递，<a href="http://www.shareapi.com/news/index/id/50" target="_blank">详细说明></a></td>
                                   </tr>
                                                                     <tr>
                                     <td>&nbsp;</td>
@@ -439,7 +439,7 @@
                         </table>
                         </div>
                                                 <div class="simpleline simpleTable">
-                            <b>常规套餐包<a href="http://www.juhe.cn/contact" target="_blank"><font color="#FF0000">【更多次数、更多优惠，请与商务联系>>】</font></a></b>
+                            <b>常规套餐包<a href="http://www.shareapi.com/contact" target="_blank"><font color="#FF0000">【更多次数、更多优惠，请与商务联系>>】</font></a></b>
                             <table class="api_table" border="0" cellspacing="0" cellpadding="0">
                                 <tr>
                                     <th width="20">&nbsp;</th>
@@ -584,7 +584,7 @@
     <p>（2） 权利人具体的主体资质和联络信息，包括个人的姓名、身份证或护照复印件、单位的营业执照复印件或者其他资质证明复印件、通信地址及电话号码等；</p>
     <p>（3） 涉嫌侵权内容在本网站上的位置；</p>
     <p>（4） 对侵权情况的详细描述；</p>
-    <p>（5） 在权利通知中加入如下关于通知内容真实性的声明：“由以上操作所引起的一切后果，与聚合无关，由我本人/公司承担。”在签字或加盖公章后发往以下邮箱： info@juhe.cn</p>
+    <p>（5） 在权利通知中加入如下关于通知内容真实性的声明：“由以上操作所引起的一切后果，与聚合无关，由我本人/公司承担。”在签字或加盖公章后发往以下邮箱： info@shareapi.com</p>
 
     <p class="title">六、 隐私权</p>
     <p>1.   保护用户的隐私是聚合的一项基本政策。</p>
@@ -656,7 +656,7 @@
                             <tr>
                                 <td >&nbsp;</td>
                                 <td class="text">技术支持:</td>
-                                <td class="url">info@juhe.cn</td>
+                                <td class="url">info@shareapi.com</td>
                             </tr>
                             <tr>
                                 <td >&nbsp;</td>
@@ -717,10 +717,10 @@
             <h3>活动推荐<span>/Activity</span></h3>
             <ul class="apiActivity">
                 <!--<li>
-                    <a href="https://www.juhe.cn/docs/api/id/54" target="_blank"><img src="/themes/v4/public/images/apiactivity2.png"/></a>
+                    <a href="https://www.shareapi.com/docs/api/id/54" target="_blank"><img src="/themes/v4/public/images/apiactivity2.png"/></a>
                 </li>-->
                                 <li>
-                    <a href="https://free.juhe.cn" target="_blank" title="免费数据第二波"><img src="https://juheimgs.oss-cn-beijing.aliyuncs.com/banner/201606/57639730a1606.png" border="0"/></a>
+                    <a href="https://free.shareapi.com" target="_blank" title="免费数据第二波"><img src="https://juheimgs.oss-cn-beijing.aliyuncs.com/banner/201606/57639730a1606.png" border="0"/></a>
                 </li>
                             </ul>
         </div>
@@ -730,7 +730,7 @@
 <footer class="width100_v4">
         <div class="width1200_v4 footerContent_v4 clearfix">
             <div class="footer1_v4">
-                <div class="footerLogo"><a href="https://www.juhe.cn"><img width="238" height="33" src="/themes/v4/public/images/footerLogo.png" alt="聚合数据"/></a></div>
+                <div class="footerLogo"><a href="https://www.shareapi.com"><img width="238" height="33" src="/themes/v4/public/images/footerLogo.png" alt="聚合数据"/></a></div>
                 <p>京 ICP 备 16034375 号ShareApi©版权所有</p>
                 <div class="footerContact">400-8827-715</div>
             </div>
@@ -755,11 +755,11 @@
             <dl class="footerDl_v4" style="border-right: 1px solid #e7e7e7;">
                 <dt>聚合工具</dt>
                 <dd><a href="/box">聚盒子</a></dd>
-                <dd><a href="https://www.juhe.cn/d/cellmap">聚合基站</a></dd>
+                <dd><a href="https://www.shareapi.com/d/cellmap">聚合基站</a></dd>
                 <dd><a href="http://www.wodiche.cn" target="_blank">车辆违章查询</a></dd>
-                <dd><a href="http://lbs.juhe.cn">LBS聚合</a></dd>
-                <dd><a href="http://tools.juhe.cn">聚合工具</a></dd>
-                <dd><a href="https://code.juhe.cn">聚合代码</a></dd>
+                <dd><a href="http://lbs.shareapi.com">LBS聚合</a></dd>
+                <dd><a href="http://tools.shareapi.com">聚合工具</a></dd>
+                <dd><a href="https://code.shareapi.com">聚合代码</a></dd>
                 <dd><a href="/foreign">国外API检索</a></dd>
             </dl>
             <div class="juheCode_v4">
@@ -784,13 +784,13 @@
 #juhegoTop span{display: none; width: 82px; height: 27px; padding-right:6px; line-height: 27px; background: url(/themes/v4/public/images/topTipsBg.png) no-repeat; font-size: 12px; color: #fff; font-family: "microsoft yahei"; text-align: center; position: absolute; top: 12px; right: 55px;}
 #tools_goTop{display: none;margin-top: 6px;}
 </style>
-<ul id="juhegoTop" style="display:none" style="display:none">
+<ul id="juhegoTop" style="display:none" style="display:none" style="display:none" style="display:none" style="display:none">
 	<li id="tools_qq">
 		<a rel="nofollow" href="http://crm2.qq.com/page/portalpage/wpa.php?uin=800076065&f=1&ty=1&aty=0&a=&from=6" target="_blank"></a>
 		<span>QQ客服</span>
 	</li>
 	<li id="tools_contact">
-		<a rel="nofollow" href="https://www.juhe.cn/contact" target="_blank"></a>
+		<a rel="nofollow" href="https://www.shareapi.com/contact" target="_blank"></a>
 		<span>联系我们</span>
 	</li>
 	<li id="tools_feedback">
@@ -900,7 +900,7 @@ $(document).ready(function(){
     })
 
     var did = 54;
-    $.getJSON("https://code.juhe.cn/api/docsByDid?callback=?", {
+    $.getJSON("https://code.shareapi.com/api/docsByDid?callback=?", {
         "did" : did
       }, function(data) {
           var code = data.code;

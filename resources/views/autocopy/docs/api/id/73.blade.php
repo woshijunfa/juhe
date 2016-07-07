@@ -65,7 +65,7 @@
                 <!--<a href="">活动</a>-->
                 <!--<a href="/docs" title="资费价格" >价格</a>-->
                 <!--<a href="/contact" >商务合作</a>-->
-                <!-- <a href="http://open.juhe.cn">发布服务</a> -->
+                <!-- <a href="http://open.shareapi.com">发布服务</a> -->
                 <!--<a href="">企业服务</a>
                 <a href="">聚合国际造型</a>-->
                 <a class="contact_v4" href="/contact">联系我们</a>
@@ -105,7 +105,7 @@
                         </div>
                         <div class="doc_arguments docPrice">
                                                         <p><span style="color: #28da84; font-size: 16px;">免费</span><span style="color: #888; padding-left: 5px;">/无限次</span></p>
-                                                        <!-- <p>使用SDK每日免费赠送 10000 次 <a class="youhuia" href="https://www.juhe.cn/docs" target="_blank" rel="nofollow">详情&gt;&gt;</a></p> -->
+                                                        <!-- <p>使用SDK每日免费赠送 10000 次 <a class="youhuia" href="https://www.shareapi.com/docs" target="_blank" rel="nofollow">详情&gt;&gt;</a></p> -->
                         </div>
                     </div>
                     <div class="api_data_btns">
@@ -144,10 +144,10 @@
                         </li>
                                             </ul>
                     <div class="das_right">
-                        <div class="simpleline"><strong>接口地址：</strong><span class="url">http://op.juhe.cn/onebox/weather/query</span></div>
+                        <div class="simpleline"><strong>接口地址：</strong><span class="url">http://op.shareapi.com/onebox/weather/query</span></div>
                         <div class="simpleline"><strong>支持格式：</strong><span class="url">json/xml</span></div>
                         <div class="simpleline"><strong>请求方式：</strong><span class="url">http get/post</span></div>
-                        <div class="simpleline"><strong>请求示例：</strong><span class="url">http://op.juhe.cn/onebox/weather/query?cityname=%E6%B8%A9%E5%B7%9E&amp;key=您申请的KEY</span></div>
+                        <div class="simpleline"><strong>请求示例：</strong><span class="url">http://op.shareapi.com/onebox/weather/query?cityname=%E6%B8%A9%E5%B7%9E&amp;key=您申请的KEY</span></div>
 
                                                 <div class="simpleline"><strong>接口备注：</strong><font color="">根据城市查询天气，未来5天、生活指数、PM2.5</font></div>
                         
@@ -233,7 +233,7 @@
                     &quot;humidity&quot;: &quot;54&quot;,     <font color='red'>/*湿度*/</font>
                     &quot;info&quot;: &quot;雾&quot;,
                     &quot;img&quot;: &quot;18&quot; <font color='red'>/*18是雾这种天气所对应的图片的ID，每种天气的图片需要您自己设计，或者请阅读
- https://www.juhe.cn/docs/api/id/39/aid/117*/</font>
+ https://www.shareapi.com/docs/api/id/39/aid/117*/</font>
                 },
                 &quot;wind&quot;: {
                     &quot;direct&quot;: &quot;北风&quot;,
@@ -737,7 +737,7 @@
                             <tr>
                                 <td >&nbsp;</td>
                                 <td class="text">技术支持:</td>
-                                <td class="url">info@juhe.cn</td>
+                                <td class="url">info@shareapi.com</td>
                             </tr>
                             <tr>
                                 <td >&nbsp;</td>
@@ -799,10 +799,10 @@
             <h3>活动推荐<span>/Activity</span></h3>
             <ul class="apiActivity">
                 <!--<li>
-                    <a href="https://www.juhe.cn/docs/api/id/54" target="_blank"><img src="/themes/v4/public/images/apiactivity2.png"/></a>
+                    <a href="https://www.shareapi.com/docs/api/id/54" target="_blank"><img src="/themes/v4/public/images/apiactivity2.png"/></a>
                 </li>-->
                                 <li>
-                    <a href="https://free.juhe.cn" target="_blank" title="免费数据第二波"><img src="https://juheimgs.oss-cn-beijing.aliyuncs.com/banner/201606/57639730a1606.png" border="0"/></a>
+                    <a href="https://free.shareapi.com" target="_blank" title="免费数据第二波"><img src="https://juheimgs.oss-cn-beijing.aliyuncs.com/banner/201606/57639730a1606.png" border="0"/></a>
                 </li>
                             </ul>
         </div>
@@ -812,7 +812,7 @@
 <footer class="width100_v4">
         <div class="width1200_v4 footerContent_v4 clearfix">
             <div class="footer1_v4">
-                <div class="footerLogo"><a href="https://www.juhe.cn"><img width="238" height="33" src="/themes/v4/public/images/footerLogo.png" alt="聚合数据"/></a></div>
+                <div class="footerLogo"><a href="https://www.shareapi.com"><img width="238" height="33" src="/themes/v4/public/images/footerLogo.png" alt="聚合数据"/></a></div>
                 <p>京 ICP 备 16034375 号ShareApi©版权所有</p>
                 <div class="footerContact">400-8827-715</div>
             </div>
@@ -837,11 +837,11 @@
             <dl class="footerDl_v4" style="border-right: 1px solid #e7e7e7;">
                 <dt>聚合工具</dt>
                 <dd><a href="/box">聚盒子</a></dd>
-                <dd><a href="https://www.juhe.cn/d/cellmap">聚合基站</a></dd>
+                <dd><a href="https://www.shareapi.com/d/cellmap">聚合基站</a></dd>
                 <dd><a href="http://www.wodiche.cn" target="_blank">车辆违章查询</a></dd>
-                <dd><a href="http://lbs.juhe.cn">LBS聚合</a></dd>
-                <dd><a href="http://tools.juhe.cn">聚合工具</a></dd>
-                <dd><a href="https://code.juhe.cn">聚合代码</a></dd>
+                <dd><a href="http://lbs.shareapi.com">LBS聚合</a></dd>
+                <dd><a href="http://tools.shareapi.com">聚合工具</a></dd>
+                <dd><a href="https://code.shareapi.com">聚合代码</a></dd>
                 <dd><a href="/foreign">国外API检索</a></dd>
             </dl>
             <div class="juheCode_v4">
@@ -866,13 +866,13 @@
 #juhegoTop span{display: none; width: 82px; height: 27px; padding-right:6px; line-height: 27px; background: url(/themes/v4/public/images/topTipsBg.png) no-repeat; font-size: 12px; color: #fff; font-family: "microsoft yahei"; text-align: center; position: absolute; top: 12px; right: 55px;}
 #tools_goTop{display: none;margin-top: 6px;}
 </style>
-<ul id="juhegoTop" style="display:none" style="display:none">
+<ul id="juhegoTop" style="display:none" style="display:none" style="display:none" style="display:none" style="display:none">
 	<li id="tools_qq">
 		<a rel="nofollow" href="http://crm2.qq.com/page/portalpage/wpa.php?uin=800076065&f=1&ty=1&aty=0&a=&from=6" target="_blank"></a>
 		<span>QQ客服</span>
 	</li>
 	<li id="tools_contact">
-		<a rel="nofollow" href="https://www.juhe.cn/contact" target="_blank"></a>
+		<a rel="nofollow" href="https://www.shareapi.com/contact" target="_blank"></a>
 		<span>联系我们</span>
 	</li>
 	<li id="tools_feedback">
@@ -982,7 +982,7 @@ $(document).ready(function(){
     })
 
     var did = 73;
-    $.getJSON("https://code.juhe.cn/api/docsByDid?callback=?", {
+    $.getJSON("https://code.shareapi.com/api/docsByDid?callback=?", {
         "did" : did
       }, function(data) {
           var code = data.code;

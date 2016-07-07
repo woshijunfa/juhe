@@ -134,3 +134,7 @@ Route::get('/docs/s/q/%E5%9F%BA%E7%AB%99', 'CopyController@autoNavi');
 Route::get('/legal', 'CopyController@autoNavi');
 Route::get('/login/logout', 'CopyController@autoNavi');
 Route::get('/docs/api/id/221', 'CopyController@autoNavi');
+Route::get('/docs/api/id/80', 'CopyController@autoNavi');
+Route::get('/docs/api/id/197', 'CopyController@autoNavi');
+Route::get('/docs/api/id/29', 'CopyController@autoNavi');
+Route::get('/docs/api/id/192', 'CopyController@autoNavi');

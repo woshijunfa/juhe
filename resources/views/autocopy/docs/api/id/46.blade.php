@@ -65,7 +65,7 @@
                 <!--<a href="">活动</a>-->
                 <!--<a href="/docs" title="资费价格" >价格</a>-->
                 <!--<a href="/contact" >商务合作</a>-->
-                <!-- <a href="http://open.juhe.cn">发布服务</a> -->
+                <!-- <a href="http://open.shareapi.com">发布服务</a> -->
                 <!--<a href="">企业服务</a>
                 <a href="">聚合国际造型</a>-->
                 <a class="contact_v4" href="/contact">联系我们</a>
@@ -159,10 +159,10 @@
                         </li>
                                             </ul>
                     <div class="das_right">
-                        <div class="simpleline"><strong>接口地址：</strong><span class="url">http://apis.juhe.cn/cook/query.php</span></div>
+                        <div class="simpleline"><strong>接口地址：</strong><span class="url">http://apis.shareapi.com/cook/query.php</span></div>
                         <div class="simpleline"><strong>支持格式：</strong><span class="url">json/xml</span></div>
                         <div class="simpleline"><strong>请求方式：</strong><span class="url">get/post</span></div>
-                        <div class="simpleline"><strong>请求示例：</strong><span class="url">http://apis.juhe.cn/cook/query?key=&amp;menu=%E8%A5%BF%E7%BA%A2%E6%9F%BF&amp;rn=10&amp;pn=3</span></div>
+                        <div class="simpleline"><strong>请求示例：</strong><span class="url">http://apis.shareapi.com/cook/query?key=&amp;menu=%E8%A5%BF%E7%BA%A2%E6%9F%BF&amp;rn=10&amp;pn=3</span></div>
 
                         
                                                 <div class="simpleline simpleTable">
@@ -281,49 +281,49 @@
             &quot;imtro&quot;: &quot;做红烧肉的豆亲们很多，大家对红烧肉的热爱更不用我说，从名字上就能反映出来。一些高手们对红烧肉的认识更是令我佩服，单单就红烧肉的做法、菜谱都看得我是眼花缭乱，口水横流。单纯的红烧肉我平时还真没做过，再不抓紧时间做一回解解馋，不是对不起别人，而是太对不起我自己了！ 这道菜的菜名用了秘制二字来形容，当然是自己根据自己多年吃货的经验想象出来的，我不介意把自己的做法与大家共享，只为大家能同我一样，吃到不同口味的红烧肉。不同的人们根据自己的习惯都有不同的做法，味道也不尽相同。我的秘制的关键就是必须用玫瑰腐乳、冰糖和米醋这三种食材，腐乳和冰糖可以使烧出来的肉色泽红亮，米醋能解腻，令肥肉肥而不腻，此法烧制的红烧肉软糯中略带咸甜，的确回味无穷！&quot;,
             &quot;ingredients&quot;: &quot;五花肉,500g&quot;,
             &quot;burden&quot;: &quot;玫瑰腐乳,适量;盐,适量;八角,适量;草果,适量;香叶,适量;料酒,适量;米醋,适量;生姜,适量&quot;,
-            &quot;albums&quot;: [&quot;http:\/\/img.juhe.cn\/cookbook\/t\/0\/45_854851.jpg&quot;],
+            &quot;albums&quot;: [&quot;http:\/\/img.shareapi.com\/cookbook\/t\/0\/45_854851.jpg&quot;],
             &quot;steps&quot;: [{
-                &quot;img&quot;: &quot;http:\/\/img.juhe.cn\/cookbook\/s\/1\/45_0824e37faf00b71e.jpg&quot;,
+                &quot;img&quot;: &quot;http:\/\/img.shareapi.com\/cookbook\/s\/1\/45_0824e37faf00b71e.jpg&quot;,
                 &quot;step&quot;: &quot;1.将五花肉煮至断生状态&quot;
             },
             {
-                &quot;img&quot;: &quot;http:\/\/img.juhe.cn\/cookbook\/s\/1\/45_b6d7329b703f6e85.jpg&quot;,
+                &quot;img&quot;: &quot;http:\/\/img.shareapi.com\/cookbook\/s\/1\/45_b6d7329b703f6e85.jpg&quot;,
                 &quot;step&quot;: &quot;2.切成大小一致的块&quot;
             },
             {
-                &quot;img&quot;: &quot;http:\/\/img.juhe.cn\/cookbook\/s\/1\/45_6ee9e8dab0516333.jpg&quot;,
+                &quot;img&quot;: &quot;http:\/\/img.shareapi.com\/cookbook\/s\/1\/45_6ee9e8dab0516333.jpg&quot;,
                 &quot;step&quot;: &quot;3.放在锅内煎&quot;
             },
             {
-                &quot;img&quot;: &quot;http:\/\/img.juhe.cn\/cookbook\/s\/1\/45_b9afd6d4dd81f55c.jpg&quot;,
+                &quot;img&quot;: &quot;http:\/\/img.shareapi.com\/cookbook\/s\/1\/45_b9afd6d4dd81f55c.jpg&quot;,
                 &quot;step&quot;: &quot;4.入生姜&quot;
             },
             {
-                &quot;img&quot;: &quot;http:\/\/img.juhe.cn\/cookbook\/s\/1\/45_d0170fbe236421f9.jpg&quot;,
+                &quot;img&quot;: &quot;http:\/\/img.shareapi.com\/cookbook\/s\/1\/45_d0170fbe236421f9.jpg&quot;,
                 &quot;step&quot;: &quot;5.放八角草果各一个，香叶一片&quot;
             },
             {
-                &quot;img&quot;: &quot;http:\/\/img.juhe.cn\/cookbook\/s\/1\/45_639b12210745fa41.jpg&quot;,
+                &quot;img&quot;: &quot;http:\/\/img.shareapi.com\/cookbook\/s\/1\/45_639b12210745fa41.jpg&quot;,
                 &quot;step&quot;: &quot;6.放冰糖&quot;
             },
             {
-                &quot;img&quot;: &quot;http:\/\/img.juhe.cn\/cookbook\/s\/1\/45_c25e0cedd2012f45.jpg&quot;,
+                &quot;img&quot;: &quot;http:\/\/img.shareapi.com\/cookbook\/s\/1\/45_c25e0cedd2012f45.jpg&quot;,
                 &quot;step&quot;: &quot;7.加料酒&quot;
             },
             {
-                &quot;img&quot;: &quot;http:\/\/img.juhe.cn\/cookbook\/s\/1\/45_eb68327980f022dd.jpg&quot;,
+                &quot;img&quot;: &quot;http:\/\/img.shareapi.com\/cookbook\/s\/1\/45_eb68327980f022dd.jpg&quot;,
                 &quot;step&quot;: &quot;8.加玫瑰腐乳和腐乳汁及适量盐&quot;
             },
             {
-                &quot;img&quot;: &quot;http:\/\/img.juhe.cn\/cookbook\/s\/1\/45_ac17263a11507a41.jpg&quot;,
+                &quot;img&quot;: &quot;http:\/\/img.shareapi.com\/cookbook\/s\/1\/45_ac17263a11507a41.jpg&quot;,
                 &quot;step&quot;: &quot;9.加米醋&quot;
             },
             {
-                &quot;img&quot;: &quot;http:\/\/img.juhe.cn\/cookbook\/s\/1\/45_f5489af5d12b4930.jpg&quot;,
+                &quot;img&quot;: &quot;http:\/\/img.shareapi.com\/cookbook\/s\/1\/45_f5489af5d12b4930.jpg&quot;,
                 &quot;step&quot;: &quot;10.加水继续炖&quot;
             },
             {
-                &quot;img&quot;: &quot;http:\/\/img.juhe.cn\/cookbook\/s\/1\/45_8e0cf83cb7306281.jpg&quot;,
+                &quot;img&quot;: &quot;http:\/\/img.shareapi.com\/cookbook\/s\/1\/45_8e0cf83cb7306281.jpg&quot;,
                 &quot;step&quot;: &quot;11.直至肉变软糯汤汁收干即可&quot;
             }]
         },
@@ -334,45 +334,45 @@
             &quot;imtro&quot;: &quot;红烧肉是热菜菜谱之一，以五花肉为制作主料，红烧肉的做法各地也会稍有不同。南方习惯用酱油（老抽）调色，而北方则偏爱炒糖色儿，红烧肉也是我拿手菜之一，不管是逢年过节还是亲朋聚会都不会少了诱人的红烧肉。红烧肉的特点；浓油赤酱，肥而不腻，入口酥软即化。&quot;,
             &quot;ingredients&quot;: &quot;五花肉,1000g&quot;,
             &quot;burden&quot;: &quot;葱,适量;姜,适量;蒜,适量;八角,2粒;桂皮,1块;干辣椒,1个;酱油,适量;冰糖,适量;盐,适量;料酒,适量&quot;,
-            &quot;albums&quot;: [&quot;http:\/\/img.juhe.cn\/cookbook\/t\/1\/52_759155.jpg&quot;],
+            &quot;albums&quot;: [&quot;http:\/\/img.shareapi.com\/cookbook\/t\/1\/52_759155.jpg&quot;],
             &quot;steps&quot;: [{
-                &quot;img&quot;: &quot;http:\/\/img.juhe.cn\/cookbook\/s\/1\/52_b02a6aa276e3352f.jpg&quot;,
+                &quot;img&quot;: &quot;http:\/\/img.shareapi.com\/cookbook\/s\/1\/52_b02a6aa276e3352f.jpg&quot;,
                 &quot;step&quot;: &quot;1.五花肉洗净切成大块。&quot;
             },
             {
-                &quot;img&quot;: &quot;http:\/\/img.juhe.cn\/cookbook\/s\/1\/52_0cfde36e8061dd9c.jpg&quot;,
+                &quot;img&quot;: &quot;http:\/\/img.shareapi.com\/cookbook\/s\/1\/52_0cfde36e8061dd9c.jpg&quot;,
                 &quot;step&quot;: &quot;2.冷水把肉下锅烧开，把肉焯水。&quot;
             },
             {
-                &quot;img&quot;: &quot;http:\/\/img.juhe.cn\/cookbook\/s\/1\/52_4bbe9a903c8b144e.jpg&quot;,
+                &quot;img&quot;: &quot;http:\/\/img.shareapi.com\/cookbook\/s\/1\/52_4bbe9a903c8b144e.jpg&quot;,
                 &quot;step&quot;: &quot;3.准备好 八角 桂皮 葱姜蒜 辣椒。&quot;
             },
             {
-                &quot;img&quot;: &quot;http:\/\/img.juhe.cn\/cookbook\/s\/1\/52_887688f6d7716106.jpg&quot;,
+                &quot;img&quot;: &quot;http:\/\/img.shareapi.com\/cookbook\/s\/1\/52_887688f6d7716106.jpg&quot;,
                 &quot;step&quot;: &quot;4.把锅烧热，下入焯水的五花肉，小火煸炒至五花肉出油。&quot;
             },
             {
-                &quot;img&quot;: &quot;http:\/\/img.juhe.cn\/cookbook\/s\/1\/52_72ddd29b5fba09c3.jpg&quot;,
+                &quot;img&quot;: &quot;http:\/\/img.shareapi.com\/cookbook\/s\/1\/52_72ddd29b5fba09c3.jpg&quot;,
                 &quot;step&quot;: &quot;5.下入葱姜蒜 八角 桂皮 辣椒继续煸炒至肉色微黄。盛出。&quot;
             },
             {
-                &quot;img&quot;: &quot;http:\/\/img.juhe.cn\/cookbook\/s\/1\/52_90765e3bf8a33c53.jpg&quot;,
+                &quot;img&quot;: &quot;http:\/\/img.shareapi.com\/cookbook\/s\/1\/52_90765e3bf8a33c53.jpg&quot;,
                 &quot;step&quot;: &quot;6.锅中留底油放入冰糖小火熬至起沫成棕红色。&quot;
             },
             {
-                &quot;img&quot;: &quot;http:\/\/img.juhe.cn\/cookbook\/s\/1\/52_95ddaa107b65158b.jpg&quot;,
+                &quot;img&quot;: &quot;http:\/\/img.shareapi.com\/cookbook\/s\/1\/52_95ddaa107b65158b.jpg&quot;,
                 &quot;step&quot;: &quot;7.倒入煸炒的五花肉翻炒均匀，使每块肉均匀沾满糖色，&quot;
             },
             {
-                &quot;img&quot;: &quot;http:\/\/img.juhe.cn\/cookbook\/s\/1\/52_68a1aa355f2c62e9.jpg&quot;,
+                &quot;img&quot;: &quot;http:\/\/img.shareapi.com\/cookbook\/s\/1\/52_68a1aa355f2c62e9.jpg&quot;,
                 &quot;step&quot;: &quot;8.加入料酒、酱油&quot;
             },
             {
-                &quot;img&quot;: &quot;http:\/\/img.juhe.cn\/cookbook\/s\/1\/52_b4391bab5b4c70b7.jpg&quot;,
+                &quot;img&quot;: &quot;http:\/\/img.shareapi.com\/cookbook\/s\/1\/52_b4391bab5b4c70b7.jpg&quot;,
                 &quot;step&quot;: &quot;9.加入开水没过肉，盖上锅盖开火煮沸，调小火炖40分钟，&quot;
             },
             {
-                &quot;img&quot;: &quot;http:\/\/img.juhe.cn\/cookbook\/s\/1\/52_22e562a234ed1891.jpg&quot;,
+                &quot;img&quot;: &quot;http:\/\/img.shareapi.com\/cookbook\/s\/1\/52_22e562a234ed1891.jpg&quot;,
                 &quot;step&quot;: &quot;10.烧至肉熟烂、把汤汁收浓即可。&quot;
             }]
         },
@@ -383,73 +383,73 @@
             &quot;imtro&quot;: &quot;红烧肉，各地各家的做法稍有不同味道即大不一样，中餐的精妙在于食材随意性而产生的变化，南方习惯用酱油(老抽)调色，而北方则偏爱炒糖色。 女人不要为了保持好身材，刻意与美味的肉类食品绝缘哦。其实，很多科学证明，适当的吃肉并不会增加额外的脂肪。 猪肉经过小火煸炒出油后，炖出来的红炒肉是肥而不腻，软烂入味，非常的好吃美味，也非常适合咱们的健康理念，即少油，又解馋，又解腻，下面，为你推荐这种红烧肉的经典做法，不用一滴油就可以做出美味健康的红烧肉。&quot;,
             &quot;ingredients&quot;: &quot;猪后臀尖,1000g&quot;,
             &quot;burden&quot;: &quot;葱段,适量;八角,2个;干辣椒,4个;香叶,4片;桂皮,1块;鲜姜,1块;干山楂片,4片;黄油,适量;老抽,适量;生抽,适量;白糖,适量;开水,适量&quot;,
-            &quot;albums&quot;: [&quot;http:\/\/img.juhe.cn\/cookbook\/t\/1\/92_512827.jpg&quot;],
+            &quot;albums&quot;: [&quot;http:\/\/img.shareapi.com\/cookbook\/t\/1\/92_512827.jpg&quot;],
             &quot;steps&quot;: [{
-                &quot;img&quot;: &quot;http:\/\/img.juhe.cn\/cookbook\/s\/1\/92_472370e29b980b31.jpg&quot;,
+                &quot;img&quot;: &quot;http:\/\/img.shareapi.com\/cookbook\/s\/1\/92_472370e29b980b31.jpg&quot;,
                 &quot;step&quot;: &quot;1.猪肉清洗干净切成方块，冷水下锅，水开后撇去上面的浮沫。&quot;
             },
             {
-                &quot;img&quot;: &quot;http:\/\/img.juhe.cn\/cookbook\/s\/1\/92_04f90c14513aa139.jpg&quot;,
+                &quot;img&quot;: &quot;http:\/\/img.shareapi.com\/cookbook\/s\/1\/92_04f90c14513aa139.jpg&quot;,
                 &quot;step&quot;: &quot;2.焯好的肉块捞出，用温水清洗干净。&quot;
             },
             {
-                &quot;img&quot;: &quot;http:\/\/img.juhe.cn\/cookbook\/s\/1\/92_50af1fae3911794d.jpg&quot;,
+                &quot;img&quot;: &quot;http:\/\/img.shareapi.com\/cookbook\/s\/1\/92_50af1fae3911794d.jpg&quot;,
                 &quot;step&quot;: &quot;3.准备好调料：干辣椒，桂皮，香叶，八角，（大蒜也可以不放）。&quot;
             },
             {
-                &quot;img&quot;: &quot;http:\/\/img.juhe.cn\/cookbook\/s\/1\/92_12f839ee0920c03b.jpg&quot;,
+                &quot;img&quot;: &quot;http:\/\/img.shareapi.com\/cookbook\/s\/1\/92_12f839ee0920c03b.jpg&quot;,
                 &quot;step&quot;: &quot;4.做锅开小火，不放油，把肉块放入反复煸炒，煸炒至肉块有点焦香，有油渗出，关火把肉块捞出。&quot;
             },
             {
-                &quot;img&quot;: &quot;http:\/\/img.juhe.cn\/cookbook\/s\/1\/92_bfdc35cde7da929b.jpg&quot;,
+                &quot;img&quot;: &quot;http:\/\/img.shareapi.com\/cookbook\/s\/1\/92_bfdc35cde7da929b.jpg&quot;,
                 &quot;step&quot;: &quot;5.做锅，用肉块煸出的猪油烧热，放入八角，干辣椒，桂皮，香叶煸炒出香味。&quot;
             },
             {
-                &quot;img&quot;: &quot;http:\/\/img.juhe.cn\/cookbook\/s\/1\/92_e21dddc1ffcad36b.jpg&quot;,
+                &quot;img&quot;: &quot;http:\/\/img.shareapi.com\/cookbook\/s\/1\/92_e21dddc1ffcad36b.jpg&quot;,
                 &quot;step&quot;: &quot;6.放入肉块煸炒1-2分钟后捞出备用。&quot;
             },
             {
-                &quot;img&quot;: &quot;http:\/\/img.juhe.cn\/cookbook\/s\/1\/92_89ba401801a762fe.jpg&quot;,
+                &quot;img&quot;: &quot;http:\/\/img.shareapi.com\/cookbook\/s\/1\/92_89ba401801a762fe.jpg&quot;,
                 &quot;step&quot;: &quot;7.用锅中剩下的余油放入2勺白糖（这个量可以根据自己的喜好添加，喜欢吃甜一点的就多放点糖），开小火煸炒白糖。&quot;
             },
             {
-                &quot;img&quot;: &quot;http:\/\/img.juhe.cn\/cookbook\/s\/1\/92_33f84ea85dcd11c9.jpg&quot;,
+                &quot;img&quot;: &quot;http:\/\/img.shareapi.com\/cookbook\/s\/1\/92_33f84ea85dcd11c9.jpg&quot;,
                 &quot;step&quot;: &quot;8.这是糖色变化的过程&quot;
             },
             {
-                &quot;img&quot;: &quot;http:\/\/img.juhe.cn\/cookbook\/s\/1\/92_bbf69240b5f7211d.jpg&quot;,
+                &quot;img&quot;: &quot;http:\/\/img.shareapi.com\/cookbook\/s\/1\/92_bbf69240b5f7211d.jpg&quot;,
                 &quot;step&quot;: &quot;9.当糖起小泡，颜色变红就可以了。&quot;
             },
             {
-                &quot;img&quot;: &quot;http:\/\/img.juhe.cn\/cookbook\/s\/1\/92_114bbdd5ef3d1255.jpg&quot;,
+                &quot;img&quot;: &quot;http:\/\/img.shareapi.com\/cookbook\/s\/1\/92_114bbdd5ef3d1255.jpg&quot;,
                 &quot;step&quot;: &quot;10.这时快速烹上1勺热水，加入肉块煸炒至肉块颜色变红。&quot;
             },
             {
-                &quot;img&quot;: &quot;http:\/\/img.juhe.cn\/cookbook\/s\/1\/92_831b33673ac8c507.jpg&quot;,
+                &quot;img&quot;: &quot;http:\/\/img.shareapi.com\/cookbook\/s\/1\/92_831b33673ac8c507.jpg&quot;,
                 &quot;step&quot;: &quot;11.煸炒至猪肉块上色后，加入适量生抽，老抽（不可多放，放多了颜色就发黑了），黄酒煸炒。&quot;
             },
             {
-                &quot;img&quot;: &quot;http:\/\/img.juhe.cn\/cookbook\/s\/1\/92_a377c03180cb6b26.jpg&quot;,
+                &quot;img&quot;: &quot;http:\/\/img.shareapi.com\/cookbook\/s\/1\/92_a377c03180cb6b26.jpg&quot;,
                 &quot;step&quot;: &quot;12.加入开水（多放点水，最好一次加足，肉炖熟了可以大火收汤，水少了，中途加水就影响肉质的口感了），再把姜块，葱段，山楂片放入。&quot;
             },
             {
-                &quot;img&quot;: &quot;http:\/\/img.juhe.cn\/cookbook\/s\/1\/92_127b81298ad6cf93.jpg&quot;,
+                &quot;img&quot;: &quot;http:\/\/img.shareapi.com\/cookbook\/s\/1\/92_127b81298ad6cf93.jpg&quot;,
                 &quot;step&quot;: &quot;13.盖上锅盖，大火烧开，小火炖煮1个小时。&quot;
             },
             {
-                &quot;img&quot;: &quot;http:\/\/img.juhe.cn\/cookbook\/s\/1\/92_59ebcf1a60e54619.jpg&quot;,
+                &quot;img&quot;: &quot;http:\/\/img.shareapi.com\/cookbook\/s\/1\/92_59ebcf1a60e54619.jpg&quot;,
                 &quot;step&quot;: &quot;14.炖煮了一个小时了，汤汁也差不多剩一半了，这时加入6克盐（盐可以根据自己的口味添加，在还有汤的情况下，不要尝出咸味正好，等汤汁收浓就会咸了），小火继续炖煮。&quot;
             },
             {
-                &quot;img&quot;: &quot;http:\/\/img.juhe.cn\/cookbook\/s\/1\/92_f4cbb0c04220428e.jpg&quot;,
+                &quot;img&quot;: &quot;http:\/\/img.shareapi.com\/cookbook\/s\/1\/92_f4cbb0c04220428e.jpg&quot;,
                 &quot;step&quot;: &quot;15.当品尝到肉质软烂，就可以大火收汁，一锅肥而不腻，肉质酥烂，诱人食欲的红烧肉就炖好了，赶快就着小酒，大快朵颐的享受吧&quot;
             },
             {
-                &quot;img&quot;: &quot;http:\/\/img.juhe.cn\/cookbook\/s\/1\/92_372112ff28389c98.jpg&quot;,
+                &quot;img&quot;: &quot;http:\/\/img.shareapi.com\/cookbook\/s\/1\/92_372112ff28389c98.jpg&quot;,
                 &quot;step&quot;: &quot;16.炎热的夏季，吃一顿少油，解腻，又美味的红烧肉大餐。&quot;
             },
             {
-                &quot;img&quot;: &quot;http:\/\/img.juhe.cn\/cookbook\/s\/1\/92_1630281ff0350105.jpg&quot;,
+                &quot;img&quot;: &quot;http:\/\/img.shareapi.com\/cookbook\/s\/1\/92_1630281ff0350105.jpg&quot;,
                 &quot;step&quot;: &quot;17.再来一张，想吃吗，那就赶紧动手吧，呵呵。&quot;
             }]
         }],
@@ -496,13 +496,13 @@
                 &lt;/burden&gt;
                 &lt;albums&gt;
                     &lt;item&gt;
-                        http://img.juhe.cn/cookbook/t/0/45_854851.jpg
+                        http://img.shareapi.com/cookbook/t/0/45_854851.jpg
                     &lt;/item&gt;
                 &lt;/albums&gt;
                 &lt;steps&gt;
                     &lt;item&gt;
                         &lt;img&gt;
-                        http://img.juhe.cn/cookbook/s/1/45_0824e37faf00b71e.jpg
+                        http://img.shareapi.com/cookbook/s/1/45_0824e37faf00b71e.jpg
                         &lt;/img&gt;
                         &lt;step&gt;
                             1.将五花肉煮至断生状态
@@ -510,7 +510,7 @@
                     &lt;/item&gt;
                     &lt;item&gt;
                         &lt;img&gt;
-                        http://img.juhe.cn/cookbook/s/1/45_b6d7329b703f6e85.jpg
+                        http://img.shareapi.com/cookbook/s/1/45_b6d7329b703f6e85.jpg
                         &lt;/img&gt;
                         &lt;step&gt;
                             2.切成大小一致的块
@@ -518,7 +518,7 @@
                     &lt;/item&gt;
                     &lt;item&gt;
                         &lt;img&gt;
-                        http://img.juhe.cn/cookbook/s/1/45_6ee9e8dab0516333.jpg
+                        http://img.shareapi.com/cookbook/s/1/45_6ee9e8dab0516333.jpg
                         &lt;/img&gt;
                         &lt;step&gt;
                             3.放在锅内煎
@@ -526,7 +526,7 @@
                     &lt;/item&gt;
                     &lt;item&gt;
                         &lt;img&gt;
-                        http://img.juhe.cn/cookbook/s/1/45_b9afd6d4dd81f55c.jpg
+                        http://img.shareapi.com/cookbook/s/1/45_b9afd6d4dd81f55c.jpg
                         &lt;/img&gt;
                         &lt;step&gt;
                             4.入生姜
@@ -534,7 +534,7 @@
                     &lt;/item&gt;
                     &lt;item&gt;
                         &lt;img&gt;
-                        http://img.juhe.cn/cookbook/s/1/45_d0170fbe236421f9.jpg
+                        http://img.shareapi.com/cookbook/s/1/45_d0170fbe236421f9.jpg
                         &lt;/img&gt;
                         &lt;step&gt;
                             5.放八角草果各一个，香叶一片
@@ -542,7 +542,7 @@
                     &lt;/item&gt;
                     &lt;item&gt;
                         &lt;img&gt;
-                        http://img.juhe.cn/cookbook/s/1/45_639b12210745fa41.jpg
+                        http://img.shareapi.com/cookbook/s/1/45_639b12210745fa41.jpg
                         &lt;/img&gt;
                         &lt;step&gt;
                             6.放冰糖
@@ -550,7 +550,7 @@
                     &lt;/item&gt;
                     &lt;item&gt;
                         &lt;img&gt;
-                        http://img.juhe.cn/cookbook/s/1/45_c25e0cedd2012f45.jpg
+                        http://img.shareapi.com/cookbook/s/1/45_c25e0cedd2012f45.jpg
                         &lt;/img&gt;
                         &lt;step&gt;
                             7.加料酒
@@ -558,7 +558,7 @@
                     &lt;/item&gt;
                     &lt;item&gt;
                         &lt;img&gt;
-                        http://img.juhe.cn/cookbook/s/1/45_eb68327980f022dd.jpg
+                        http://img.shareapi.com/cookbook/s/1/45_eb68327980f022dd.jpg
                         &lt;/img&gt;
                         &lt;step&gt;
                             8.加玫瑰腐乳和腐乳汁及适量盐
@@ -566,7 +566,7 @@
                     &lt;/item&gt;
                     &lt;item&gt;
                         &lt;img&gt;
-                        http://img.juhe.cn/cookbook/s/1/45_ac17263a11507a41.jpg
+                        http://img.shareapi.com/cookbook/s/1/45_ac17263a11507a41.jpg
                         &lt;/img&gt;
                         &lt;step&gt;
                             9.加米醋
@@ -574,7 +574,7 @@
                     &lt;/item&gt;
                     &lt;item&gt;
                         &lt;img&gt;
-                        http://img.juhe.cn/cookbook/s/1/45_f5489af5d12b4930.jpg
+                        http://img.shareapi.com/cookbook/s/1/45_f5489af5d12b4930.jpg
                         &lt;/img&gt;
                         &lt;step&gt;
                             10.加水继续炖
@@ -582,7 +582,7 @@
                     &lt;/item&gt;
                     &lt;item&gt;
                         &lt;img&gt;
-                        http://img.juhe.cn/cookbook/s/1/45_8e0cf83cb7306281.jpg
+                        http://img.shareapi.com/cookbook/s/1/45_8e0cf83cb7306281.jpg
                         &lt;/img&gt;
                         &lt;step&gt;
                             11.直至肉变软糯汤汁收干即可
@@ -611,13 +611,13 @@
                 &lt;/burden&gt;
                 &lt;albums&gt;
                     &lt;item&gt;
-                        http://img.juhe.cn/cookbook/t/1/52_759155.jpg
+                        http://img.shareapi.com/cookbook/t/1/52_759155.jpg
                     &lt;/item&gt;
                 &lt;/albums&gt;
                 &lt;steps&gt;
                     &lt;item&gt;
                         &lt;img&gt;
-                        http://img.juhe.cn/cookbook/s/1/52_b02a6aa276e3352f.jpg
+                        http://img.shareapi.com/cookbook/s/1/52_b02a6aa276e3352f.jpg
                         &lt;/img&gt;
                         &lt;step&gt;
                             1.五花肉洗净切成大块。
@@ -625,7 +625,7 @@
                     &lt;/item&gt;
                     &lt;item&gt;
                         &lt;img&gt;
-                        http://img.juhe.cn/cookbook/s/1/52_0cfde36e8061dd9c.jpg
+                        http://img.shareapi.com/cookbook/s/1/52_0cfde36e8061dd9c.jpg
                         &lt;/img&gt;
                         &lt;step&gt;
                             2.冷水把肉下锅烧开，把肉焯水。
@@ -633,7 +633,7 @@
                     &lt;/item&gt;
                     &lt;item&gt;
                         &lt;img&gt;
-                        http://img.juhe.cn/cookbook/s/1/52_4bbe9a903c8b144e.jpg
+                        http://img.shareapi.com/cookbook/s/1/52_4bbe9a903c8b144e.jpg
                         &lt;/img&gt;
                         &lt;step&gt;
                             3.准备好 八角 桂皮 葱姜蒜 辣椒。
@@ -641,7 +641,7 @@
                     &lt;/item&gt;
                     &lt;item&gt;
                         &lt;img&gt;
-                        http://img.juhe.cn/cookbook/s/1/52_887688f6d7716106.jpg
+                        http://img.shareapi.com/cookbook/s/1/52_887688f6d7716106.jpg
                         &lt;/img&gt;
                         &lt;step&gt;
                             4.把锅烧热，下入焯水的五花肉，小火煸炒至五花肉出油。
@@ -649,7 +649,7 @@
                     &lt;/item&gt;
                     &lt;item&gt;
                         &lt;img&gt;
-                        http://img.juhe.cn/cookbook/s/1/52_72ddd29b5fba09c3.jpg
+                        http://img.shareapi.com/cookbook/s/1/52_72ddd29b5fba09c3.jpg
                         &lt;/img&gt;
                         &lt;step&gt;
                             5.下入葱姜蒜 八角 桂皮 辣椒继续煸炒至肉色微黄。盛出。
@@ -657,7 +657,7 @@
                     &lt;/item&gt;
                     &lt;item&gt;
                         &lt;img&gt;
-                        http://img.juhe.cn/cookbook/s/1/52_90765e3bf8a33c53.jpg
+                        http://img.shareapi.com/cookbook/s/1/52_90765e3bf8a33c53.jpg
                         &lt;/img&gt;
                         &lt;step&gt;
                             6.锅中留底油放入冰糖小火熬至起沫成棕红色。
@@ -665,7 +665,7 @@
                     &lt;/item&gt;
                     &lt;item&gt;
                         &lt;img&gt;
-                        http://img.juhe.cn/cookbook/s/1/52_95ddaa107b65158b.jpg
+                        http://img.shareapi.com/cookbook/s/1/52_95ddaa107b65158b.jpg
                         &lt;/img&gt;
                         &lt;step&gt;
                             7.倒入煸炒的五花肉翻炒均匀，使每块肉均匀沾满糖色，
@@ -673,7 +673,7 @@
                     &lt;/item&gt;
                     &lt;item&gt;
                         &lt;img&gt;
-                        http://img.juhe.cn/cookbook/s/1/52_68a1aa355f2c62e9.jpg
+                        http://img.shareapi.com/cookbook/s/1/52_68a1aa355f2c62e9.jpg
                         &lt;/img&gt;
                         &lt;step&gt;
                             8.加入料酒、酱油
@@ -681,7 +681,7 @@
                     &lt;/item&gt;
                     &lt;item&gt;
                         &lt;img&gt;
-                        http://img.juhe.cn/cookbook/s/1/52_b4391bab5b4c70b7.jpg
+                        http://img.shareapi.com/cookbook/s/1/52_b4391bab5b4c70b7.jpg
                         &lt;/img&gt;
                         &lt;step&gt;
                             9.加入开水没过肉，盖上锅盖开火煮沸，调小火炖40分钟，
@@ -689,7 +689,7 @@
                     &lt;/item&gt;
                     &lt;item&gt;
                         &lt;img&gt;
-                        http://img.juhe.cn/cookbook/s/1/52_22e562a234ed1891.jpg
+                        http://img.shareapi.com/cookbook/s/1/52_22e562a234ed1891.jpg
                         &lt;/img&gt;
                         &lt;step&gt;
                             10.烧至肉熟烂、把汤汁收浓即可。
@@ -719,13 +719,13 @@
                 &lt;/burden&gt;
                 &lt;albums&gt;
                     &lt;item&gt;
-                        http://img.juhe.cn/cookbook/t/1/92_512827.jpg
+                        http://img.shareapi.com/cookbook/t/1/92_512827.jpg
                     &lt;/item&gt;
                 &lt;/albums&gt;
                 &lt;steps&gt;
                     &lt;item&gt;
                         &lt;img&gt;
-                        http://img.juhe.cn/cookbook/s/1/92_472370e29b980b31.jpg
+                        http://img.shareapi.com/cookbook/s/1/92_472370e29b980b31.jpg
                         &lt;/img&gt;
                         &lt;step&gt;
                             1.猪肉清洗干净切成方块，冷水下锅，水开后撇去上面的浮沫。
@@ -733,7 +733,7 @@
                     &lt;/item&gt;
                     &lt;item&gt;
                         &lt;img&gt;
-                        http://img.juhe.cn/cookbook/s/1/92_04f90c14513aa139.jpg
+                        http://img.shareapi.com/cookbook/s/1/92_04f90c14513aa139.jpg
                         &lt;/img&gt;
                         &lt;step&gt;
                             2.焯好的肉块捞出，用温水清洗干净。
@@ -741,7 +741,7 @@
                     &lt;/item&gt;
                     &lt;item&gt;
                         &lt;img&gt;
-                        http://img.juhe.cn/cookbook/s/1/92_50af1fae3911794d.jpg
+                        http://img.shareapi.com/cookbook/s/1/92_50af1fae3911794d.jpg
                         &lt;/img&gt;
                         &lt;step&gt;
                             3.准备好调料：干辣椒，桂皮，香叶，八角，（大蒜也可以不放）。
@@ -749,7 +749,7 @@
                     &lt;/item&gt;
                     &lt;item&gt;
                         &lt;img&gt;
-                        http://img.juhe.cn/cookbook/s/1/92_12f839ee0920c03b.jpg
+                        http://img.shareapi.com/cookbook/s/1/92_12f839ee0920c03b.jpg
                         &lt;/img&gt;
                         &lt;step&gt;
                             4.做锅开小火，不放油，把肉块放入反复煸炒，煸炒至肉块有点焦香，有油渗出，关火把肉块捞出。
@@ -757,7 +757,7 @@
                     &lt;/item&gt;
                     &lt;item&gt;
                         &lt;img&gt;
-                        http://img.juhe.cn/cookbook/s/1/92_bfdc35cde7da929b.jpg
+                        http://img.shareapi.com/cookbook/s/1/92_bfdc35cde7da929b.jpg
                         &lt;/img&gt;
                         &lt;step&gt;
                             5.做锅，用肉块煸出的猪油烧热，放入八角，干辣椒，桂皮，香叶煸炒出香味。
@@ -765,7 +765,7 @@
                     &lt;/item&gt;
                     &lt;item&gt;
                         &lt;img&gt;
-                        http://img.juhe.cn/cookbook/s/1/92_e21dddc1ffcad36b.jpg
+                        http://img.shareapi.com/cookbook/s/1/92_e21dddc1ffcad36b.jpg
                         &lt;/img&gt;
                         &lt;step&gt;
                             6.放入肉块煸炒1-2分钟后捞出备用。
@@ -773,7 +773,7 @@
                     &lt;/item&gt;
                     &lt;item&gt;
                         &lt;img&gt;
-                        http://img.juhe.cn/cookbook/s/1/92_89ba401801a762fe.jpg
+                        http://img.shareapi.com/cookbook/s/1/92_89ba401801a762fe.jpg
                         &lt;/img&gt;
                         &lt;step&gt;
                             7.用锅中剩下的余油放入2勺白糖（这个量可以根据自己的喜好添加，喜欢吃甜一点的就多放点糖），开小火煸炒白糖。
@@ -781,7 +781,7 @@
                     &lt;/item&gt;
                     &lt;item&gt;
                         &lt;img&gt;
-                        http://img.juhe.cn/cookbook/s/1/92_33f84ea85dcd11c9.jpg
+                        http://img.shareapi.com/cookbook/s/1/92_33f84ea85dcd11c9.jpg
                         &lt;/img&gt;
                         &lt;step&gt;
                             8.这是糖色变化的过程
@@ -789,7 +789,7 @@
                     &lt;/item&gt;
                     &lt;item&gt;
                         &lt;img&gt;
-                        http://img.juhe.cn/cookbook/s/1/92_bbf69240b5f7211d.jpg
+                        http://img.shareapi.com/cookbook/s/1/92_bbf69240b5f7211d.jpg
                         &lt;/img&gt;
                         &lt;step&gt;
                             9.当糖起小泡，颜色变红就可以了。
@@ -797,7 +797,7 @@
                     &lt;/item&gt;
                     &lt;item&gt;
                         &lt;img&gt;
-                        http://img.juhe.cn/cookbook/s/1/92_114bbdd5ef3d1255.jpg
+                        http://img.shareapi.com/cookbook/s/1/92_114bbdd5ef3d1255.jpg
                         &lt;/img&gt;
                         &lt;step&gt;
                             10.这时快速烹上1勺热水，加入肉块煸炒至肉块颜色变红。
@@ -805,7 +805,7 @@
                     &lt;/item&gt;
                     &lt;item&gt;
                         &lt;img&gt;
-                        http://img.juhe.cn/cookbook/s/1/92_831b33673ac8c507.jpg
+                        http://img.shareapi.com/cookbook/s/1/92_831b33673ac8c507.jpg
                         &lt;/img&gt;
                         &lt;step&gt;
                             11.煸炒至猪肉块上色后，加入适量生抽，老抽（不可多放，放多了颜色就发黑了），黄酒煸炒。
@@ -813,7 +813,7 @@
                     &lt;/item&gt;
                     &lt;item&gt;
                         &lt;img&gt;
-                        http://img.juhe.cn/cookbook/s/1/92_a377c03180cb6b26.jpg
+                        http://img.shareapi.com/cookbook/s/1/92_a377c03180cb6b26.jpg
                         &lt;/img&gt;
                         &lt;step&gt;
                             12.加入开水（多放点水，最好一次加足，肉炖熟了可以大火收汤，水少了，中途加水就影响肉质的口感了），再把姜块，葱段，山楂片放入。
@@ -821,7 +821,7 @@
                     &lt;/item&gt;
                     &lt;item&gt;
                         &lt;img&gt;
-                        http://img.juhe.cn/cookbook/s/1/92_127b81298ad6cf93.jpg
+                        http://img.shareapi.com/cookbook/s/1/92_127b81298ad6cf93.jpg
                         &lt;/img&gt;
                         &lt;step&gt;
                             13.盖上锅盖，大火烧开，小火炖煮1个小时。
@@ -829,7 +829,7 @@
                     &lt;/item&gt;
                     &lt;item&gt;
                         &lt;img&gt;
-                        http://img.juhe.cn/cookbook/s/1/92_59ebcf1a60e54619.jpg
+                        http://img.shareapi.com/cookbook/s/1/92_59ebcf1a60e54619.jpg
                         &lt;/img&gt;
                         &lt;step&gt;
                             14.炖煮了一个小时了，汤汁也差不多剩一半了，这时加入6克盐（盐可以根据自己的口味添加，在还有汤的情况下，不要尝出咸味正好，等汤汁收浓就会咸了），小火继续炖煮。
@@ -837,7 +837,7 @@
                     &lt;/item&gt;
                     &lt;item&gt;
                         &lt;img&gt;
-                        http://img.juhe.cn/cookbook/s/1/92_f4cbb0c04220428e.jpg
+                        http://img.shareapi.com/cookbook/s/1/92_f4cbb0c04220428e.jpg
                         &lt;/img&gt;
                         &lt;step&gt;
                             15.当品尝到肉质软烂，就可以大火收汁，一锅肥而不腻，肉质酥烂，诱人食欲的红烧肉就炖好了，赶快就着小酒，大快朵颐的享受吧
@@ -845,7 +845,7 @@
                     &lt;/item&gt;
                     &lt;item&gt;
                         &lt;img&gt;
-                        http://img.juhe.cn/cookbook/s/1/92_372112ff28389c98.jpg
+                        http://img.shareapi.com/cookbook/s/1/92_372112ff28389c98.jpg
                         &lt;/img&gt;
                         &lt;step&gt;
                             16.炎热的夏季，吃一顿少油，解腻，又美味的红烧肉大餐。
@@ -853,7 +853,7 @@
                     &lt;/item&gt;
                     &lt;item&gt;
                         &lt;img&gt;
-                        http://img.juhe.cn/cookbook/s/1/92_1630281ff0350105.jpg
+                        http://img.shareapi.com/cookbook/s/1/92_1630281ff0350105.jpg
                         &lt;/img&gt;
                         &lt;step&gt;
                             17.再来一张，想吃吗，那就赶紧动手吧，呵呵。
@@ -1065,7 +1065,7 @@
                         </table>
                         </div>
                                                 <div class="simpleline simpleTable">
-                            <b>常规套餐包<a href="http://www.juhe.cn/contact" target="_blank"><font color="#FF0000">【更多次数、更多优惠，请与商务联系>>】</font></a></b>
+                            <b>常规套餐包<a href="http://www.shareapi.com/contact" target="_blank"><font color="#FF0000">【更多次数、更多优惠，请与商务联系>>】</font></a></b>
                             <table class="api_table" border="0" cellspacing="0" cellpadding="0">
                                 <tr>
                                     <th width="20">&nbsp;</th>
@@ -1169,7 +1169,7 @@
                             <tr>
                                 <td >&nbsp;</td>
                                 <td class="text">技术支持:</td>
-                                <td class="url">info@juhe.cn</td>
+                                <td class="url">info@shareapi.com</td>
                             </tr>
                             <tr>
                                 <td >&nbsp;</td>
@@ -1233,7 +1233,7 @@
                     <a href="/docs/api/id/54" target="_blank"><img src="/themes/v4/public/images/apiactivity2.png"/></a>
                 </li>-->
                                 <li>
-                    <a href="https://free.juhe.cn" target="_blank" title="免费数据第二波"><img src="https://juheimgs.oss-cn-beijing.aliyuncs.com/banner/201606/57639730a1606.png" border="0"/></a>
+                    <a href="https://free.shareapi.com" target="_blank" title="免费数据第二波"><img src="https://juheimgs.oss-cn-beijing.aliyuncs.com/banner/201606/57639730a1606.png" border="0"/></a>
                 </li>
                             </ul>
         </div>
@@ -1243,7 +1243,7 @@
 <footer class="width100_v4">
         <div class="width1200_v4 footerContent_v4 clearfix">
             <div class="footer1_v4">
-                <div class="footerLogo"><a href="https://www.juhe.cn"><img width="238" height="33" src="/themes/v4/public/images/footerLogo.png" alt="聚合数据"/></a></div>
+                <div class="footerLogo"><a href="https://www.shareapi.com"><img width="238" height="33" src="/themes/v4/public/images/footerLogo.png" alt="聚合数据"/></a></div>
                 <p>京 ICP 备 16034375 号ShareApi©版权所有</p>
                 <div class="footerContact">400-8827-715</div>
             </div>
@@ -1270,9 +1270,9 @@
                 <dd><a href="/box">聚盒子</a></dd>
                 <dd><a href="/d/cellmap">聚合基站</a></dd>
                 <dd><a href="http://www.wodiche.cn" target="_blank">车辆违章查询</a></dd>
-                <dd><a href="http://lbs.juhe.cn">LBS聚合</a></dd>
-                <dd><a href="http://tools.juhe.cn">聚合工具</a></dd>
-                <dd><a href="https://code.juhe.cn">聚合代码</a></dd>
+                <dd><a href="http://lbs.shareapi.com">LBS聚合</a></dd>
+                <dd><a href="http://tools.shareapi.com">聚合工具</a></dd>
+                <dd><a href="https://code.shareapi.com">聚合代码</a></dd>
                 <dd><a href="/foreign">国外API检索</a></dd>
             </dl>
             <div class="juheCode_v4">
@@ -1297,7 +1297,7 @@
 #juhegoTop span{display: none; width: 82px; height: 27px; padding-right:6px; line-height: 27px; background: url(/themes/v4/public/images/topTipsBg.png) no-repeat; font-size: 12px; color: #fff; font-family: "microsoft yahei"; text-align: center; position: absolute; top: 12px; right: 55px;}
 #tools_goTop{display: none;margin-top: 6px;}
 </style>
-<ul id="juhegoTop" style="display:none" style="display:none">
+<ul id="juhegoTop" style="display:none" style="display:none" style="display:none" style="display:none" style="display:none">
 	<li id="tools_qq">
 		<a rel="nofollow" href="http://crm2.qq.com/page/portalpage/wpa.php?uin=800076065&f=1&ty=1&aty=0&a=&from=6" target="_blank"></a>
 		<span>QQ客服</span>
@@ -1413,7 +1413,7 @@ $(document).ready(function(){
     })
 
     var did = 46;
-    $.getJSON("https://code.juhe.cn/api/docsByDid?callback=?", {
+    $.getJSON("https://code.shareapi.com/api/docsByDid?callback=?", {
         "did" : did
       }, function(data) {
           var code = data.code;

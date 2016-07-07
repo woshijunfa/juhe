@@ -63,11 +63,9 @@
                 <a href="/docs" title="所有数据API" class="active">API</a>
 
                 <!--<a href="">活动</a>-->
-                <a href="/news/listview" >动态</a>
                 <!--<a href="/price" title="资费价格" >价格</a>-->
-                <a href="/qa" title="常见问题" >常见问题</a>
                 <!--<a href="/contact" >商务合作</a>-->
-                <!-- <a href="http://open.juhe.cn">发布服务</a> -->
+                <!-- <a href="http://open.shareapi.com">发布服务</a> -->
                 <!--<a href="">企业服务</a>
                 <a href="">聚合国际造型</a>-->
                 <a class="contact_v4" href="/contact">联系我们</a>
@@ -115,7 +113,7 @@
                                     /4500次</span>
                                                                         <span style="color: #f0767f;">（申请即送100次）</span>
                                                                     </p>
-                                                                                        <!-- <p>使用SDK每日免费赠送 10000 次 <a class="youhuia" href="https://www.juhe.cn/price" target="_blank" rel="nofollow">详情&gt;&gt;</a></p> -->
+                                                                                        <!-- <p>使用SDK每日免费赠送 10000 次 <a class="youhuia" href="https://www.shareapi.com/price" target="_blank" rel="nofollow">详情&gt;&gt;</a></p> -->
                         </div>
                     </div>
                     <div class="api_data_btns">
@@ -154,10 +152,10 @@
                         </li>
                                             </ul>
                     <div class="das_right">
-                        <div class="simpleline"><strong>接口地址：</strong><span class="url">http://bankcardsilk.api.juhe.cn/bankcardsilk/query.php</span></div>
+                        <div class="simpleline"><strong>接口地址：</strong><span class="url">http://bankcardsilk.api.shareapi.com/bankcardsilk/query.php</span></div>
                         <div class="simpleline"><strong>支持格式：</strong><span class="url">json</span></div>
                         <div class="simpleline"><strong>请求方式：</strong><span class="url">get</span></div>
-                        <div class="simpleline"><strong>请求示例：</strong><span class="url">http://bankcardsilk.api.juhe.cn/bankcardsilk/query.php?num=6228480402564890018</span></div>
+                        <div class="simpleline"><strong>请求示例：</strong><span class="url">http://bankcardsilk.api.shareapi.com/bankcardsilk/query.php?num=6228480402564890018</span></div>
 
                                                 <div class="simpleline"><strong>接口备注：</strong><font color="">判断银行卡真伪、查询类别、logo及客服电话</font></div>
                         
@@ -231,7 +229,7 @@
                                     <td>&nbsp;</td>
                                     <td class="url">logo</td>
                                     <td class="url">string</td>
-                                    <td>银行logo，前面需加http://images.juheapi.com/banklogo/</td>
+                                    <td>银行logo，前面需加http://images.shareapi.com/banklogo/</td>
                                   </tr>
                                                               </table>
                         </div>
@@ -401,7 +399,7 @@
                         </table>
                         </div>
                                                 <div class="simpleline simpleTable">
-                            <b>常规套餐包<a href="http://www.juhe.cn/contact" target="_blank"><font color="#FF0000">【更多次数、更多优惠，请与商务联系>>】</font></a></b>
+                            <b>常规套餐包<a href="http://www.shareapi.com/contact" target="_blank"><font color="#FF0000">【更多次数、更多优惠，请与商务联系>>】</font></a></b>
                             <table class="api_table" border="0" cellspacing="0" cellpadding="0">
                                 <tr>
                                     <th width="20">&nbsp;</th>
@@ -468,7 +466,6 @@
                             <tr>
                                 <td>&nbsp;</td>
                                 <td class="url">常见问题:</td>
-                                <td class="url"><a href="http://www.juhe.cn/qa/index/1467902971" class="blue" target="_blank">http://www.juhe.cn/qa/index/1467902971</a></td>
                             </tr>
                         </table>
                     </div>
@@ -513,7 +510,7 @@
                             <tr>
                                 <td >&nbsp;</td>
                                 <td class="text">技术支持:</td>
-                                <td class="url">info@juhe.cn</td>
+                                <td class="url">info@shareapi.com</td>
                             </tr>
                             <tr>
                                 <td >&nbsp;</td>
@@ -574,10 +571,10 @@
             <h3>活动推荐<span>/Activity</span></h3>
             <ul class="apiActivity">
                 <!--<li>
-                    <a href="https://www.juhe.cn/docs/api/id/54" target="_blank"><img src="/themes/v4/public/images/apiactivity2.png"/></a>
+                    <a href="https://www.shareapi.com/docs/api/id/54" target="_blank"><img src="/themes/v4/public/images/apiactivity2.png"/></a>
                 </li>-->
                                 <li>
-                    <a href="https://free.juhe.cn" target="_blank" title="免费数据第二波"><img src="https://juheimgs.oss-cn-beijing.aliyuncs.com/banner/201606/57639730a1606.png" border="0"/></a>
+                    <a href="https://free.shareapi.com" target="_blank" title="免费数据第二波"><img src="https://juheimgs.oss-cn-beijing.aliyuncs.com/banner/201606/57639730a1606.png" border="0"/></a>
                 </li>
                             </ul>
         </div>
@@ -587,10 +584,8 @@
 <footer class="width100_v4">
         <div class="width1200_v4 footerContent_v4 clearfix">
             <div class="footer1_v4">
-                <div class="footerLogo"><a href="https://www.juhe.cn"><img width="238" height="33" src="/themes/v4/public/images/footerLogo.png" alt="聚合数据"/></a></div>
-                <p>苏州新科兰德科技有限公司©版权所有</p>
-                <p><a href="http://www.miitbeian.gov.cn/" target="_blank" style="color: #999;">苏ICP备14006450号-3</a></p>
-                <p>增值电信业务经营许可证：苏B2-20140496</p>
+                <div class="footerLogo"><a href="https://www.shareapi.com"><img width="238" height="33" src="/themes/v4/public/images/footerLogo.png" alt="聚合数据"/></a></div>
+                <p>京 ICP 备 16034375 号ShareApi©版权所有</p>
                 <div class="footerContact">400-8827-715</div>
             </div>
             <dl class="footerDl_v4">
@@ -598,13 +593,11 @@
                 <dd><a href="/docs" rel="nofollow">API</a></dd>
                 <dd><a href="/price" rel="nofollow">价格</a></dd>
                 <dd><a href="javascript:void(0);" rel="nofollow">活动</a></dd>
-                <dd><a href="/news/listview" rel="nofollow">动态</a></dd>
                 <dd><a href="/contact" rel="nofollow">商务合作</a></dd>
                 <!--<dd><a href="">企业服务</a></dd>-->
             </dl>
             <dl class="footerDl_v4">
                 <dt>关于</dt>
-                <dd><a href="/qa" rel="nofollow">问题&支持</a></dd>
                 <dd><a href="https://juheimg.oss-cn-hangzhou.aliyuncs.com/docs/%E8%81%9A%E5%90%88%E6%95%B0%E6%8D%AEAPI%E7%94%B3%E8%AF%B7%E4%BD%BF%E7%94%A8%E6%B5%81%E7%A8%8B.pdf" rel="nofollow" target="_blank">新手引导</a></dd>
                 <dd><a href="/contact" rel="nofollow">联系我们</a></dd>
                 <dd><a href="/job" rel="nofollow">聚合招聘</a></dd>
@@ -616,11 +609,11 @@
             <dl class="footerDl_v4" style="border-right: 1px solid #e7e7e7;">
                 <dt>聚合工具</dt>
                 <dd><a href="/box">聚盒子</a></dd>
-                <dd><a href="https://www.juhe.cn/d/cellmap">聚合基站</a></dd>
+                <dd><a href="https://www.shareapi.com/d/cellmap">聚合基站</a></dd>
                 <dd><a href="http://www.wodiche.cn" target="_blank">车辆违章查询</a></dd>
-                <dd><a href="http://lbs.juhe.cn">LBS聚合</a></dd>
-                <dd><a href="http://tools.juhe.cn">聚合工具</a></dd>
-                <dd><a href="https://code.juhe.cn">聚合代码</a></dd>
+                <dd><a href="http://lbs.shareapi.com">LBS聚合</a></dd>
+                <dd><a href="http://tools.shareapi.com">聚合工具</a></dd>
+                <dd><a href="https://code.shareapi.com">聚合代码</a></dd>
                 <dd><a href="/foreign">国外API检索</a></dd>
             </dl>
             <div class="juheCode_v4">
@@ -645,17 +638,16 @@
 #juhegoTop span{display: none; width: 82px; height: 27px; padding-right:6px; line-height: 27px; background: url(/themes/v4/public/images/topTipsBg.png) no-repeat; font-size: 12px; color: #fff; font-family: "microsoft yahei"; text-align: center; position: absolute; top: 12px; right: 55px;}
 #tools_goTop{display: none;margin-top: 6px;}
 </style>
-<ul id="juhegoTop">
+<ul id="juhegoTop" style="display:none" style="display:none" style="display:none" style="display:none">
 	<li id="tools_qq">
 		<a rel="nofollow" href="http://crm2.qq.com/page/portalpage/wpa.php?uin=800076065&f=1&ty=1&aty=0&a=&from=6" target="_blank"></a>
 		<span>QQ客服</span>
 	</li>
 	<li id="tools_contact">
-		<a rel="nofollow" href="https://www.juhe.cn/contact" target="_blank"></a>
+		<a rel="nofollow" href="https://www.shareapi.com/contact" target="_blank"></a>
 		<span>联系我们</span>
 	</li>
 	<li id="tools_feedback">
-		<a rel="nofollow" href="https://www.juhe.cn/qa" target="_blank"></a>
 		<span>问题反馈</span>
 	</li>
 	<li id="tools_goTop">
@@ -762,7 +754,7 @@ $(document).ready(function(){
     })
 
     var did = 221;
-    $.getJSON("https://code.juhe.cn/api/docsByDid?callback=?", {
+    $.getJSON("https://code.shareapi.com/api/docsByDid?callback=?", {
         "did" : did
       }, function(data) {
           var code = data.code;

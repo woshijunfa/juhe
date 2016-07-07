@@ -167,7 +167,7 @@ function logout(){
             
             	                <li class="index_login"><a href="/login" title="登录聚合数据">登录</a></li>
 				<li class="index_reg"><a href="/register" title="注册成为聚合会员">注册</a></li>
-                				<li class="iphone"><a class="png_bg" href="http://m.juhe.cn">手机触屏版</a></li>
+                				<li class="iphone"><a class="png_bg" href="http://m.shareapi.com">手机触屏版</a></li>
                 
 			</ul>
 			<!--search api-->
@@ -188,11 +188,11 @@ function logout(){
 					<a href="javascript:void(0)"><strong>聚合工具</strong><span>Tools</span><em class="png_bg"></em></a>
 					<div class="tool_select" >
 						<a title="聚合工具" target="_blank" href="/box">聚盒子</a>
-						<a title="基站查询" href="http://www.juhe.cn/d/cellmap/index.php">聚合基站</a>
-						<a href="http://wz.juhe.cn"  title="全国车辆违章查询接口">车辆违章查询</a>
-						<a title="LBS聚合" target="_blank" href="http://lbs.juhe.cn">LBS聚合</a>
-						<a title="聚合工具" target="_blank" href="http://tools.juhe.cn">聚合工具</a>
-						<a title="聚合软件" target="_blank" href="http://soft.juhe.cn">聚合软件</a>
+						<a title="基站查询" href="http://www.shareapi.com/d/cellmap/index.php">聚合基站</a>
+						<a href="http://wz.shareapi.com"  title="全国车辆违章查询接口">车辆违章查询</a>
+						<a title="LBS聚合" target="_blank" href="http://lbs.shareapi.com">LBS聚合</a>
+						<a title="聚合工具" target="_blank" href="http://tools.shareapi.com">聚合工具</a>
+						<a title="聚合软件" target="_blank" href="http://soft.shareapi.com">聚合软件</a>
 						<a title="国外API检索" target="_blank" href="/foreign">国外API检索</a>
 					</div>
 				</li>
@@ -205,7 +205,7 @@ function logout(){
 	
 	<!--<style type="text/css">
 #alertAward{display: none;}
-.alertAward{position:relative;font-family:"microsoft yahei"; border-radius: 8px; color:#333; font-size:12px;width: 550px; padding:20px 50px; height: 442px; background: url(http://img.juhe.cn/www/activity/201503/juhePrize.png) 30px 35px no-repeat;}
+.alertAward{position:relative;font-family:"microsoft yahei"; border-radius: 8px; color:#333; font-size:12px;width: 550px; padding:20px 50px; height: 442px; background: url(http://img.shareapi.com/www/activity/201503/juhePrize.png) 30px 35px no-repeat;}
 .alertInfo{padding:210px 0 0 0;}
 .alertInfo h3{color: #f35353; font: bold 14px/24px "microsoft yahei";}
 .alertInfo p{padding-bottom: 10px;}
@@ -239,7 +239,7 @@ function code_num(htmlCode){
 </script>
 
 <div id="awardClick" style="position: fixed;_position:absolute; top: 300px; right: 0; width: 120px; cursor: pointer; z-index:2;">
-	<img width="120px" src="http://img.juhe.cn/www/activity/201503/juhePrize.png"/>
+	<img width="120px" src="http://img.shareapi.com/www/activity/201503/juhePrize.png"/>
 </div>
 <div id="alertAward">
 	<div class="alertAward">
@@ -254,7 +254,7 @@ function code_num(htmlCode){
 			<p>后台留下地址和联系方式，人工寄出。</p>
 			<h3 style="font-size: 12px;">PS：此活动将作为常期活动进行，欢迎大家踊跃参与！</h3>
 		</div>
-		<img id="towCode" src="http://img.juhe.cn/www/activity/201503/juheTwoCode.png"/>
+		<img id="towCode" src="http://img.shareapi.com/www/activity/201503/juheTwoCode.png"/>
 	</div>
 </div>
 -->
@@ -293,7 +293,7 @@ function code_num(htmlCode){
     <li ><a href="/juhesdk/update">更新日志</a></li>
     <li ><a href="/juhesdk/download">相关下载</a></li>
 </ul>
-<!--<script language="javascript" src="http://www.juhe.cn/themes/js/jquery.min.js"></script>-->
+<!--<script language="javascript" src="http://www.shareapi.com/themes/js/jquery.min.js"></script>-->
 <script language="javascript">
 $(document).ready(function(e) {
     $("#devdocs").click(function(){
@@ -335,7 +335,7 @@ $(document).ready(function(e) {
                 
                 <div class="dstitle" style="margin-top:30px;">三、查找调用接口的参数值</div>
                 <div class="dsinfo">
-                在聚合数据API官网上http://www.juhe.cn/docs查看接口，并得到调用接口必须的字段：API， APIID， Method，以及需要设置的参数调用对应接口。<br/>
+                在聚合数据API官网上http://www.shareapi.com/docs查看接口，并得到调用接口必须的字段：API， APIID， Method，以及需要设置的参数调用对应接口。<br/>
                 例：生活常用 -> IP地址 -> 根据IP/域名查询地址 <span style="color:#F00">(前提：已经在聚合平台申请了该数据服务)</span><br/><br/>
                 </div>
                 
@@ -358,10 +358,10 @@ $(document).ready(function(e) {
           <div class="dstitle" style="margin-top:30px;">四、编写代码调用具体的数据接口</div>
                  <div class="dsinfo" style="background:url(/themes/images/jsdk/rpbg.png); width:90%; margin-left:20px; font-family:'Courier New', Courier, monospace">
                    <p align="left" ><span style="color:#396">//    /*IP*/</span> <br>
-                     <span style="font-weight:bold;color:#96C">NSString</span> *path = <span style="font-weight:bold;color:#F09">@&quot;http://apis.juhe.cn/ip/ip2addr&quot;</span>;<br>
+                     <span style="font-weight:bold;color:#96C">NSString</span> *path = <span style="font-weight:bold;color:#F09">@&quot;http://apis.shareapi.com/ip/ip2addr&quot;</span>;<br>
                      <span style="font-weight:bold;color:#96C">NSString</span> *api_id = <span style="font-weight:bold;color:#F09">@&quot;1&quot;</span>;<br>
                      <span style="font-weight:bold;color:#96C">NSString</span> *method = <span style="font-weight:bold;color:#F09">@&quot;GET&quot;</span>;<br>
-                     <span style="font-weight:bold;color:#96C">NSDictionary</span> *param = <span style="font-weight:bold;color:#F09">@{@&quot;ip&quot;:@&quot;www.juhe.cn&quot;, @&quot;dtype&quot;:@&quot;json&quot;}</span>;<br>
+                     <span style="font-weight:bold;color:#96C">NSDictionary</span> *param = <span style="font-weight:bold;color:#F09">@{@&quot;ip&quot;:@&quot;www.shareapi.com&quot;, @&quot;dtype&quot;:@&quot;json&quot;}</span>;<br>
                      <span style="font-weight:bold;color:#33C">JHAPISDK</span> *juheapi = [<span style="font-weight:bold;color:#33C">JHAPISDK</span> shareJHAPISDK];<br>
                      <br>
                      [juheapi executeWorkWithAPI:path<br>
@@ -383,7 +383,7 @@ $(document).ready(function(e) {
                      &nbsp;&nbsp;&nbsp;&nbsp;NSLog(@&quot;error:    %@&quot;,error.description);<br>
                      }];</p>
                  </div>
-          <div class="dsinfo" style="margin-top:30px; color:#F00">*详细文档及其他数据说明请通过 http://www.juhe.cn/docs 查阅。</div> 
+          <div class="dsinfo" style="margin-top:30px; color:#F00">*详细文档及其他数据说明请通过 http://www.shareapi.com/docs 查阅。</div> 
           
           <div class="dstitle" style="margin-top:30px;">五、返回数据示例</div>
           <div class="dsinfo" style="background:url(/themes/images/jsdk/rpbg.png); width:90%; margin-left:20px; font-family:'Courier New', Courier, monospace">
@@ -404,7 +404,6 @@ $(document).ready(function(e) {
 <div class="clearfix"></div>
 <div class="footer">
         <div class="fi">
-        <a  href="http://img.juhe.cn/docs/%E8%81%9A%E5%90%88%E6%95%B0%E6%8D%AEAPI%E7%94%B3%E8%AF%B7%E4%BD%BF%E7%94%A8%E6%B5%81%E7%A8%8B.pdf" target="_blank" title="新手指引" rel="nofollow">新手指引</a><a href="/privacy" target="_blank" title="隐私政策" rel="nofollow">隐私政策</a><a href="/legal" target="_blank" title="服务条款" rel="nofollow">服务条款</a><a href="/login" rel="nofollow">加入我们</a><a href="/job" rel="nofollow">聚合招聘</a><a href="http://www.juhe.cn/links" rel="nofollow">友情链接</a><a href="/contact" rel="nofollow">联系我们</a><a>京 ICP 备 16034375 号ShareApi©版权所有</a><a href="http://www.miibeian.gov.cn/" target="_blank" rel="nofollow">&nbsp;苏ICP备14006450号-3</a>|&nbsp;增值电信业务经营许可证：<a href="http://jscainfo.miitbeian.gov.cn/state/outPortal/loginPortal.action" target="_blank">苏B2-20140496</a></div>
         
 <script type="text/javascript">
     var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");

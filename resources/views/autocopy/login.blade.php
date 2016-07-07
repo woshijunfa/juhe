@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
 <link rel="stylesheet" type="text/css" href="/themes/v5/public/css/reset.css"/>
 <link rel="stylesheet" type="text/css" href="/themes/v5/public/css/login.css"/>
-<script src="//cdn.juheapi.com/common/baidu.js" type="text/javascript" charset="utf-8"></script>
+<script src="//cdn.shareapi.com/common/baidu.js" type="text/javascript" charset="utf-8"></script>
 <!--[if lt IE 9]>
 <script src="/themes/v5/public/js/html5shiv.min.js" type="text/javascript" charset="utf-8"></script>
 <script src="/themes/v5/public/js/respond.min.js" type="text/javascript" charset="utf-8"></script>
@@ -27,7 +27,7 @@
         </div>
         <div class="loginMain">
         <div class="loginWidth">
-                    <div class="loginLogoDiv"><a class="loginLogo" href="https://www.juhe.cn"></a></div>
+                    <div class="loginLogoDiv"><a class="loginLogo" href="https://www.shareapi.com"></a></div>
         <form action="/login/login" class="formLogin" method="post" id="login_form"  onSubmit="return false;">
         <div class="loginList loginListUser">
         <label></label>

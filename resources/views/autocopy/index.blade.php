@@ -82,7 +82,7 @@ var _hmt = _hmt || [];
                 <!--<a href="">活动</a>-->
                 <!--<a href="/docs" title="资费价格" >价格</a>-->
                 <!--<a href="/contact" >商务合作</a>-->
-                <!-- <a href="http://open.juhe.cn">发布服务</a> -->
+                <!-- <a href="http://open.shareapi.com">发布服务</a> -->
                 <!--<a href="">企业服务</a>
                 <a href="">聚合国际造型</a>-->
                 <a class="contact_v4" href="/contact">联系我们</a>
@@ -102,9 +102,9 @@ var _hmt = _hmt || [];
             <p class="subNavP">
                 <a style="border:0 none;" href="/box" title="聚合数据接口测试" target="_blank">聚盒子</a>
                 <a href="/d/cellmap/index.php" title="基站查询、基站定位" target="_blank">聚合基站</a>
-                <a href="http://wz.juhe.cn" target="_blank">车辆违章查询</a>
-                <a href="http://code.juhe.cn" target="_blank"><font color="#03C5FF">聚合代码</font></a>
-                <a href="http://lbs.juhe.cn" target="_blank">LBS聚合</a>
+                <a href="http://wz.shareapi.com" target="_blank">车辆违章查询</a>
+                <a href="http://code.shareapi.com" target="_blank"><font color="#03C5FF">聚合代码</font></a>
+                <a href="http://lbs.shareapi.com" target="_blank">LBS聚合</a>
             </p>
             <p class="newPerson">
                 <a href="https://juheimg.oss-cn-hangzhou.aliyuncs.com/docs/%E8%81%9A%E5%90%88%E6%95%B0%E6%8D%AEAPI%E7%94%B3%E8%AF%B7%E4%BD%BF%E7%94%A8%E6%B5%81%E7%A8%8B.pdf" rel="nofollow" target="_blank">新手引导</a>
@@ -375,7 +375,7 @@ var _hmt = _hmt || [];
                 </div>
                 <ul class="smallBanner_v4">
                                         <li><a href="/activity/giftCard" target="_blank"><img src="https://juheimgs.oss-cn-beijing.aliyuncs.com/banner/201606/5772248aa7ebe.png" border="0"/></a></li>
-                                        <li><a href="https://free.juhe.cn" target="_blank"><img src="https://juheimgs.oss-cn-beijing.aliyuncs.com/banner/201606/576394c193a85.png" border="0"/></a></li>
+                                        <li><a href="https://free.shareapi.com" target="_blank"><img src="https://juheimgs.oss-cn-beijing.aliyuncs.com/banner/201606/576394c193a85.png" border="0"/></a></li>
                                         <li><a href="/juheapi" target="_blank"><img src="https://juheimgs.oss-cn-beijing.aliyuncs.com/banner/201606/57722c2cb96ef.png" border="0"/></a></li>
                                     </ul>
             </div>
@@ -712,7 +712,7 @@ var _hmt = _hmt || [];
     <footer class="width100_v4">
 	<div class="width1200_v4 footerContent_v4 clearfix">
 		<div class="footer1_v4">
-			<div class="footerLogo"><a href="https://www.juhe.cn"><img width="238" height="33" src="/themes/v4/public/images/footerLogo.png" alt="聚合数据"/></a></div>
+			<div class="footerLogo"><a href="https://www.shareapi.com"><img width="238" height="33" src="/themes/v4/public/images/footerLogo.png" alt="聚合数据"/></a></div>
 			<p>京 ICP 备 16034375 号ShareApi©版权所有</p>
 			<div class="footerContact">400-8827-715</div>
 		</div>
@@ -739,9 +739,9 @@ var _hmt = _hmt || [];
 			<dd><a href="/box">聚盒子</a></dd>
 			<dd><a href="/d/cellmap">聚合基站</a></dd>
 			<dd><a href="http://www.wodiche.cn" target="_blank">车辆违章查询</a></dd>
-			<dd><a href="http://lbs.juhe.cn">LBS聚合</a></dd>
-			<dd><a href="http://tools.juhe.cn">聚合工具</a></dd>
-			<dd><a href="http://code.juhe.cn">聚合代码</a></dd>
+			<dd><a href="http://lbs.shareapi.com">LBS聚合</a></dd>
+			<dd><a href="http://tools.shareapi.com">聚合工具</a></dd>
+			<dd><a href="http://code.shareapi.com">聚合代码</a></dd>
 			<dd><a href="/foreign">国外API检索</a></dd>
 		</dl>
 		<div class="juheCode_v4">

@@ -65,11 +65,9 @@
                 <a href="/docs" title="所有数据API" >API</a>
 
                 <!--<a href="">活动</a>-->
-                <a href="/news/listview" >动态</a>
                 <!--<a href="/price" title="资费价格" >价格</a>-->
-                <a href="/qa" title="常见问题" >常见问题</a>
                 <!--<a href="/contact" >商务合作</a>-->
-                <!-- <a href="http://open.juhe.cn">发布服务</a> -->
+                <!-- <a href="http://open.shareapi.com">发布服务</a> -->
                 <!--<a href="">企业服务</a>
                 <a href="">聚合国际造型</a>-->
                 <a class="contact_v4" href="/contact">联系我们</a>
@@ -95,7 +93,7 @@
         本《聚合云数据用户服务协议》（以下简称“本《协议》”）系由用户与聚合就聚合/JUHE.CN提供的数据服务所订立的相关权利义务规范。您在注册为聚合用户前，需仔细阅读并完全理解本《协议》内容及聚合公布的其他服务规则（以下统称为“服务条款”），如果您不同意受该等服务条款的约束，应停止注册程序并停止使用聚合服务。当您点击聚合注册页面的同意注册按钮并完成注册程序、获得聚合账号和密码时，即视为您已认真阅读服务条款全部内容，对服务条款均已知晓、理解并接受，同意将其作为确定双方权利义务的依据 服务条款对您及聚合均具有法律效力。
             </div>
             <div class="linestyle" style="text-indent:2em;">
-                聚合是由苏州新科兰德科技有限公司运营和管理的为用户（包括个人及单位）提供API测试、API申请、API调用、数据定制等多项服务的交易平台，官方网站为 https://www.juhe.cn。除本《协议》有明确规定外，本《协议》不适用使用聚合特别数据服务的个人或单位，对于使用聚合特别数据服务的用户，请阅读为该等服务制定的特别条款，详见聚合官方网站。
+                聚合是由京 ICP 备 16034375 号ShareApi运营和管理的为用户（包括个人及单位）提供API测试、API申请、API调用、数据定制等多项服务的交易平台，官方网站为 https://www.shareapi.com。除本《协议》有明确规定外，本《协议》不适用使用聚合特别数据服务的个人或单位，对于使用聚合特别数据服务的用户，请阅读为该等服务制定的特别条款，详见聚合官方网站。
             </div>
             <div class="content-title">1、服务对象</div>
             <div class=" linestyle" >1.1 同时满足下列条件的，方可被认定为聚合用户：</div>
@@ -126,7 +124,7 @@
             <div class="content-title">3、 服务内容的变更、中断和结束</div>
             <div class="linestyle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）聚合致力于为用户提供更优质更稳定的服务，因此聚合可能会在服务期间对平台进行优化升级。聚合进行优化升级之前，将会在平台相应位置进行公告，请用户实时关注。因优化升级而暂时中断为用户提供服务，不视为聚合违反服务条款，聚合不因此向客户承担任何责任；</div>
             <div class="linestyle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）聚合将通过优化服务、技术升级等方式为用户提供优质、稳定、持续的服务，但因不可抗力因素导致的服务中断或影响服务质量，用户理解并豁免聚合与此相关的任何责任。不可抗力因素包括但不限于自然灾害、罢工、骚乱、物质短缺或定量配给、暴动、战争行为、政府行为、通讯或其他设施故障或严重伤亡事故、计算机病毒或黑客攻击；</div>
-            <div class="linestyle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（3）若用户不再需要聚合数据服务，用户可向聚合官方邮件info@juhe.cn发出用户身份注销申请，，经聚合审议通过，双方终止协议关系，聚合将停止为用户提供服务；</div>
+            <div class="linestyle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（3）若用户不再需要聚合数据服务，用户可向聚合官方邮件info@shareapi.com发出用户身份注销申请，，经聚合审议通过，双方终止协议关系，聚合将停止为用户提供服务；</div>
             <div class="linestyle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（4）用户需持续满足聚合规定的用户条件，若用户不再符合聚合的用户要求，聚合有权作出终止服务、注销用户账户的决定。用户对此有任何异议，可向聚合提出异议申请；</div>
             <div class="linestyle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（5）除遵守服务条款外，用户在使用聚合服务时，还应遵守《聚合云数据使用协议》项下义务，否则聚合有权中断服务，或者拒绝用户的数据服务申请。</div>
             <div class="linestyle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（6）用户应持续遵守服务条款，若用户存在违反服务条款的情形，聚合合理其他。</div>
@@ -181,7 +179,7 @@
             <div class="linestyle">10.2 本《协议》中的标题仅为方便阅读而设，不应影响对本《协议》条款的理解。</div>
 
             <div class="content-title" >11、意见及建议</div>
-            <div class="linestyle">用户对聚合服务有任何意见或建议，可向聚合官方网站（http://www.juhe.cn/contact）反馈，聚合愿意倾听并尊重每一位用户的意见，并将尽力为用户提供最优质的服务。</div>
+            <div class="linestyle">用户对聚合服务有任何意见或建议，可向聚合官方网站（http://www.shareapi.com/contact）反馈，聚合愿意倾听并尊重每一位用户的意见，并将尽力为用户提供最优质的服务。</div>
 
 
 
@@ -192,10 +190,8 @@
     <footer class="width100_v4">
         <div class="width1200_v4 footerContent_v4 clearfix">
             <div class="footer1_v4">
-                <div class="footerLogo"><a href="https://www.juhe.cn"><img width="238" height="33" src="/themes/v4/public/images/footerLogo.png" alt="聚合数据"/></a></div>
-                <p>苏州新科兰德科技有限公司©版权所有</p>
-                <p><a href="http://www.miitbeian.gov.cn/" target="_blank" style="color: #999;">苏ICP备14006450号-3</a></p>
-                <p>增值电信业务经营许可证：苏B2-20140496</p>
+                <div class="footerLogo"><a href="https://www.shareapi.com"><img width="238" height="33" src="/themes/v4/public/images/footerLogo.png" alt="聚合数据"/></a></div>
+                <p>京 ICP 备 16034375 号ShareApi©版权所有</p>
                 <div class="footerContact">400-8827-715</div>
             </div>
             <dl class="footerDl_v4">
@@ -203,13 +199,11 @@
                 <dd><a href="/docs" rel="nofollow">API</a></dd>
                 <dd><a href="/price" rel="nofollow">价格</a></dd>
                 <dd><a href="javascript:void(0);" rel="nofollow">活动</a></dd>
-                <dd><a href="/news/listview" rel="nofollow">动态</a></dd>
                 <dd><a href="/contact" rel="nofollow">商务合作</a></dd>
                 <!--<dd><a href="">企业服务</a></dd>-->
             </dl>
             <dl class="footerDl_v4">
                 <dt>关于</dt>
-                <dd><a href="/qa" rel="nofollow">问题&支持</a></dd>
                 <dd><a href="https://juheimg.oss-cn-hangzhou.aliyuncs.com/docs/%E8%81%9A%E5%90%88%E6%95%B0%E6%8D%AEAPI%E7%94%B3%E8%AF%B7%E4%BD%BF%E7%94%A8%E6%B5%81%E7%A8%8B.pdf" rel="nofollow" target="_blank">新手引导</a></dd>
                 <dd><a href="/contact" rel="nofollow">联系我们</a></dd>
                 <dd><a href="/job" rel="nofollow">聚合招聘</a></dd>
@@ -221,11 +215,11 @@
             <dl class="footerDl_v4" style="border-right: 1px solid #e7e7e7;">
                 <dt>聚合工具</dt>
                 <dd><a href="/box">聚盒子</a></dd>
-                <dd><a href="https://www.juhe.cn/d/cellmap">聚合基站</a></dd>
+                <dd><a href="https://www.shareapi.com/d/cellmap">聚合基站</a></dd>
                 <dd><a href="http://www.wodiche.cn" target="_blank">车辆违章查询</a></dd>
-                <dd><a href="http://lbs.juhe.cn">LBS聚合</a></dd>
-                <dd><a href="http://tools.juhe.cn">聚合工具</a></dd>
-                <dd><a href="https://code.juhe.cn">聚合代码</a></dd>
+                <dd><a href="http://lbs.shareapi.com">LBS聚合</a></dd>
+                <dd><a href="http://tools.shareapi.com">聚合工具</a></dd>
+                <dd><a href="https://code.shareapi.com">聚合代码</a></dd>
                 <dd><a href="/foreign">国外API检索</a></dd>
             </dl>
             <div class="juheCode_v4">
@@ -250,17 +244,16 @@
 #juhegoTop span{display: none; width: 82px; height: 27px; padding-right:6px; line-height: 27px; background: url(/themes/v4/public/images/topTipsBg.png) no-repeat; font-size: 12px; color: #fff; font-family: "microsoft yahei"; text-align: center; position: absolute; top: 12px; right: 55px;}
 #tools_goTop{display: none;margin-top: 6px;}
 </style>
-<ul id="juhegoTop">
+<ul id="juhegoTop" style="display:none" style="display:none" style="display:none">
 	<li id="tools_qq">
 		<a rel="nofollow" href="http://crm2.qq.com/page/portalpage/wpa.php?uin=800076065&f=1&ty=1&aty=0&a=&from=6" target="_blank"></a>
 		<span>QQ客服</span>
 	</li>
 	<li id="tools_contact">
-		<a rel="nofollow" href="https://www.juhe.cn/contact" target="_blank"></a>
+		<a rel="nofollow" href="https://www.shareapi.com/contact" target="_blank"></a>
 		<span>联系我们</span>
 	</li>
 	<li id="tools_feedback">
-		<a rel="nofollow" href="https://www.juhe.cn/qa" target="_blank"></a>
 		<span>问题反馈</span>
 	</li>
 	<li id="tools_goTop">

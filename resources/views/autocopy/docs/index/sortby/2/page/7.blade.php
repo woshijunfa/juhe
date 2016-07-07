@@ -63,7 +63,7 @@
                 <!--<a href="">活动</a>-->
                 <!--<a href="/price" title="资费价格" >价格</a>-->
                 <!--<a href="/contact" >商务合作</a>-->
-                <!-- <a href="http://open.juhe.cn">发布服务</a> -->
+                <!-- <a href="http://open.shareapi.com">发布服务</a> -->
                 <!--<a href="">企业服务</a>
                 <a href="">聚合国际造型</a>-->
                 <a class="contact_v4" href="/contact">联系我们</a>
@@ -137,7 +137,7 @@
                         <div class="juheapis_desc clearfix">
                         	<!--五周年活动 icon-->
 		                				                	<!--五周年活动 icon end-->
-                            <a href="/docs/api/id/25" title="净值数据 接口"><img src="https://www.juhe.cn/themes/images/data/new/a25.png"/></a>
+                            <a href="/docs/api/id/25" title="净值数据 接口"><img src="https://www.shareapi.com/themes/images/data/new/a25.png"/></a>
                             <h2>
                                 <a href="/docs/api/id/25" title="净值数据 接口">净值数据</a>
                                 <span>
@@ -161,7 +161,7 @@
                         <div class="juheapis_desc clearfix">
                         	<!--五周年活动 icon-->
 		                				                	<!--五周年活动 icon end-->
-                            <a href="/docs/api/id/23" title="货币汇率 接口"><img src="https://www.juhe.cn/themes/images/data/new/a23.png"/></a>
+                            <a href="/docs/api/id/23" title="货币汇率 接口"><img src="https://www.shareapi.com/themes/images/data/new/a23.png"/></a>
                             <h2>
                                 <a href="/docs/api/id/23" title="货币汇率 接口">货币汇率</a>
                                 <span>
@@ -185,7 +185,7 @@
                         <div class="juheapis_desc clearfix">
                         	<!--五周年活动 icon-->
 		                				                	<!--五周年活动 icon end-->
-                            <a href="/docs/api/id/21" title="股票数据 接口"><img src="https://www.juhe.cn/themes/images/data/new/a21.png"/></a>
+                            <a href="/docs/api/id/21" title="股票数据 接口"><img src="https://www.shareapi.com/themes/images/data/new/a21.png"/></a>
                             <h2>
                                 <a href="/docs/api/id/21" title="股票数据 接口">股票数据</a>
                                 <span>
@@ -209,7 +209,7 @@
                         <div class="juheapis_desc clearfix">
                         	<!--五周年活动 icon-->
 		                				                	<!--五周年活动 icon end-->
-                            <a href="/docs/api/id/19" title="网站安全检测 接口"><img src="https://www.juhe.cn/themes/images/data/new/a19.png"/></a>
+                            <a href="/docs/api/id/19" title="网站安全检测 接口"><img src="https://www.shareapi.com/themes/images/data/new/a19.png"/></a>
                             <h2>
                                 <a href="/docs/api/id/19" title="网站安全检测 接口">网站安全检测</a>
                                 <span>
@@ -233,7 +233,7 @@
                         <div class="juheapis_desc clearfix">
                         	<!--五周年活动 icon-->
 		                				                	<!--五周年活动 icon end-->
-                            <a href="/docs/api/id/18" title="全国WIFI 接口"><img src="https://www.juhe.cn/themes/images/data/new/a18.png"/></a>
+                            <a href="/docs/api/id/18" title="全国WIFI 接口"><img src="https://www.shareapi.com/themes/images/data/new/a18.png"/></a>
                             <h2>
                                 <a href="/docs/api/id/18" title="全国WIFI 接口">全国WIFI</a>
                                 <span>
@@ -257,7 +257,7 @@
                         <div class="juheapis_desc clearfix">
                         	<!--五周年活动 icon-->
 		                				                	<!--五周年活动 icon end-->
-                            <a href="/docs/api/id/16" title="电信基站 接口"><img src="https://www.juhe.cn/themes/images/data/new/a16.png"/></a>
+                            <a href="/docs/api/id/16" title="电信基站 接口"><img src="https://www.shareapi.com/themes/images/data/new/a16.png"/></a>
                             <h2>
                                 <a href="/docs/api/id/16" title="电信基站 接口">电信基站</a>
                                 <span>
@@ -281,7 +281,7 @@
                         <div class="juheapis_desc clearfix">
                         	<!--五周年活动 icon-->
 		                				                	<!--五周年活动 icon end-->
-                            <a href="/docs/api/id/15" title="经纬度地址解析 接口"><img src="https://www.juhe.cn/themes/images/data/new/a15.png"/></a>
+                            <a href="/docs/api/id/15" title="经纬度地址解析 接口"><img src="https://www.shareapi.com/themes/images/data/new/a15.png"/></a>
                             <h2>
                                 <a href="/docs/api/id/15" title="经纬度地址解析 接口">经纬度地址解析</a>
                                 <span>
@@ -305,7 +305,7 @@
                         <div class="juheapis_desc clearfix">
                         	<!--五周年活动 icon-->
 		                				                	<!--五周年活动 icon end-->
-                            <a href="/docs/api/id/9" title="谷歌POI 接口"><img src="https://www.juhe.cn/themes/images/data/new/a9.png"/></a>
+                            <a href="/docs/api/id/9" title="谷歌POI 接口"><img src="https://www.shareapi.com/themes/images/data/new/a9.png"/></a>
                             <h2>
                                 <a href="/docs/api/id/9" title="谷歌POI 接口">谷歌POI</a>
                                 <span>
@@ -329,7 +329,7 @@
                         <div class="juheapis_desc clearfix">
                         	<!--五周年活动 icon-->
 		                				                	<!--五周年活动 icon end-->
-                            <a href="/docs/api/id/8" title="移动联通基站 接口"><img src="https://www.juhe.cn/themes/images/data/new/a8.png"/></a>
+                            <a href="/docs/api/id/8" title="移动联通基站 接口"><img src="https://www.shareapi.com/themes/images/data/new/a8.png"/></a>
                             <h2>
                                 <a href="/docs/api/id/8" title="移动联通基站 接口">移动联通基站</a>
                                 <span>
@@ -353,7 +353,7 @@
                         <div class="juheapis_desc clearfix">
                         	<!--五周年活动 icon-->
 		                				                	<!--五周年活动 icon end-->
-                            <a href="/docs/api/id/7" title="全国加油站油价 接口"><img src="https://www.juhe.cn/themes/images/data/new/a7.png"/></a>
+                            <a href="/docs/api/id/7" title="全国加油站油价 接口"><img src="https://www.shareapi.com/themes/images/data/new/a7.png"/></a>
                             <h2>
                                 <a href="/docs/api/id/7" title="全国加油站油价 接口">全国加油站油价</a>
                                 <span>
@@ -377,7 +377,7 @@
                         <div class="juheapis_desc clearfix">
                         	<!--五周年活动 icon-->
 		                				                	<!--五周年活动 icon end-->
-                            <a href="/docs/api/id/237" title="个人履历查询 接口"><img src="https://www.juhe.cn/themes/images/data/new/a237.png"/></a>
+                            <a href="/docs/api/id/237" title="个人履历查询 接口"><img src="https://www.shareapi.com/themes/images/data/new/a237.png"/></a>
                             <h2>
                                 <a href="/docs/api/id/237" title="个人履历查询 接口">个人履历查询</a>
                                 <span>
@@ -400,7 +400,7 @@
                         <div class="juheapis_desc clearfix">
                         	<!--五周年活动 icon-->
 		                				                	<!--五周年活动 icon end-->
-                            <a href="/docs/api/id/212" title="ISBN数据查询 接口"><img src="https://www.juhe.cn/themes/images/data/new/a212.png"/></a>
+                            <a href="/docs/api/id/212" title="ISBN数据查询 接口"><img src="https://www.shareapi.com/themes/images/data/new/a212.png"/></a>
                             <h2>
                                 <a href="/docs/api/id/212" title="ISBN数据查询 接口">ISBN数据查询</a>
                                 <span>
@@ -426,7 +426,7 @@
                         <div class="juheapis_desc clearfix">
                         	<!--五周年活动 icon-->
 		                				                	<!--五周年活动 icon end-->
-                            <a href="/docs/api/id/197" title="判断银行卡类型及真伪 接口"><img src="https://www.juhe.cn/themes/images/data/new/a197.png"/></a>
+                            <a href="/docs/api/id/197" title="判断银行卡类型及真伪 接口"><img src="https://www.shareapi.com/themes/images/data/new/a197.png"/></a>
                             <h2>
                                 <a href="/docs/api/id/197" title="判断银行卡类型及真伪 接口">判断银行卡类型及真伪</a>
                                 <span>
@@ -452,7 +452,7 @@
                         <div class="juheapis_desc clearfix">
                         	<!--五周年活动 icon-->
 		                				                	<!--五周年活动 icon end-->
-                            <a href="/docs/api/id/196" title="全国行政区域 接口"><img src="https://www.juhe.cn/themes/images/data/new/a196.png"/></a>
+                            <a href="/docs/api/id/196" title="全国行政区域 接口"><img src="https://www.shareapi.com/themes/images/data/new/a196.png"/></a>
                             <h2>
                                 <a href="/docs/api/id/196" title="全国行政区域 接口">全国行政区域</a>
                                 <span>
@@ -478,7 +478,7 @@
                         <div class="juheapis_desc clearfix">
                         	<!--五周年活动 icon-->
 		                				                	<!--五周年活动 icon end-->
-                            <a href="/docs/api/id/195" title="车辆故障码DTC查询 接口"><img src="https://www.juhe.cn/themes/images/data/new/a195.png"/></a>
+                            <a href="/docs/api/id/195" title="车辆故障码DTC查询 接口"><img src="https://www.shareapi.com/themes/images/data/new/a195.png"/></a>
                             <h2>
                                 <a href="/docs/api/id/195" title="车辆故障码DTC查询 接口">车辆故障码DTC查询</a>
                                 <span>
@@ -504,7 +504,7 @@
                         <div class="juheapis_desc clearfix">
                         	<!--五周年活动 icon-->
 		                				                	<!--五周年活动 icon end-->
-                            <a href="/docs/api/id/192" title="企业工商信息 接口"><img src="https://www.juhe.cn/themes/images/data/new/a192.png"/></a>
+                            <a href="/docs/api/id/192" title="企业工商信息 接口"><img src="https://www.shareapi.com/themes/images/data/new/a192.png"/></a>
                             <h2>
                                 <a href="/docs/api/id/192" title="企业工商信息 接口">企业工商信息</a>
                                 <span>
@@ -529,7 +529,7 @@
                         <div class="juheapis_desc clearfix">
                         	<!--五周年活动 icon-->
 		                				                	<!--五周年活动 icon end-->
-                            <a href="/docs/api/id/189" title="二维码在线生成 接口"><img src="https://www.juhe.cn/themes/images/data/new/a189.png"/></a>
+                            <a href="/docs/api/id/189" title="二维码在线生成 接口"><img src="https://www.shareapi.com/themes/images/data/new/a189.png"/></a>
                             <h2>
                                 <a href="/docs/api/id/189" title="二维码在线生成 接口">二维码在线生成</a>
                                 <span>
@@ -555,7 +555,7 @@
                         <div class="juheapis_desc clearfix">
                         	<!--五周年活动 icon-->
 		                				                	<!--五周年活动 icon end-->
-                            <a href="/docs/api/id/81" title="股票查询 接口"><img src="https://www.juhe.cn/themes/images/data/new/a81.png"/></a>
+                            <a href="/docs/api/id/81" title="股票查询 接口"><img src="https://www.shareapi.com/themes/images/data/new/a81.png"/></a>
                             <h2>
                                 <a href="/docs/api/id/81" title="股票查询 接口">股票查询</a>
                                 <span>
@@ -581,7 +581,7 @@
                         <div class="juheapis_desc clearfix">
                         	<!--五周年活动 icon-->
 		                				                	<!--五周年活动 icon end-->
-                            <a href="/docs/api/id/80" title="汇率 接口"><img src="https://www.juhe.cn/themes/images/data/new/a80.png"/></a>
+                            <a href="/docs/api/id/80" title="汇率 接口"><img src="https://www.shareapi.com/themes/images/data/new/a80.png"/></a>
                             <h2>
                                 <a href="/docs/api/id/80" title="汇率 接口">汇率</a>
                                 <span>
@@ -607,7 +607,7 @@
                         <div class="juheapis_desc clearfix">
                         	<!--五周年活动 icon-->
 		                				                	<!--五周年活动 icon end-->
-                            <a href="/docs/api/id/76" title="APK加密 接口"><img src="https://www.juhe.cn/themes/images/data/new/a76.png"/></a>
+                            <a href="/docs/api/id/76" title="APK加密 接口"><img src="https://www.shareapi.com/themes/images/data/new/a76.png"/></a>
                             <h2>
                                 <a href="/docs/api/id/76" title="APK加密 接口">APK加密</a>
                                 <span>
@@ -641,10 +641,8 @@
     <footer class="width100_v4">
         <div class="width1200_v4 footerContent_v4 clearfix">
             <div class="footer1_v4">
-                <div class="footerLogo"><a href="https://www.juhe.cn"><img width="238" height="33" src="/themes/v4/public/images/footerLogo.png" alt="聚合数据"/></a></div>
-                <p>苏州新科兰德科技有限公司©版权所有</p>
-                <p><a href="http://www.miitbeian.gov.cn/" target="_blank" style="color: #999;">苏ICP备14006450号-3</a></p>
-                <p>增值电信业务经营许可证：苏B2-20140496</p>
+                <div class="footerLogo"><a href="https://www.shareapi.com"><img width="238" height="33" src="/themes/v4/public/images/footerLogo.png" alt="聚合数据"/></a></div>
+                <p>京 ICP 备 16034375 号ShareApi©版权所有</p>
                 <div class="footerContact">400-8827-715</div>
             </div>
             <dl class="footerDl_v4">
@@ -668,11 +666,11 @@
             <dl class="footerDl_v4" style="border-right: 1px solid #e7e7e7;">
                 <dt>聚合工具</dt>
                 <dd><a href="/box">聚盒子</a></dd>
-                <dd><a href="https://www.juhe.cn/d/cellmap">聚合基站</a></dd>
+                <dd><a href="https://www.shareapi.com/d/cellmap">聚合基站</a></dd>
                 <dd><a href="http://www.wodiche.cn" target="_blank">车辆违章查询</a></dd>
-                <dd><a href="http://lbs.juhe.cn">LBS聚合</a></dd>
-                <dd><a href="http://tools.juhe.cn">聚合工具</a></dd>
-                <dd><a href="https://code.juhe.cn">聚合代码</a></dd>
+                <dd><a href="http://lbs.shareapi.com">LBS聚合</a></dd>
+                <dd><a href="http://tools.shareapi.com">聚合工具</a></dd>
+                <dd><a href="https://code.shareapi.com">聚合代码</a></dd>
                 <dd><a href="/foreign">国外API检索</a></dd>
             </dl>
             <div class="juheCode_v4">
@@ -697,13 +695,13 @@
 #juhegoTop span{display: none; width: 82px; height: 27px; padding-right:6px; line-height: 27px; background: url(/themes/v4/public/images/topTipsBg.png) no-repeat; font-size: 12px; color: #fff; font-family: "microsoft yahei"; text-align: center; position: absolute; top: 12px; right: 55px;}
 #tools_goTop{display: none;margin-top: 6px;}
 </style>
-<ul id="juhegoTop" style="display:none">
+<ul id="juhegoTop" style="display:none" style="display:none" style="display:none" style="display:none">
 	<li id="tools_qq">
 		<a rel="nofollow" href="http://crm2.qq.com/page/portalpage/wpa.php?uin=800076065&f=1&ty=1&aty=0&a=&from=6" target="_blank"></a>
 		<span>QQ客服</span>
 	</li>
 	<li id="tools_contact">
-		<a rel="nofollow" href="https://www.juhe.cn/contact" target="_blank"></a>
+		<a rel="nofollow" href="https://www.shareapi.com/contact" target="_blank"></a>
 		<span>联系我们</span>
 	</li>
 	<li id="tools_feedback">
