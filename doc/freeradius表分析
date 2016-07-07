@@ -38,5 +38,5 @@ find  ./ -name "*.blade.php-e*"|xargs sudo rm -r
 grep -rl "color_https" ./|xargs sudo sed -i "" "/color_https/d"
 grep -rl "color_disanfang" ./|xargs sudo sed -i "" "/color_disanfang/d"
 grep -rl "api_newbtn_demo" ./|xargs sudo sed -i "" "/api_newbtn_demo/d"
-
+grep -rl "【更多次数、更多优惠，请与商务联系>>】" ./|xargs sudo sed  -i -e "s/【更多次数、更多优惠，请与商务联系>>】</</g"
 

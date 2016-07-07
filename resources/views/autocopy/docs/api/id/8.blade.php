@@ -503,7 +503,7 @@
                         </table>
                         </div>
                                                 <div class="simpleline simpleTable">
-                            <b>常规套餐包<a href="http://www.shareapi.com/contact" target="_blank"><font color="#FF0000">【更多次数、更多优惠，请与商务联系>>】</font></a></b>
+                            <b>常规套餐包<a href="http://www.shareapi.com/contact" target="_blank"><font color="#FF0000"></font></a></b>
                             <table class="api_table" border="0" cellspacing="0" cellpadding="0">
                                 <tr>
                                     <th width="20">&nbsp;</th>
