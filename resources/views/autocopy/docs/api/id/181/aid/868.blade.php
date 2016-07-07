@@ -63,7 +63,6 @@
                 <a href="/docs" title="所有数据API" class="active">API</a>
 
                 <!--<a href="">活动</a>-->
-                <a href="/news/listview" >动态</a>
                 <!--<a href="/docs" title="资费价格" >价格</a>-->
                 <!--<a href="/contact" >商务合作</a>-->
                 <!-- <a href="http://open.juhe.cn">发布服务</a> -->
@@ -197,7 +196,6 @@
 
                                                 <div class="simpleline"><strong>接口备注：</strong><font color="">根据订单详情上传证件,要求图片为jpg或者png格式,大小3M以下,此接口不支持用本网页测试工具测试,可以使用htmlform表单模拟提交</font></div>
                         
-                                                <div class="simpleline"><strong>调用样例及调试工具：</strong><a class="api_test_tools" href="/box/index/id/181" target="_blank">API测试工具</a></div>
                                                 <div class="simpleline simpleTable">
                             <strong>请求参数说明：</strong>
                             <table class="api_table" border="0" cellspacing="0" cellpadding="0">
@@ -730,7 +728,6 @@
                 <dd><a href="/docs" rel="nofollow">API</a></dd>
                 <dd><a href="/docs" rel="nofollow">价格</a></dd>
                 <dd><a href="javascript:void(0);" rel="nofollow">活动</a></dd>
-                <dd><a href="/news/listview" rel="nofollow">动态</a></dd>
                 <dd><a href="/contact" rel="nofollow">商务合作</a></dd>
                 <!--<dd><a href="">企业服务</a></dd>-->
             </dl>
@@ -776,7 +773,7 @@
 #juhegoTop span{display: none; width: 82px; height: 27px; padding-right:6px; line-height: 27px; background: url(/themes/v4/public/images/topTipsBg.png) no-repeat; font-size: 12px; color: #fff; font-family: "microsoft yahei"; text-align: center; position: absolute; top: 12px; right: 55px;}
 #tools_goTop{display: none;margin-top: 6px;}
 </style>
-<ul id="juhegoTop" style="display:none" style="display:none">
+<ul id="juhegoTop" style="display:none" style="display:none" style="display:none">
 	<li id="tools_qq">
 		<a rel="nofollow" href="http://crm2.qq.com/page/portalpage/wpa.php?uin=800076065&f=1&ty=1&aty=0&a=&from=6" target="_blank"></a>
 		<span>QQ客服</span>

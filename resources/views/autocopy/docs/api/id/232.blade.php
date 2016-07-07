@@ -164,7 +164,6 @@
 
                                                 <div class="simpleline"><strong>接口备注：</strong><font color="">企业投融资信息查询</font></div>
                         
-                                                <div class="simpleline"><strong>调用样例及调试工具：</strong><a class="api_test_tools" href="/box/index/id/232" target="_blank">API测试工具</a></div>
                                                 <div class="simpleline simpleTable">
                             <strong>请求参数说明：</strong>
                             <table class="api_table" border="0" cellspacing="0" cellpadding="0">
@@ -745,7 +744,7 @@
 #juhegoTop span{display: none; width: 82px; height: 27px; padding-right:6px; line-height: 27px; background: url(/themes/v4/public/images/topTipsBg.png) no-repeat; font-size: 12px; color: #fff; font-family: "microsoft yahei"; text-align: center; position: absolute; top: 12px; right: 55px;}
 #tools_goTop{display: none;margin-top: 6px;}
 </style>
-<ul id="juhegoTop" style="display:none">
+<ul id="juhegoTop" style="display:none" style="display:none">
 	<li id="tools_qq">
 		<a rel="nofollow" href="http://crm2.qq.com/page/portalpage/wpa.php?uin=800076065&f=1&ty=1&aty=0&a=&from=6" target="_blank"></a>
 		<span>QQ客服</span>
