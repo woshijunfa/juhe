@@ -66,7 +66,6 @@
                 <!-- <a href="http://open.shareapi.com">发布服务</a> -->
                 <!--<a href="">企业服务</a>
                 <a href="">分享国际造型</a>-->
-                <a class="contact_v4" href="/contact">联系我们</a>
             </nav>
         </div>
     </header>
@@ -389,7 +388,6 @@
                                 <a href="/docs/api/id/163" title="漫画书 接口">漫画书</a>
                                 <span>
                             </h2>
-                            <p class="juhe_desc_p1">上万本漫画书供你选择，数据来源网络，如有侵权请联系我们删除</p>
                             <div class="juhe_desc_p2 clearfix">
                                 <span class="juheicon1"><font>浏览量：</font>62679</span>
                                 <span class="juheicon2"><font>连接应用数：</font>4494</span>
@@ -657,7 +655,6 @@
             <dl class="footerDl_v4">
                 <dt>关于</dt>
                 <dd><a href="https://juheimg.oss-cn-hangzhou.aliyuncs.com/docs/%E8%81%9A%E5%90%88%E6%95%B0%E6%8D%AEAPI%E7%94%B3%E8%AF%B7%E4%BD%BF%E7%94%A8%E6%B5%81%E7%A8%8B.pdf" rel="nofollow" target="_blank">新手引导</a></dd>
-                <dd><a href="/contact" rel="nofollow">联系我们</a></dd>
                 <dd><a href="/job" rel="nofollow">分享招聘</a></dd>
                 <dd><a href="/privacy" rel="nofollow">隐私政策</a></dd>
                 <dd><a href="/legal" rel="nofollow">服务条款</a></dd>
@@ -703,7 +700,6 @@
 	</li>
 	<li id="tools_contact">
 		<a rel="nofollow" href="https://www.shareapi.com/contact" target="_blank"></a>
-		<span>联系我们</span>
 	</li>
 	<li id="tools_feedback">
 		<span>问题反馈</span>
