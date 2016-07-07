@@ -120,3 +120,4 @@ Route::get('/docs/index/sortby/2/page/6', 'CopyController@autoNavi');
 Route::get('/docs/index/sortby/2/page/7', 'CopyController@autoNavi');
 Route::get('/docs/index/sortby/2/page/8', 'CopyController@autoNavi');
 Route::get('/docs/index/sortby/2/page/1', 'CopyController@autoNavi');
+Route::get('/docs/api/id/28', 'CopyController@autoNavi');

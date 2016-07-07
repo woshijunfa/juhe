@@ -1,6 +1,7 @@
 #docsapiContent{width: 1200px; margin: 0 auto; padding-top: 20px;  font-size: 12px;}
 #docs_api_main{float: left; width: 940px;}
 #doc_api_right{float: right; width: 220px;}
+#apicontact{display: none;}
 
 .api_data{padding-left: 210px; min-height: 180px; position: relative;}
 .api_data_img{position: absolute; left: 0; top: 0; width: 176px; height: 176px; border: 1px solid #eee; border-radius: 2px}

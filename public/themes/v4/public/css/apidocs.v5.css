@@ -1,4 +1,5 @@
 body{background: #fafafa;}
+
 #juheapi_content{width: 100%;min-width: 1200px; background: #fafafa; padding: 10px 0; }
 .juheapi_content{width: 1200px; margin:0 auto; position: relative; font-family: "microsoft yahei";}
 #juheapi_nav{ display:none;float:left;width: 130px; padding:0 22px 10px 26px; border:1px solid #e4e4e4; background: #fff;}
