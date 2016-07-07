@@ -2,13 +2,13 @@
 <html lang="en-US">
 <head>
 <meta charset="UTF-8">
-<meta name="keywords" content="API数据，开发者数据定制，免费数据调用，聚合数据">
+<meta name="keywords" content="API数据，开发者数据定制，免费数据调用，分享数据">
 <meta name="description" content="提供30大类，100种以上基础数据API服务，国内最大的基础数据API服务提供商">
 <link type="text/css" href="/themes/css/default.css" rel="stylesheet"/>
 <script type="text/javascript" src="/themes/js/jquery.min.js"></script>
 <!--<link type="text/css" href="/themes/css/v3/header.css" rel="stylesheet"/>-->
 <link rel="shortcut icon" href="/favicon.ico" />
-<title>聚合数据SDK-首页</title>
+<title>分享数据SDK-首页</title>
 <style>
 /* CSS Document */
 ::selection {
@@ -164,11 +164,11 @@ function logout(){
 <!--header and menu start -->
 	<div id="header">
 		<div class="header">
-			<h1 class="png_bg">聚合数据</h1>
+			<h1 class="png_bg">分享数据</h1>
 			<ul class="clear">
             
-            	                <li class="index_login"><a href="/login" title="登录聚合数据">登录</a></li>
-				<li class="index_reg"><a href="/register" title="注册成为聚合会员">注册</a></li>
+            	                <li class="index_login"><a href="/login" title="登录分享数据">登录</a></li>
+				<li class="index_reg"><a href="/register" title="注册成为分享会员">注册</a></li>
                 				<li class="iphone"><a class="png_bg" href="http://m.shareapi.com">手机触屏版</a></li>
                 
 			</ul>
@@ -184,17 +184,17 @@ function logout(){
 	<div id="menu">
 		<div class="menu">
 			<ul class="clear">
-				<li ><a href="/" title="聚合数据首页"><strong>首页</strong><span>Home</span></a></li>
+				<li ><a href="/" title="分享数据首页"><strong>首页</strong><span>Home</span></a></li>
 				<li ><a href="/docs" title="数据接口"><strong>数据接口</strong><span>API</span></a></li>
                 <li class="tools" style="zoom:1; z-index:999">
-					<a href="javascript:void(0)"><strong>聚合工具</strong><span>Tools</span><em class="png_bg"></em></a>
+					<a href="javascript:void(0)"><strong>分享工具</strong><span>Tools</span><em class="png_bg"></em></a>
 					<div class="tool_select" >
-						<a title="聚合工具" target="_blank" href="/box">聚盒子</a>
-						<a title="基站查询" href="http://www.shareapi.com/d/cellmap/index.php">聚合基站</a>
+						<a title="分享工具" target="_blank" href="/box">聚盒子</a>
+						<a title="基站查询" href="http://www.shareapi.com/d/cellmap/index.php">分享基站</a>
 						<a href="http://wz.shareapi.com"  title="全国车辆违章查询接口">车辆违章查询</a>
-						<a title="LBS聚合" target="_blank" href="http://lbs.shareapi.com">LBS聚合</a>
-						<a title="聚合工具" target="_blank" href="http://tools.shareapi.com">聚合工具</a>
-						<a title="聚合软件" target="_blank" href="http://soft.shareapi.com">聚合软件</a>
+						<a title="LBS分享" target="_blank" href="http://lbs.shareapi.com">LBS分享</a>
+						<a title="分享工具" target="_blank" href="http://tools.shareapi.com">分享工具</a>
+						<a title="分享软件" target="_blank" href="http://soft.shareapi.com">分享软件</a>
 						<a title="国外API检索" target="_blank" href="/foreign">国外API检索</a>
 					</div>
 				</li>
@@ -247,7 +247,7 @@ function code_num(htmlCode){
 	<div class="alertAward">
 		<div class="alertInfo">
 			<h3>抽奖方式</h3>
-			<p>新用户关注聚合数据官方微博和微信</p>
+			<p>新用户关注分享数据官方微博和微信</p>
 			<h3>抽奖人数</h3>
 			<p>即日起每周在两个平台共抽取十名新关注幸运用户。</p>
 			<h3>奖品内容</h3>
@@ -274,14 +274,14 @@ function code_num(htmlCode){
 		});
 	</script>
 <!--header and menu end -->
-<div class="current_pos">您当前的位置：聚合数据SDK</div>
+<div class="current_pos">您当前的位置：分享数据SDK</div>
 <div class="dev">
     	<div class="dev-category" id="dev-category">
         	<!--<div class="searcha">
             	<input type="text" id="keyword" placeholder="搜索"><img src="/themes/dev/images/searcha.png" border="0" align="abstop">
             </div>-->
         	<ul>
-    <li ><a href="/juhesdk/sdk">聚合数据SDK</a></li>
+    <li ><a href="/juhesdk/sdk">分享数据SDK</a></li>
     <li class="sel"><a href="/juhesdk">概述</a></li>
     <li ><a href="/juhesdk/openid">获取密钥</a></li>
     <li id="devdocs">Android SDK 开发指南</li>
@@ -306,25 +306,25 @@ $(document).ready(function(e) {
             
         </div>
         <div class="dev-main">
-        	<div class="dstitle">聚合数据SDK简介</div>
+        	<div class="dstitle">分享数据SDK简介</div>
             <div class="dsinfo">
-            聚合数据SDK是一套基于Android/iOS开发的程序接口，目前已有Android、iOS版本，其他版本陆续添加中。开发者可以使用该套SDK开发适用于Android/iOS系统移动设备的应用，通过调用SDK接口，您可以轻松的访问聚合的<strong>所有数据和服务</strong>，构建功能丰富、交互性强的应用程序</br>
-            该SDK集成了平台上的大部分数据服务（除电商SDK、比价SDK、定位SDK外）,开发者只需使用聚合SDK即可调用已经申请的数据，无需再针对不同数据编写程序，更方便用户快速开发。<br/>
-            针对使用聚合SDK的用户，还将获得每种数据服务每日最多<strong>10000</strong>次免费的请求次数，详细的赠送次数请参考对应的接口文档或 <a href="http://www.shareapi.com/docs" target="_blank">资费说明>></a> 。<br/>
-            在您使用聚合数据SDK之前，请先阅读 <a href="http://www.shareapi.com/legal" target="_blank">聚合数据API使用条款</a> 。
+            分享数据SDK是一套基于Android/iOS开发的程序接口，目前已有Android、iOS版本，其他版本陆续添加中。开发者可以使用该套SDK开发适用于Android/iOS系统移动设备的应用，通过调用SDK接口，您可以轻松的访问分享的<strong>所有数据和服务</strong>，构建功能丰富、交互性强的应用程序</br>
+            该SDK集成了平台上的大部分数据服务（除电商SDK、比价SDK、定位SDK外）,开发者只需使用分享SDK即可调用已经申请的数据，无需再针对不同数据编写程序，更方便用户快速开发。<br/>
+            针对使用分享SDK的用户，还将获得每种数据服务每日最多<strong>10000</strong>次免费的请求次数，详细的赠送次数请参考对应的接口文档或 <a href="http://www.shareapi.com/docs" target="_blank">资费说明>></a> 。<br/>
+            在您使用分享数据SDK之前，请先阅读 <a href="http://www.shareapi.com/legal" target="_blank">分享数据API使用条款</a> 。
             </div>
             
-            <div class="dstitle" style="margin-top:30px;">聚合数据SDK较Restful接口的优势？</div>
+            <div class="dstitle" style="margin-top:30px;">分享数据SDK较Restful接口的优势？</div>
             <div class="dsinfo" style="font-size:14px; color:#F30">
             1.集成平台所有数据服务，不用再针对不同数据编写程序。<br/>
             2.享有每日最多<strong>10000</strong>次免费的请求次数，大大减少数据调用支出费用。<br/>
             2.所有数据每日10000次赠送总价值为7908元，即每日最多可为您节省￥<strong>7908</strong>。
             </div>
             
-            <div class="dstitle" style="margin-top:30px;">聚合数据SDK每日赠送说明</div>
+            <div class="dstitle" style="margin-top:30px;">分享数据SDK每日赠送说明</div>
             <div class="dsinfo">
             例如：IP地址查询接口，日赠送10000次，单客户端日上限50次<br/>
-            说明：通过聚合数据SDK调用IP地址查询API，可以每日获得10000次的免费请求（每日初始化），但每个客户端每日不能超过50次，如客户端日超过50次，将从剩余付费次数中扣除相应超出的次数。<br/>
+            说明：通过分享数据SDK调用IP地址查询API，可以每日获得10000次的免费请求（每日初始化），但每个客户端每日不能超过50次，如客户端日超过50次，将从剩余付费次数中扣除相应超出的次数。<br/>
             如果日赠送的10000次剩余次数为0，则将转为扣除付费剩余次数，直到次数为0，将不能再请求数据。
             </div>
             

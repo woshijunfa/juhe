@@ -6,8 +6,8 @@
 <link rel="stylesheet" type="text/css" href="/themes/v4/public/css/headFooter.css"/>
 <link rel="stylesheet" type="text/css" href="/themes/v4/public/css/apidocs.v5.css"/>
 <meta name="keywords" content="所有数据,API数据接口,免费API数据调用">
-<meta name="description" content="免费向开发者提供全国车辆违章查询API，天气API，基站数据，移动联通基站，电信基站，覆盖国内外1000多个主要城市公共交通信息数据，衣食住行，金融，LBS数据以及其他各种有效合法资讯类信息数据。API调用灵活方便，支持开发者数据定制服务。聚合数据，您身边的数据方案解决专家">
-<title>API数据接口_免费数据调用接口-聚合数据</title>
+<meta name="description" content="免费向开发者提供全国车辆违章查询API，天气API，基站数据，移动联通基站，电信基站，覆盖国内外1000多个主要城市公共交通信息数据，衣食住行，金融，LBS数据以及其他各种有效合法资讯类信息数据。API调用灵活方便，支持开发者数据定制服务。分享数据，您身边的数据方案解决专家">
+<title>API数据接口_免费数据调用接口-分享数据</title>
 <script src="/themes/js/jquery.min.js" type="text/javascript" charset="utf-8"></script>
 <!--[if lt IE 9]>
 <script src="/themes/v4/public/js/html5shiv.min.js" type="text/javascript" charset="utf-8"></script>
@@ -35,7 +35,7 @@
         	<div class="newyearicon2"></div>
         	<div class="newyearicon3"></div>
             <div id="headerTop_v4">
-                <h1><a href="/"><img src="/themes/v4/public/images/logo.png" alt="聚合数据" /></a></h1>
+                <h1><a href="/"><img src="/themes/v4/public/images/logo.png" alt="分享数据" /></a></h1>
                 <div class="search_v4">
                     <input type="text" id="searchText_v4" name="q" placeholder="输入想要查询的数据，例如：天气预报" />
                     <input type="button" id="searchBtn_v4" value="搜索" />
@@ -65,7 +65,7 @@
                 <!--<a href="/contact" >商务合作</a>-->
                 <!-- <a href="http://open.shareapi.com">发布服务</a> -->
                 <!--<a href="">企业服务</a>
-                <a href="">聚合国际造型</a>-->
+                <a href="">分享国际造型</a>-->
                 <a class="contact_v4" href="/contact">联系我们</a>
             </nav>
         </div>
@@ -141,7 +141,7 @@
                             <h2>
                                 <a href="/docs/api/id/208" title="三网手机实名制认证 接口">三网手机实名制认证</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
+                                    <label class="color_juhe">分享数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">支持移动、电信、联通号码；检验姓名、身份证、手机号码是否一致。</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -165,7 +165,7 @@
                             <h2>
                                 <a href="/docs/api/id/103" title="身份证实名认证 接口">身份证实名认证</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
+                                    <label class="color_juhe">分享数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">检测姓名和身份证号是否一致。</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -189,7 +189,7 @@
                             <h2>
                                 <a href="/docs/api/id/181" title="违章代缴 接口">违章代缴</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
+                                    <label class="color_juhe">分享数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">足不出户，办理违章代缴业务，更多城市陆续上线</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -214,7 +214,7 @@
                             <h2>
                                 <a href="/docs/api/id/199" title="身份证头像验证 接口">身份证头像验证</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
+                                    <label class="color_juhe">分享数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">根据真实姓名和身份证号，获取身份证头像照片的Base64字符串编码。</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -238,7 +238,7 @@
                             <h2>
                                 <a href="/docs/api/id/54" title="短信API服务 接口">短信API服务</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
+                                    <label class="color_juhe">分享数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">稳定的短信发送API，低至3.7分/条；【请务必添加图片验证码等防恶意攻击的机制，以防短信轰炸】。</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -289,7 +289,7 @@
                             <h2>
                                 <a href="/docs/api/id/227" title="个人社保缴纳 接口">个人社保缴纳</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
+                                    <label class="color_juhe">分享数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">支持指定城市社保公积金缴费比例查询和补缴计算、正常缴纳以及补缴，测试完毕后请联系商务获取正式生产环境接口。服务费：请咨询客服</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -314,7 +314,7 @@
                             <h2>
                                 <a href="/docs/api/id/231" title="通用礼品卡接口文档 接口">通用礼品卡接口文档</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
+                                    <label class="color_juhe">分享数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">集于各商家（KFC、必胜客、GAP等）实体卡和会员卡的API虚拟卡，可用于线上/下消费、移动支付。</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -339,7 +339,7 @@
                             <h2>
                                 <a href="/docs/api/id/8" title="移动联通基站 接口">移动联通基站</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
+                                    <label class="color_juhe">分享数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">通过移动联通基站的小区号和基站号进行基站位置查询。</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -390,7 +390,7 @@
                             <h2>
                                 <a href="/docs/api/id/173" title="火车票订票 接口">火车票订票</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
+                                    <label class="color_juhe">分享数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">服务费2元/笔，更多优惠请咨询客服（注意：非正式用户，测试期间有查询次数限制）</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -441,7 +441,7 @@
                             <h2>
                                 <a href="/docs/api/id/87" title="加油卡充值 接口">加油卡充值</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
+                                    <label class="color_juhe">分享数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">中石化、中石油加油卡充值</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -516,7 +516,7 @@
                             <h2>
                                 <a href="/docs/api/id/11" title="手机号码归属地 接口">手机号码归属地</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
+                                    <label class="color_juhe">分享数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">根据手机号码或手机号码的前7位，查询手机号码归属地信息，包括省份 、城市、区号、邮编、运营商和卡类型。</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -541,7 +541,7 @@
                             <h2>
                                 <a href="/docs/api/id/63" title="历史上的今天 接口">历史上的今天</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
+                                    <label class="color_juhe">分享数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">回顾历史的长河，历史是生活的一面镜子</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -592,7 +592,7 @@
                             <h2>
                                 <a href="/docs/api/id/36" title="全国车辆违章 接口">全国车辆违章</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
+                                    <label class="color_juhe">分享数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">目前已经支持300个左右的城市违章查询</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -617,7 +617,7 @@
                             <h2>
                                 <a href="/docs/api/id/46" title="菜谱大全 接口">菜谱大全</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
+                                    <label class="color_juhe">分享数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">上万种菜色供您选择</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -646,7 +646,7 @@
     <footer class="width100_v4">
         <div class="width1200_v4 footerContent_v4 clearfix">
             <div class="footer1_v4">
-                <div class="footerLogo"><a href="https://www.shareapi.com"><img width="238" height="33" src="/themes/v4/public/images/footerLogo.png" alt="聚合数据"/></a></div>
+                <div class="footerLogo"><a href="https://www.shareapi.com"><img width="238" height="33" src="/themes/v4/public/images/footerLogo.png" alt="分享数据"/></a></div>
                 <p>京 ICP 备 16034375 号ShareApi©版权所有</p>
                 <div class="footerContact">400-8827-715</div>
             </div>
@@ -662,24 +662,24 @@
                 <dt>关于</dt>
                 <dd><a href="https://juheimg.oss-cn-hangzhou.aliyuncs.com/docs/%E8%81%9A%E5%90%88%E6%95%B0%E6%8D%AEAPI%E7%94%B3%E8%AF%B7%E4%BD%BF%E7%94%A8%E6%B5%81%E7%A8%8B.pdf" rel="nofollow" target="_blank">新手引导</a></dd>
                 <dd><a href="/contact" rel="nofollow">联系我们</a></dd>
-                <dd><a href="/job" rel="nofollow">聚合招聘</a></dd>
+                <dd><a href="/job" rel="nofollow">分享招聘</a></dd>
                 <dd><a href="/privacy" rel="nofollow">隐私政策</a></dd>
                 <dd><a href="/legal" rel="nofollow">服务条款</a></dd>
                 <dd><a href="/links" rel="nofollow">友情链接</a></dd>
                 <dd><a href="/complaints" rel="nofollow">客户投诉</a></dd>
             </dl>
             <dl class="footerDl_v4" style="border-right: 1px solid #e7e7e7;">
-                <dt>聚合工具</dt>
+                <dt>分享工具</dt>
                 <dd><a href="/box">聚盒子</a></dd>
-                <dd><a href="https://www.shareapi.com/d/cellmap">聚合基站</a></dd>
+                <dd><a href="https://www.shareapi.com/d/cellmap">分享基站</a></dd>
                 <dd><a href="http://www.wodiche.cn" target="_blank">车辆违章查询</a></dd>
-                <dd><a href="http://lbs.shareapi.com">LBS聚合</a></dd>
-                <dd><a href="http://tools.shareapi.com">聚合工具</a></dd>
-                <dd><a href="https://code.shareapi.com">聚合代码</a></dd>
+                <dd><a href="http://lbs.shareapi.com">LBS分享</a></dd>
+                <dd><a href="http://tools.shareapi.com">分享工具</a></dd>
+                <dd><a href="https://code.shareapi.com">分享代码</a></dd>
                 <dd><a href="/foreign">国外API检索</a></dd>
             </dl>
             <div class="juheCode_v4">
-                <img src="/themes/v4/public/images/juheCodeBg.png" alt="聚合数据微信"/>
+                <img src="/themes/v4/public/images/juheCodeBg.png" alt="分享数据微信"/>
                 <p>关注官方微信</p>
             </div>
         </div>

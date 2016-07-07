@@ -2,13 +2,13 @@
 <html lang="en-US">
 <head>
 <meta charset="UTF-8">
-<meta name="keywords" content="API数据，开发者数据定制，免费数据调用，聚合数据">
+<meta name="keywords" content="API数据，开发者数据定制，免费数据调用，分享数据">
 <meta name="description" content="提供30大类，100种以上基础数据API服务，国内最大的基础数据API服务提供商">
 <link type="text/css" href="/themes/css/default.css" rel="stylesheet"/>
 <!--<link type="text/css" href="/themes/css/v3/header.css" rel="stylesheet"/>-->
 <link rel="shortcut icon" href="/favicon.ico" />
 <script type="text/javascript" src="/themes/js/jquery.min.js"></script>
-<title>获取密钥-聚合数据SDK-首页</title>
+<title>获取密钥-分享数据SDK-首页</title>
 <style>
 /* CSS Document */
 ::selection {
@@ -162,11 +162,11 @@ function logout(){
 <!--header and menu start -->
 	<div id="header">
 		<div class="header">
-			<h1 class="png_bg">聚合数据</h1>
+			<h1 class="png_bg">分享数据</h1>
 			<ul class="clear">
             
-            	                <li class="index_login"><a href="/login" title="登录聚合数据">登录</a></li>
-				<li class="index_reg"><a href="/register" title="注册成为聚合会员">注册</a></li>
+            	                <li class="index_login"><a href="/login" title="登录分享数据">登录</a></li>
+				<li class="index_reg"><a href="/register" title="注册成为分享会员">注册</a></li>
                 				<li class="iphone"><a class="png_bg" href="http://m.shareapi.com">手机触屏版</a></li>
                 
 			</ul>
@@ -182,17 +182,17 @@ function logout(){
 	<div id="menu">
 		<div class="menu">
 			<ul class="clear">
-				<li ><a href="/" title="聚合数据首页"><strong>首页</strong><span>Home</span></a></li>
+				<li ><a href="/" title="分享数据首页"><strong>首页</strong><span>Home</span></a></li>
 				<li ><a href="/docs" title="数据接口"><strong>数据接口</strong><span>API</span></a></li>
                 <li class="tools" style="zoom:1; z-index:999">
-					<a href="javascript:void(0)"><strong>聚合工具</strong><span>Tools</span><em class="png_bg"></em></a>
+					<a href="javascript:void(0)"><strong>分享工具</strong><span>Tools</span><em class="png_bg"></em></a>
 					<div class="tool_select" >
-						<a title="聚合工具" target="_blank" href="/box">聚盒子</a>
-						<a title="基站查询" href="http://www.shareapi.com/d/cellmap/index.php">聚合基站</a>
+						<a title="分享工具" target="_blank" href="/box">聚盒子</a>
+						<a title="基站查询" href="http://www.shareapi.com/d/cellmap/index.php">分享基站</a>
 						<a href="http://wz.shareapi.com"  title="全国车辆违章查询接口">车辆违章查询</a>
-						<a title="LBS聚合" target="_blank" href="http://lbs.shareapi.com">LBS聚合</a>
-						<a title="聚合工具" target="_blank" href="http://tools.shareapi.com">聚合工具</a>
-						<a title="聚合软件" target="_blank" href="http://soft.shareapi.com">聚合软件</a>
+						<a title="LBS分享" target="_blank" href="http://lbs.shareapi.com">LBS分享</a>
+						<a title="分享工具" target="_blank" href="http://tools.shareapi.com">分享工具</a>
+						<a title="分享软件" target="_blank" href="http://soft.shareapi.com">分享软件</a>
 						<a title="国外API检索" target="_blank" href="/foreign">国外API检索</a>
 					</div>
 				</li>
@@ -245,7 +245,7 @@ function code_num(htmlCode){
 	<div class="alertAward">
 		<div class="alertInfo">
 			<h3>抽奖方式</h3>
-			<p>新用户关注聚合数据官方微博和微信</p>
+			<p>新用户关注分享数据官方微博和微信</p>
 			<h3>抽奖人数</h3>
 			<p>即日起每周在两个平台共抽取十名新关注幸运用户。</p>
 			<h3>奖品内容</h3>
@@ -272,14 +272,14 @@ function code_num(htmlCode){
 		});
 	</script>
 <!--header and menu end -->
-<div class="current_pos">您当前的位置：聚合数据SDK</div>
+<div class="current_pos">您当前的位置：分享数据SDK</div>
 <div class="dev">
     	<div class="dev-category" id="dev-category">
         	<!--<div class="searcha">
             	<input type="text" id="keyword" placeholder="搜索"><img src="/themes/dev/images/searcha.png" border="0" align="abstop">
             </div>-->
 			<ul>
-    <li ><a href="/juhesdk/sdk">聚合数据SDK</a></li>
+    <li ><a href="/juhesdk/sdk">分享数据SDK</a></li>
     <li ><a href="/juhesdk">概述</a></li>
     <li class="sel"><a href="/juhesdk/openid">获取密钥</a></li>
     <li id="devdocs">Android SDK 开发指南</li>
@@ -304,20 +304,20 @@ $(document).ready(function(e) {
             
         </div>
         <div class="dev-main">
-        	<div class="dstitle">1.注册聚合账号</div>
+        	<div class="dstitle">1.注册分享账号</div>
             <div class="dsinfo">
-            ①、通过<a href="http://www.shareapi.com/register" target="_blank" title="注册聚合账号">http://www.shareapi.com/register</a>，成功注册成为聚合会员。
+            ①、通过<a href="http://www.shareapi.com/register" target="_blank" title="注册分享账号">http://www.shareapi.com/register</a>，成功注册成为分享会员。
             </div>
             
             <div class="dstitle" style="margin-top:30px;">2.登录并申请所需要的数据</div>
             <div class="dsinfo">
-            ①、<a href="http://www.shareapi.com/login" target="_blank" title="登录聚合">登录聚合</a>，进入个人中心。<br/>
+            ①、<a href="http://www.shareapi.com/login" target="_blank" title="登录分享">登录分享</a>，进入个人中心。<br/>
             ②、点击申请按钮，完成所需要数据的申请。
             </div>
             
             <div class="dstitle" style="margin-top:30px;">3.获取用户的OpenID</div>
             <div class="dsinfo">
-            ①、在用户中心->个人中心，获取到OpenID。该<strong>OpenID</strong>即为您的聚合数据SDK的密钥，请妥善保管!
+            ①、在用户中心->个人中心，获取到OpenID。该<strong>OpenID</strong>即为您的分享数据SDK的密钥，请妥善保管!
             </div>
         </div>
         

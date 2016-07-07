@@ -2,13 +2,13 @@
 <html lang="en-US">
 <head>
 <meta charset="UTF-8">
-<meta name="keywords" content="API数据，开发者数据定制，免费数据调用，聚合数据">
+<meta name="keywords" content="API数据，开发者数据定制，免费数据调用，分享数据">
 <meta name="description" content="提供30大类，100种以上基础数据API服务，国内最大的基础数据API服务提供商">
 <link type="text/css" href="/themes/css/default.css" rel="stylesheet"/>
 <!--<link type="text/css" href="/themes/css/v3/header.css" rel="stylesheet"/>-->
 <link rel="shortcut icon" href="/favicon.ico" />
 <script type="text/javascript" src="/themes/js/jquery.min.js"></script>
-<title>简易开发指南iOS v2.x-聚合数据SDK-首页</title>
+<title>简易开发指南iOS v2.x-分享数据SDK-首页</title>
 <style>
 /* CSS Document */
 ::selection {
@@ -162,11 +162,11 @@ function logout(){
 <!--header and menu start -->
 	<div id="header">
 		<div class="header">
-			<h1 class="png_bg">聚合数据</h1>
+			<h1 class="png_bg">分享数据</h1>
 			<ul class="clear">
             
-            	                <li class="index_login"><a href="/login" title="登录聚合数据">登录</a></li>
-				<li class="index_reg"><a href="/register" title="注册成为聚合会员">注册</a></li>
+            	                <li class="index_login"><a href="/login" title="登录分享数据">登录</a></li>
+				<li class="index_reg"><a href="/register" title="注册成为分享会员">注册</a></li>
                 				<li class="iphone"><a class="png_bg" href="http://m.shareapi.com">手机触屏版</a></li>
                 
 			</ul>
@@ -182,17 +182,17 @@ function logout(){
 	<div id="menu">
 		<div class="menu">
 			<ul class="clear">
-				<li ><a href="/" title="聚合数据首页"><strong>首页</strong><span>Home</span></a></li>
+				<li ><a href="/" title="分享数据首页"><strong>首页</strong><span>Home</span></a></li>
 				<li ><a href="/docs" title="数据接口"><strong>数据接口</strong><span>API</span></a></li>
                 <li class="tools" style="zoom:1; z-index:999">
-					<a href="javascript:void(0)"><strong>聚合工具</strong><span>Tools</span><em class="png_bg"></em></a>
+					<a href="javascript:void(0)"><strong>分享工具</strong><span>Tools</span><em class="png_bg"></em></a>
 					<div class="tool_select" >
-						<a title="聚合工具" target="_blank" href="/box">聚盒子</a>
-						<a title="基站查询" href="http://www.shareapi.com/d/cellmap/index.php">聚合基站</a>
+						<a title="分享工具" target="_blank" href="/box">聚盒子</a>
+						<a title="基站查询" href="http://www.shareapi.com/d/cellmap/index.php">分享基站</a>
 						<a href="http://wz.shareapi.com"  title="全国车辆违章查询接口">车辆违章查询</a>
-						<a title="LBS聚合" target="_blank" href="http://lbs.shareapi.com">LBS聚合</a>
-						<a title="聚合工具" target="_blank" href="http://tools.shareapi.com">聚合工具</a>
-						<a title="聚合软件" target="_blank" href="http://soft.shareapi.com">聚合软件</a>
+						<a title="LBS分享" target="_blank" href="http://lbs.shareapi.com">LBS分享</a>
+						<a title="分享工具" target="_blank" href="http://tools.shareapi.com">分享工具</a>
+						<a title="分享软件" target="_blank" href="http://soft.shareapi.com">分享软件</a>
 						<a title="国外API检索" target="_blank" href="/foreign">国外API检索</a>
 					</div>
 				</li>
@@ -245,7 +245,7 @@ function code_num(htmlCode){
 	<div class="alertAward">
 		<div class="alertInfo">
 			<h3>抽奖方式</h3>
-			<p>新用户关注聚合数据官方微博和微信</p>
+			<p>新用户关注分享数据官方微博和微信</p>
 			<h3>抽奖人数</h3>
 			<p>即日起每周在两个平台共抽取十名新关注幸运用户。</p>
 			<h3>奖品内容</h3>
@@ -272,14 +272,14 @@ function code_num(htmlCode){
 		});
 	</script>
 <!--header and menu end -->
-<div class="current_pos">您当前的位置：聚合数据SDK</div>
+<div class="current_pos">您当前的位置：分享数据SDK</div>
 <div class="dev">
     	<div class="dev-category" id="dev-category">
         	<!--<div class="searcha">
             	<input type="text" id="keyword" placeholder="搜索"><img src="/themes/dev/images/searcha.png" border="0" align="abstop">
             </div>-->
 			<ul>
-    <li ><a href="/juhesdk/sdk">聚合数据SDK</a></li>
+    <li ><a href="/juhesdk/sdk">分享数据SDK</a></li>
     <li ><a href="/juhesdk">概述</a></li>
     <li ><a href="/juhesdk/openid">获取密钥</a></li>
     <li id="devdocs">Android SDK 开发指南</li>
@@ -306,7 +306,7 @@ $(document).ready(function(e) {
         <div class="dev-main">
         	<div class="dstitle">iOS SDK V2.0 简易开发指南</div>
             <div class="dsinfo">
-            	该文档仅适用于iOS版本聚合数据SDK V2.0+，此版本调整了SDK整体结构与V1.0有较大差异，增加调用的灵活性，与便捷。改变聚合数据SDK的接入方式，下面是简易的开发流程说明。详细问题您可以通过 <a href="/juhesdk/download">相关下载</a> 下载相应的文档、示例包、SDK。<br/>
+            	该文档仅适用于iOS版本分享数据SDK V2.0+，此版本调整了SDK整体结构与V1.0有较大差异，增加调用的灵活性，与便捷。改变分享数据SDK的接入方式，下面是简易的开发流程说明。详细问题您可以通过 <a href="/juhesdk/download">相关下载</a> 下载相应的文档、示例包、SDK。<br/>
                 
           </div>
             
@@ -320,8 +320,8 @@ $(document).ready(function(e) {
 
 		  <div class="dstitle" style="margin-top:30px;">二、初始化SDK</div>
 				<div class="dsinfo">
-                在调用接口之前需要初始化聚合数据SDK，并绑定用户唯一的openid。在调用具体的接口之前只需要绑定一次即可。<br/>
-                引入聚合数据SDK的头文件：<font color="#FF0000">JHAPISDK.h, JHOpenidSupplier.h</font>
+                在调用接口之前需要初始化分享数据SDK，并绑定用户唯一的openid。在调用具体的接口之前只需要绑定一次即可。<br/>
+                引入分享数据SDK的头文件：<font color="#FF0000">JHAPISDK.h, JHOpenidSupplier.h</font>
           </div>
                 <div class="dsinfo" style="background:url(/themes/images/jsdk/rpbg.png); width:90%; margin-left:20px; font-family:'Courier New', Courier, monospace">
                   <p align="left"><span style="color:#933; font-weight:bold;">#import</span> <span style="color:#F00; font-weight:bold;">&lt;JHAPISDK.h&gt;</span> <br>
@@ -335,8 +335,8 @@ $(document).ready(function(e) {
                 
                 <div class="dstitle" style="margin-top:30px;">三、查找调用接口的参数值</div>
                 <div class="dsinfo">
-                在聚合数据API官网上http://www.shareapi.com/docs查看接口，并得到调用接口必须的字段：API， APIID， Method，以及需要设置的参数调用对应接口。<br/>
-                例：生活常用 -> IP地址 -> 根据IP/域名查询地址 <span style="color:#F00">(前提：已经在聚合平台申请了该数据服务)</span><br/><br/>
+                在分享数据API官网上http://www.shareapi.com/docs查看接口，并得到调用接口必须的字段：API， APIID， Method，以及需要设置的参数调用对应接口。<br/>
+                例：生活常用 -> IP地址 -> 根据IP/域名查询地址 <span style="color:#F00">(前提：已经在分享平台申请了该数据服务)</span><br/><br/>
                 </div>
                 
                 <div class="dsinfo">

@@ -5,7 +5,7 @@
 <link rel="stylesheet" type="text/css" href="/themes/v4/public/css/reset.css"/>
 <link rel="stylesheet" type="text/css" href="/themes/v4/public/css/headFooter.css"/>
 <link rel="stylesheet" type="text/css" href="/themes/v4/public/css/contact.css"/>
-<title>联系我们_聚合数据</title>
+<title>联系我们_分享数据</title>
 <script src="/themes/v4/public/js/jquery.min.js" type="text/javascript" charset="utf-8"></script>
 <!--[if lt IE 9]>
 <script src="/themes/v4/public/js/html5shiv.min.js" type="text/javascript" charset="utf-8"></script>
@@ -37,7 +37,7 @@
         	<div class="newyearicon2"></div>
         	<div class="newyearicon3"></div>
             <div id="headerTop_v4">
-                <h1><a href="/"><img src="/themes/v4/public/images/logo.png" alt="聚合数据" /></a></h1>
+                <h1><a href="/"><img src="/themes/v4/public/images/logo.png" alt="分享数据" /></a></h1>
                 <div class="search_v4">
                     <input type="text" id="searchText_v4" name="q" placeholder="输入想要查询的数据，例如：天气预报" />
                     <input type="button" id="searchBtn_v4" value="搜索" />
@@ -67,7 +67,7 @@
                 <!--<a href="/contact" class="active">商务合作</a>-->
                 <!-- <a href="http://open.shareapi.com">发布服务</a> -->
                 <!--<a href="">企业服务</a>
-                <a href="">聚合国际造型</a>-->
+                <a href="">分享国际造型</a>-->
                 <a class="contact_v4" href="/contact">联系我们</a>
             </nav>
         </div>
@@ -113,7 +113,7 @@
             <div  id="container" ><img src="http://api.map.baidu.com/staticimage?width=500&height=250&center=120.729823,31.271639&markers=120.729823,31.271639&zoom=15&markerStyles=m,A,0xff0000"></div>
             <div class="cominfo">
                 <ul style="font-weight:normal; color:#333; font-size:12px;">
-                <li>地址：苏州市园区 启月街288号紫金东方大厦307 聚合数据</li>
+                <li>地址：苏州市园区 启月街288号紫金东方大厦307 分享数据</li>
                 <li>联系电话：4008827715 (前台)</li>
                 <li style="text-indent:60px;">4008827715 转 6005 (华东区)</li>
                 <li style="text-indent:60px;">4008827715 转 6006 (华北区)</li>
@@ -146,7 +146,7 @@
     <footer class="width100_v4">
         <div class="width1200_v4 footerContent_v4 clearfix">
             <div class="footer1_v4">
-                <div class="footerLogo"><a href="https://www.shareapi.com"><img width="238" height="33" src="/themes/v4/public/images/footerLogo.png" alt="聚合数据"/></a></div>
+                <div class="footerLogo"><a href="https://www.shareapi.com"><img width="238" height="33" src="/themes/v4/public/images/footerLogo.png" alt="分享数据"/></a></div>
                 <p>京 ICP 备 16034375 号ShareApi©版权所有</p>
                 <div class="footerContact">400-8827-715</div>
             </div>
@@ -162,24 +162,24 @@
                 <dt>关于</dt>
                 <dd><a href="https://juheimg.oss-cn-hangzhou.aliyuncs.com/docs/%E8%81%9A%E5%90%88%E6%95%B0%E6%8D%AEAPI%E7%94%B3%E8%AF%B7%E4%BD%BF%E7%94%A8%E6%B5%81%E7%A8%8B.pdf" rel="nofollow" target="_blank">新手引导</a></dd>
                 <dd><a href="/contact" rel="nofollow">联系我们</a></dd>
-                <dd><a href="/job" rel="nofollow">聚合招聘</a></dd>
+                <dd><a href="/job" rel="nofollow">分享招聘</a></dd>
                 <dd><a href="/privacy" rel="nofollow">隐私政策</a></dd>
                 <dd><a href="/legal" rel="nofollow">服务条款</a></dd>
                 <dd><a href="/links" rel="nofollow">友情链接</a></dd>
                 <dd><a href="/complaints" rel="nofollow">客户投诉</a></dd>
             </dl>
             <dl class="footerDl_v4" style="border-right: 1px solid #e7e7e7;">
-                <dt>聚合工具</dt>
+                <dt>分享工具</dt>
                 <dd><a href="/box">聚盒子</a></dd>
-                <dd><a href="https://www.shareapi.com/d/cellmap">聚合基站</a></dd>
+                <dd><a href="https://www.shareapi.com/d/cellmap">分享基站</a></dd>
                 <dd><a href="http://www.wodiche.cn" target="_blank">车辆违章查询</a></dd>
-                <dd><a href="http://lbs.shareapi.com">LBS聚合</a></dd>
-                <dd><a href="http://tools.shareapi.com">聚合工具</a></dd>
-                <dd><a href="https://code.shareapi.com">聚合代码</a></dd>
+                <dd><a href="http://lbs.shareapi.com">LBS分享</a></dd>
+                <dd><a href="http://tools.shareapi.com">分享工具</a></dd>
+                <dd><a href="https://code.shareapi.com">分享代码</a></dd>
                 <dd><a href="/foreign">国外API检索</a></dd>
             </dl>
             <div class="juheCode_v4">
-                <img src="/themes/v4/public/images/juheCodeBg.png" alt="聚合数据微信"/>
+                <img src="/themes/v4/public/images/juheCodeBg.png" alt="分享数据微信"/>
                 <p>关注官方微信</p>
             </div>
         </div>

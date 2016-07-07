@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 <meta charset="UTF-8">
-<title>聚合数据-登陆</title>
+<title>分享数据-登陆</title>
 <link rel="stylesheet" type="text/css" href="/themes/v5/public/css/reset.css"/>
 <!--<link rel="stylesheet" type="text/css" href="../../../public/css/regstyle.css"/>-->
 <style type="text/css">
@@ -78,7 +78,7 @@
                 </div>
                 <div class="inputDiv">
                     <input type="button" class="regBtn" id="loginBtn" value="登录" style="letter-spacing: 3px;">
-                    <p class="have">还没有聚合账号，<a href="/register" target="_blank">立即注册</a></p>
+                    <p class="have">还没有分享账号，<a href="/register" target="_blank">立即注册</a></p>
                 </div>
             </form>
         </div>

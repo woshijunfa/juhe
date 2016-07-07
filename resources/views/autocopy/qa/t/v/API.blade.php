@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="API常见问题，聚合数据，数据调用常见问题，API接口问题，解答">
-<meta name="description" content="开发者在使用聚合数据时遇到任何问题以及合作相关事项，都可以在聚合数据问答平台进行提交问题，聚合数据官方会在第一时间进行回复。">
+<meta name="keywords" content="API常见问题，分享数据，数据调用常见问题，API接口问题，解答">
+<meta name="description" content="开发者在使用分享数据时遇到任何问题以及合作相关事项，都可以在分享数据问答平台进行提交问题，分享数据官方会在第一时间进行回复。">
 <link rel="stylesheet" type="text/css" href="/themes/v4/public/css/reset.css"/>
 <link rel="stylesheet" type="text/css" href="/themes/v4/public/css/headFooter.css"/>
-<title>API-聚合数据</title>
+<title>API-分享数据</title>
 <script src="/themes/v4/public/js/jquery.min.js" type="text/javascript" charset="utf-8"></script>
 <script type="text/javascript" src="/themes/v4/public/js/jquery.form.js"></script>
 <!--[if lt IE 9]>
@@ -22,7 +22,7 @@
 <header class="width100_v4">
         <div class="width1200_v4">
             <div id="headerTop_v4">
-                <h1><a href="/"><img src="/themes/v4/public/images/logo.png" alt="聚合数据" /></a></h1>
+                <h1><a href="/"><img src="/themes/v4/public/images/logo.png" alt="分享数据" /></a></h1>
                 <div class="search_v4">
                     <input type="text" id="searchText_v4" name="q" placeholder="输入需要查询的问题关键字，例如：天气" />
                     <input type="button" id="searchBtn_v4" value="搜索" />
@@ -48,7 +48,7 @@
             <nav class="clearfix">
                 <a href="/">首页</a>
                 <!--<a href="">企业服务</a>
-                <a href="">聚合国际造型</a>-->
+                <a href="">分享国际造型</a>-->
             </nav>
         </div>
     </header>
@@ -248,7 +248,7 @@
 <footer class="width100_v4">
         <div class="width1200_v4 footerContent_v4 clearfix">
             <div class="footer1_v4">
-                <div class="footerLogo"><a href="https://www.shareapi.com"><img width="238" height="33" src="/themes/v4/public/images/footerLogo.png" alt="聚合数据"/></a></div>
+                <div class="footerLogo"><a href="https://www.shareapi.com"><img width="238" height="33" src="/themes/v4/public/images/footerLogo.png" alt="分享数据"/></a></div>
                 <p>京 ICP 备 16034375 号ShareApi©版权所有</p>
                 <div class="footerContact">400-8827-715</div>
             </div>
@@ -264,24 +264,24 @@
                 <dt>关于</dt>
                 <dd><a href="https://juheimg.oss-cn-hangzhou.aliyuncs.com/docs/%E8%81%9A%E5%90%88%E6%95%B0%E6%8D%AEAPI%E7%94%B3%E8%AF%B7%E4%BD%BF%E7%94%A8%E6%B5%81%E7%A8%8B.pdf" rel="nofollow" target="_blank">新手引导</a></dd>
                 <dd><a href="/contact" rel="nofollow">联系我们</a></dd>
-                <dd><a href="/job" rel="nofollow">聚合招聘</a></dd>
+                <dd><a href="/job" rel="nofollow">分享招聘</a></dd>
                 <dd><a href="/privacy" rel="nofollow">隐私政策</a></dd>
                 <dd><a href="/legal" rel="nofollow">服务条款</a></dd>
                 <dd><a href="/links" rel="nofollow">友情链接</a></dd>
                 <dd><a href="/complaints" rel="nofollow">客户投诉</a></dd>
             </dl>
             <dl class="footerDl_v4" style="border-right: 1px solid #e7e7e7;">
-                <dt>聚合工具</dt>
+                <dt>分享工具</dt>
                 <dd><a href="/box">聚盒子</a></dd>
-                <dd><a href="https://www.shareapi.com/d/cellmap">聚合基站</a></dd>
+                <dd><a href="https://www.shareapi.com/d/cellmap">分享基站</a></dd>
                 <dd><a href="http://www.wodiche.cn" target="_blank">车辆违章查询</a></dd>
-                <dd><a href="http://lbs.shareapi.com">LBS聚合</a></dd>
-                <dd><a href="http://tools.shareapi.com">聚合工具</a></dd>
-                <dd><a href="https://code.shareapi.com">聚合代码</a></dd>
+                <dd><a href="http://lbs.shareapi.com">LBS分享</a></dd>
+                <dd><a href="http://tools.shareapi.com">分享工具</a></dd>
+                <dd><a href="https://code.shareapi.com">分享代码</a></dd>
                 <dd><a href="/foreign">国外API检索</a></dd>
             </dl>
             <div class="juheCode_v4">
-                <img src="/themes/v4/public/images/juheCodeBg.png" alt="聚合数据微信"/>
+                <img src="/themes/v4/public/images/juheCodeBg.png" alt="分享数据微信"/>
                 <p>关注官方微信</p>
             </div>
         </div>

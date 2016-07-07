@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>聚合数据-手机号码注册</title>
+<title>分享数据-手机号码注册</title>
 <link rel="stylesheet" type="text/css" href="/themes/v5/public/css/reset.css"/>
 <link rel="stylesheet" type="text/css" href="/themes/v5/public/css/regstyle.css"/>
 <script src="//cdn.shareapi.com/common/baidu.js" type="text/javascript" charset="utf-8"></script>
@@ -35,7 +35,7 @@
 						<p class="errorTips"><i></i><em></em></p>
 					</div>
 					<div class="inputDiv">
-						<label><input type="checkbox" name="isRead"  value="1" checked="checked" id="checkedd" />&nbsp;&nbsp;我已阅读并接受<a href="/legal" target="_blank">《聚合用户服务协议》</a></label>
+						<label><input type="checkbox" name="isRead"  value="1" checked="checked" id="checkedd" />&nbsp;&nbsp;我已阅读并接受<a href="/legal" target="_blank">《分享用户服务协议》</a></label>
 						<p class="errorTips" id="checkedTips"><i></i><em></em></p>
 					</div>
                     <div class="inputDiv">
@@ -43,7 +43,7 @@
                     </div>
 					<div class="inputDiv">
 						<input style="letter-spacing: 4px;" type="button" class="regBtn" value="注册">
-						<p class="have">已有聚合账号，<a target="_blank" href="/login">直接登录<i></i></a></p>
+						<p class="have">已有分享账号，<a target="_blank" href="/login">直接登录<i></i></a></p>
 					</div>
                     <input type="hidden" name="JUHE_TOKEN" value="B46435D86A1E4B9E2EFB3E2CEF9DF9344280FF2C"> 
 				</form>
@@ -96,7 +96,7 @@ $(function(){
         }else if( userPass.length < 8 ){
             showError( '密码不能少于8位',$('#password') );
         }else if( !$('#checkedd').is(":checked") ){
-            $('#checkedTips').find('em').html('请接受聚合用户服务协议');
+            $('#checkedTips').find('em').html('请接受分享用户服务协议');
             $('#checkedTips').fadeIn();
             $(".regBtn").val('注册').removeAttr('disabled');
             return false;

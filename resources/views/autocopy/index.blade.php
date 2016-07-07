@@ -2,9 +2,9 @@
 <html>
 <head>
 <meta charset="utf-8">
-<meta name="keywords" content="API数据，开发者数据定制，免费数据调用，聚合数据">
+<meta name="keywords" content="API数据，开发者数据定制，免费数据调用，分享数据">
 <meta name="description" content="提供30大类，100种以上基础数据API服务，国内最大的基础数据API服务提供商">
-<title>API数据接口_开发者数据定制_免费数据调用-聚合数据</title>
+<title>API数据接口_开发者数据定制_免费数据调用-分享数据</title>
 <link rel="stylesheet" type="text/css" href="/themes/v4/public/css/reset.css"/>
 <link rel="stylesheet" type="text/css" href="/themes/v4/public/css/headFooter.css"/>
 <link rel="stylesheet" type="text/css" href="/themes/v4/public/css/css_v4.css"/>
@@ -54,7 +54,7 @@ var _hmt = _hmt || [];
         	<div class="newyearicon2"></div>
         	<div class="newyearicon3"></div>
             <div id="headerTop_v4">
-                <h1><a href="/"><img src="/themes/v4/public/images/logo.png" alt="聚合数据" /></a></h1>
+                <h1><a href="/"><img src="/themes/v4/public/images/logo.png" alt="分享数据" /></a></h1>
                 <div class="search_v4">
                     <input type="text" id="searchText_v4" name="q" placeholder="输入想要查询的数据，例如：天气预报" />
                     <input type="button" id="searchBtn_v4" value="搜索" />
@@ -84,7 +84,7 @@ var _hmt = _hmt || [];
                 <!--<a href="/contact" >商务合作</a>-->
                 <!-- <a href="http://open.shareapi.com">发布服务</a> -->
                 <!--<a href="">企业服务</a>
-                <a href="">聚合国际造型</a>-->
+                <a href="">分享国际造型</a>-->
                 <a class="contact_v4" href="/contact">联系我们</a>
             </nav>
         </div>
@@ -100,11 +100,11 @@ var _hmt = _hmt || [];
         <div class="navList_v4 width1200_v4 clearfix">
             <span>全部数据分类</span>
             <p class="subNavP">
-                <a style="border:0 none;" href="/box" title="聚合数据接口测试" target="_blank">聚盒子</a>
-                <a href="/d/cellmap/index.php" title="基站查询、基站定位" target="_blank">聚合基站</a>
+                <a style="border:0 none;" href="/box" title="分享数据接口测试" target="_blank">聚盒子</a>
+                <a href="/d/cellmap/index.php" title="基站查询、基站定位" target="_blank">分享基站</a>
                 <a href="http://wz.shareapi.com" target="_blank">车辆违章查询</a>
-                <a href="http://code.shareapi.com" target="_blank"><font color="#03C5FF">聚合代码</font></a>
-                <a href="http://lbs.shareapi.com" target="_blank">LBS聚合</a>
+                <a href="http://code.shareapi.com" target="_blank"><font color="#03C5FF">分享代码</font></a>
+                <a href="http://lbs.shareapi.com" target="_blank">LBS分享</a>
             </p>
             <p class="newPerson">
                 <a href="https://juheimg.oss-cn-hangzhou.aliyuncs.com/docs/%E8%81%9A%E5%90%88%E6%95%B0%E6%8D%AEAPI%E7%94%B3%E8%AF%B7%E4%BD%BF%E7%94%A8%E6%B5%81%E7%A8%8B.pdf" rel="nofollow" target="_blank">新手引导</a>
@@ -603,7 +603,7 @@ var _hmt = _hmt || [];
 
         <div class="width100_v4" id="otherData_v4">
             <div class="width1200_v4">
-                <div class="spring_v4"><a href="/activity/double12/action/scene" target="_blank"><img class="png_bg" src="/themes/v4/public/images/spring.png" alt="聚合数据春节" /></a></div>
+                <div class="spring_v4"><a href="/activity/double12/action/scene" target="_blank"><img class="png_bg" src="/themes/v4/public/images/spring.png" alt="分享数据春节" /></a></div>
                 <ul id="specialData_v4" class="clearfix">
                     <li class="li1_v4">
                         <a href="/docs/index/cid/2">
@@ -639,15 +639,15 @@ var _hmt = _hmt || [];
                     <li class="li5_v4">
                         <a href="/huangye">
                             <div class="juheyellow_v4">
-                                <h4>聚合黄页SDK</h4>
-                                <p>一个集成聚合数据SDK并带有功能界面的一整套黄页工具解决方案</p>
+                                <h4>分享黄页SDK</h4>
+                                <p>一个集成分享数据SDK并带有功能界面的一整套黄页工具解决方案</p>
                             </div>
                         </a>
                     </li>
                     <li class="li6_v4">
                         <a href="/juhesdk/sdk">
                             <div class="juheyellow_v4">
-                                <h4>聚合数据SDK</h4>
+                                <h4>分享数据SDK</h4>
                                 <p>每种数据服务每日最多10000次免费的请求次数</p>
                             </div>
                         </a>
@@ -693,10 +693,10 @@ var _hmt = _hmt || [];
                     <div class="newestList_v4 qaListDiv_v4">
                         <ul>
                                                     <li><span>2016-06-30</span><a href="/news/index/id/201" title="苏州市发改委领导来我司调研考察">苏州市发改委领导来我司调研考察</a></li>
-                                                    <li><span>2016-06-28</span><a href="/news/index/id/200" title="打造大数据双11，5周年的聚合数据凭什么？">打造大数据双11，5周年的聚合数据凭什么？</a></li>
-                                                    <li><span>2016-06-28</span><a href="/news/index/id/199" title="聚合数据欲在“620”打造数据行业的“网络文化节”">聚合数据欲在“620”打造数据行业的“网络文化节”</a></li>
-                                                    <li><span>2016-06-20</span><a href="/news/index/id/198" title="聚合数据五周年庆正式开启！">聚合数据五周年庆正式开启！</a></li>
-                                                    <li><span>2016-05-30</span><a href="/news/index/id/197" title="聚合数据亮相2016中国大数据产业峰会，以数据助力企业商业变革">聚合数据亮相2016中国大数据产业峰会，以数据助力企业商业变革</a></li>
+                                                    <li><span>2016-06-28</span><a href="/news/index/id/200" title="打造大数据双11，5周年的分享数据凭什么？">打造大数据双11，5周年的分享数据凭什么？</a></li>
+                                                    <li><span>2016-06-28</span><a href="/news/index/id/199" title="分享数据欲在“620”打造数据行业的“网络文化节”">分享数据欲在“620”打造数据行业的“网络文化节”</a></li>
+                                                    <li><span>2016-06-20</span><a href="/news/index/id/198" title="分享数据五周年庆正式开启！">分享数据五周年庆正式开启！</a></li>
+                                                    <li><span>2016-05-30</span><a href="/news/index/id/197" title="分享数据亮相2016中国大数据产业峰会，以数据助力企业商业变革">分享数据亮相2016中国大数据产业峰会，以数据助力企业商业变革</a></li>
                                                 </ul>
                     </div>
                     <div class="newestQa_v4 qaListDiv_v4">
@@ -712,7 +712,7 @@ var _hmt = _hmt || [];
     <footer class="width100_v4">
 	<div class="width1200_v4 footerContent_v4 clearfix">
 		<div class="footer1_v4">
-			<div class="footerLogo"><a href="https://www.shareapi.com"><img width="238" height="33" src="/themes/v4/public/images/footerLogo.png" alt="聚合数据"/></a></div>
+			<div class="footerLogo"><a href="https://www.shareapi.com"><img width="238" height="33" src="/themes/v4/public/images/footerLogo.png" alt="分享数据"/></a></div>
 			<p>京 ICP 备 16034375 号ShareApi©版权所有</p>
 			<div class="footerContact">400-8827-715</div>
 		</div>
@@ -728,24 +728,24 @@ var _hmt = _hmt || [];
 			<dt>关于</dt>
 			<dd><a href="https://juheimg.oss-cn-hangzhou.aliyuncs.com/docs/%E8%81%9A%E5%90%88%E6%95%B0%E6%8D%AEAPI%E7%94%B3%E8%AF%B7%E4%BD%BF%E7%94%A8%E6%B5%81%E7%A8%8B.pdf" rel="nofollow" target="_blank">新手引导</a></dd>
 			<dd><a href="/contact" rel="nofollow">联系我们</a></dd>
-			<dd><a href="/job" rel="nofollow">聚合招聘</a></dd>
+			<dd><a href="/job" rel="nofollow">分享招聘</a></dd>
 			<dd><a href="/privacy" rel="nofollow">隐私政策</a></dd>
 			<dd><a href="/legal" rel="nofollow">服务条款</a></dd>
 			<dd><a href="/links" rel="nofollow">友情链接</a></dd>
       <dd><a href="/complaints" rel="nofollow">客户投诉</a></dd>
 		</dl>
 		<dl class="footerDl_v4" style="border-right: 1px solid #e7e7e7;">
-			<dt>聚合工具</dt>
+			<dt>分享工具</dt>
 			<dd><a href="/box">聚盒子</a></dd>
-			<dd><a href="/d/cellmap">聚合基站</a></dd>
+			<dd><a href="/d/cellmap">分享基站</a></dd>
 			<dd><a href="http://www.wodiche.cn" target="_blank">车辆违章查询</a></dd>
-			<dd><a href="http://lbs.shareapi.com">LBS聚合</a></dd>
-			<dd><a href="http://tools.shareapi.com">聚合工具</a></dd>
-			<dd><a href="http://code.shareapi.com">聚合代码</a></dd>
+			<dd><a href="http://lbs.shareapi.com">LBS分享</a></dd>
+			<dd><a href="http://tools.shareapi.com">分享工具</a></dd>
+			<dd><a href="http://code.shareapi.com">分享代码</a></dd>
 			<dd><a href="/foreign">国外API检索</a></dd>
 		</dl>
 		<div class="juheCode_v4">
-			<img src="/themes/v4/public/images/juheCodeBg.png" alt="聚合数据微信"/>
+			<img src="/themes/v4/public/images/juheCodeBg.png" alt="分享数据微信"/>
 			<p>关注官方微信</p>
 		</div>
 	</div>

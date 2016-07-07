@@ -15,7 +15,7 @@
 <script src="/themes/v5/public/js/DD_belatedPNG_0.0.8a.js"  type="text/javascript"></script>
 <script>DD_belatedPNG.fix('.centerIcon');</script>
 <![endif]-->
-<title>聚合数据-登录</title>
+<title>分享数据-登录</title>
 </head>
 <style>.errorTips{display:none}</style><!--初始化时,隐藏错误信息-->
 <body>
@@ -54,7 +54,7 @@
 
         <p class="loginList"><a href="/forget">忘记密码?</a></p>
         <input class="loginBtn" type="button" id="loginBtn" value="登录" />
-        <p class="have">还没有聚合账号，<a href="/register">立即注册<i></i></a></p>
+        <p class="have">还没有分享账号，<a href="/register">立即注册<i></i></a></p>
         </form>
         </div>
         </div>

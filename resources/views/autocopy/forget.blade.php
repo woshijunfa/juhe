@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>聚合数据-找回密码</title>
+<title>分享数据-找回密码</title>
 <link rel="stylesheet" type="text/css" href="/themes/v5/public/css/reset.css"/>
 <link rel="stylesheet" type="text/css" href="/themes/v5/public/css/regstyle.css"/>
 </head>
