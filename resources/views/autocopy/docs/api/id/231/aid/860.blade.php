@@ -633,7 +633,6 @@ http://code.shareapi.com/docs/1945*/</font>
                     <p class="apides">此接口依据用户提供的请求为指定固话/宽带直接充值</p>
                 </li>
                             </ul>
-            <h3>活动推荐<span>/Activity</span></h3>
             <ul class="apiActivity">
                 <!--<li>
                     <a href="https://www.shareapi.com/docs/api/id/54" target="_blank"><img src="/themes/v4/public/images/apiactivity2.png"/></a>

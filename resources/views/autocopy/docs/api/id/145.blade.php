@@ -592,7 +592,6 @@
                     <p class="apides">健康资讯新闻为广大网民提供医疗卫生行业最新资讯,追踪健康焦点事件</p>
                 </li>
                             </ul>
-            <h3>活动推荐<span>/Activity</span></h3>
             <ul class="apiActivity">
                 <!--<li>
                     <a href="/docs/api/id/54" target="_blank"><img src="/themes/v4/public/images/apiactivity2.png"/></a>

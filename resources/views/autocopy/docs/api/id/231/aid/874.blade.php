@@ -624,7 +624,6 @@
                     <p class="apides">依据用户提供的请求为指定手机充值流量</p>
                 </li>
                             </ul>
-            <h3>活动推荐<span>/Activity</span></h3>
             <ul class="apiActivity">
                 <!--<li>
                     <a href="https://www.shareapi.com/docs/api/id/54" target="_blank"><img src="/themes/v4/public/images/apiactivity2.png"/></a>

@@ -1226,7 +1226,6 @@
                     <p class="apides">搜集网络幽默、搞笑、内涵段子，不间断更新</p>
                 </li>
                             </ul>
-            <h3>活动推荐<span>/Activity</span></h3>
             <ul class="apiActivity">
                 <!--<li>
                     <a href="/docs/api/id/54" target="_blank"><img src="/themes/v4/public/images/apiactivity2.png"/></a>

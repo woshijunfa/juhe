@@ -592,7 +592,6 @@ src=&quot;data:image/jpg;base64,/9j/4AAQSkZJRgABAgAAAQABAA...&quot;&gt;</font>
                     <p class="apides">提供沪深、香港、美国股市信息</p>
                 </li>
                             </ul>
-            <h3>活动推荐<span>/Activity</span></h3>
             <ul class="apiActivity">
                 <!--<li>
                     <a href="https://www.shareapi.com/docs/api/id/54" target="_blank"><img src="/themes/v4/public/images/apiactivity2.png"/></a>

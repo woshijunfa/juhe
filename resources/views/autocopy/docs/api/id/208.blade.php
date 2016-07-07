@@ -585,7 +585,6 @@
                     <p class="apides">中国创业投资和私募股权投资领域综合数据服务提供商</p>
                 </li>
                             </ul>
-            <h3>活动推荐<span>/Activity</span></h3>
             <ul class="apiActivity">
                 <!--<li>
                     <a href="https://www.shareapi.com/docs/api/id/54" target="_blank"><img src="/themes/v4/public/images/apiactivity2.png"/></a>

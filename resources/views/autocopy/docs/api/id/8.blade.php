@@ -671,7 +671,6 @@
                     <p class="apides">根据提供的谷歌地图坐标、百度地图坐标或GPS坐标，查询位置信息</p>
                 </li>
                             </ul>
-            <h3>活动推荐<span>/Activity</span></h3>
             <ul class="apiActivity">
                 <!--<li>
                     <a href="/docs/api/id/54" target="_blank"><img src="/themes/v4/public/images/apiactivity2.png"/></a>

@@ -583,7 +583,6 @@
                     <p class="apides">支持人民币牌价、外汇汇率查询；数据仅供参考，交易时以银行柜台成交价为准</p>
                 </li>
                             </ul>
-            <h3>活动推荐<span>/Activity</span></h3>
             <ul class="apiActivity">
                 <!--<li>
                     <a href="https://www.juhe.cn/docs/api/id/54" target="_blank"><img src="/themes/v4/public/images/apiactivity2.png"/></a>

@@ -713,7 +713,6 @@
                     <p class="apides">可以快速建立起访客与网站主之间的电话连接，让访客更加轻松的与网站主进行对话、咨询、洽谈等</p>
                 </li>
                             </ul>
-            <h3>活动推荐<span>/Activity</span></h3>
             <ul class="apiActivity">
                 <!--<li>
                     <a href="https://www.shareapi.com/docs/api/id/54" target="_blank"><img src="/themes/v4/public/images/apiactivity2.png"/></a>

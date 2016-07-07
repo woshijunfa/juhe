@@ -594,7 +594,6 @@
                     <p class="apides">暂支持在上海工作的人群覆盖，以及部分江苏等其他地区的个人经历</p>
                 </li>
                             </ul>
-            <h3>活动推荐<span>/Activity</span></h3>
             <ul class="apiActivity">
                 <!--<li>
                     <a href="https://www.shareapi.com/docs/api/id/54" target="_blank"><img src="/themes/v4/public/images/apiactivity2.png"/></a>

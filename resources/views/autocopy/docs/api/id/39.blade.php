@@ -708,7 +708,6 @@
                     <p class="apides">城市空气质量、城市空气PM2.5指数、城市辐射指数</p>
                 </li>
                             </ul>
-            <h3>活动推荐<span>/Activity</span></h3>
             <ul class="apiActivity">
                 <!--<li>
                     <a href="/docs/api/id/54" target="_blank"><img src="/themes/v4/public/images/apiactivity2.png"/></a>

@@ -292,7 +292,6 @@
                 <p class="apides">支持指定城市社保公积金缴费比例查询和补缴计算、正常缴纳以及补缴，测试完毕后请联系商务获取正式生产环境接口。服务费：请咨询客服</p>
             </li>
                     </ul>
-        <h3>活动推荐<span>/Activity</span></h3>
         <ul class="apiActivity">
             <li>
                 <a href="https://free.shareapi.com/" target="_blank"><img src="/themes/v4/public/images/apiactivity3.png"/></a>
