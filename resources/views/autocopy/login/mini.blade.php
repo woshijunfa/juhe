@@ -48,7 +48,12 @@
 </style>
 </head>
 <body>
-    <div class="registerMain">
+
+<div style="text-align:center;padding-top:200px;">
+    <p>正在建设中。。。</p>
+</div>
+
+    <div style="display:none;" class="registerMain">
         <div class="regDiv">
             <div class="xTitle">
                 <h4 class="emailTitle">账号登录</h4>
