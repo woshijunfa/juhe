@@ -149,3 +149,4 @@ Route::get('/docs/api/id/226', 'CopyController@autoNavi');
 Route::get('/docs/api/id/226/aid/823', 'CopyController@autoNavi');
 Route::get('/docs/api/id/226/aid/825', 'CopyController@autoNavi');
 Route::get('/docs/api/id/226/aid/826', 'CopyController@autoNavi');
+Route::get('/docs/api/id/213/aid/735', 'CopyController@autoNavi');

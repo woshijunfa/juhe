@@ -70,7 +70,6 @@
             <li><a href="/about" data-t="footer.about" data-attr-t="" href-t="routeEn.about">关于</a></li>
             <li><a href="/career" data-t="footer.career" data-attr-t="" href-t="routeEn.career">招聘</a></li>
             <li><a href="/media" data-t="footer.media" data-attr-t="" href-t="routeEn.media">媒体</a></li> -->
-            <li><a href="#" data-t="footer.contact">联系我们 邮箱：service@shareapi.cn</a></li>
             <!-- <li><a href="/terms" data-t="footer.legal">法律条款</a></li> -->
           </ul>
           <p class="xsmall">© ShareApi 

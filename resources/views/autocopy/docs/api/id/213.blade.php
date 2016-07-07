@@ -2,13 +2,13 @@
 <html>
 <head>
 <meta charset="utf-8">
-<meta name="keywords" content="7*24小时城市天气空气质量预报数据接口,API数据调用" />
+<meta name="keywords" content="银行卡四元素校验数据接口,API数据调用" />
 <meta name="description" content="分享数据，专业的API数据平台，为您提供内容标题数据接口以及调用信息，无期限免费试用再付费升级。" />
 <link rel="stylesheet" type="text/css" href="/themes/v4/public/css/reset.css"/>
 <link rel="stylesheet" type="text/css" href="/themes/v4/public/css/reset.css"/>
 <link rel="stylesheet" type="text/css" href="/themes/v4/public/css/headFooter.css"/>
 <link rel="stylesheet" type="text/css" href="/themes/v4/public/css/api.v5.css"/>
-<title>7*24小时城市天气空气质量预报数据接口_免费API接口调用-分享数据</title>
+<title>银行卡四元素校验数据接口_免费API接口调用-分享数据</title>
 <script src="/themes/v4/public/js/jquery.min.js" type="text/javascript" charset="utf-8"></script>
 <script src="/themes/v4/public/js/json.parse.js" type="text/javascript" charset="utf-8"></script>
 <!--[if lt IE 9]>
@@ -81,49 +81,49 @@
     <div id="docsapiContent" class="clearfix">
         <div id="docs_api_main">
             <div class="api_data">
-                <div class="api_data_img png_bg" style="background:url(/themes/images/data/new/a226.png) center no-repeat;">
+                <div class="api_data_img png_bg" style="background:url(/themes/images/data/new/a213.png) center no-repeat;">
                 	<!--五周年活动 icon-->
                 		                	<!--五周年活动 icon end-->
                 </div>
                 <div class="api_data_info">
-                    <h2><strong>7*24小时城市天气空气质量预报</strong>
+                    <h2><strong>银行卡四元素校验</strong>
+                                                <span class="h1_span color_juhe">分享数据</span>
                         
                                             </h2>
-                    <p class="doc_api_decsP">提供数据气象方面,包括天气预报和空气质量预报的精细化的服务</p>
+                    <p class="doc_api_decsP">检测输入的姓名、手机号码、身份证号码、银行卡号是否一致。</p>
 					<!--五周年活动 start-->
                     					<!--五周年活动 end-->
                     <div id="api_arguments" class="clearfix">
                         <div class="doc_arguments">
-                            <p><b>数据ID：</b><font color="#ff9445">226</font></p>
+                            <p><b>数据ID：</b><font color="#ff9445">213</font></p>
                             <p><b>接口状态：</b><font color="#88c773"><span style="color:#88c773; ">正常</span></font></p>
                         </div>
                         <div class="doc_arguments">
-                            <p><b>连接应用数：</b><font color="#777">2244</font></p>
-                            <p><b>接入服务商：</b><font color="#03c5ff">象辑科技</font></p>
+                            <p><b>连接应用数：</b><font color="#777">356</font></p>
+                            <p><b>接入服务商：</b><font color="#03c5ff">分享数据</font></p>
                         </div>
                         <div class="doc_arguments docPrice">
                                                                                             <p>
                                     <span style="color: #f0767f; font-size: 16px;">
-                                        ￥99.00
+                                        ￥199.00
                                     </span>
                                     <span style="color: #888; padding-left: 5px;">
-                                    /5000次</span>
-                                                                        <span style="color: #f0767f;">（申请即送20次）</span>
+                                    /120次</span>
                                                                     </p>
                                                                                         <!-- <p>使用SDK每日免费赠送 10000 次 <a class="youhuia" href="https://www.juhe.cn/price" target="_blank" rel="nofollow">详情&gt;&gt;</a></p> -->
                         </div>
                     </div>
                     <div class="api_data_btns">
                                                 
-                        <a class="api_newbtn_apply" href="javascript:xlogin();" title="申请7*24小时城市天气空气质量预报 API" data="/myData/apply/id/226">申请数据</a>
+                        <a class="api_newbtn_apply" href="javascript:xlogin();" title="申请银行卡四元素校验 API" data="/myData/apply/id/213">申请数据</a>
                         
                         
                         
-                        <!-- <a class="api_newbtn_pdf" href="/docs/demo/id/226" target="_blank">离线文档</a> -->
+                        <!-- <a class="api_newbtn_pdf" href="/docs/demo/id/213" target="_blank">离线文档</a> -->
                     </div>
                 </div>
                 
-                                  <a class="unfavit" id="favita" data="226"></a>
+                                  <a class="unfavit" id="favita" data="213"></a>
                                 <!--  -->
                 
 
@@ -145,55 +145,19 @@
                 <div style="padding-left: 0;" class="docs_api_show clearfix">
                     <ul class="das_left">
                                                  <li class="clearfix">
-                            <a class="selected" href="/docs/api/id/226" title="根据输入区号查询实况天气数据">1.根据输入区号查询实况天气数据</a>
+                            <a class="selected" href="/docs/api/id/213" title="银行卡四元素检测">1.银行卡四元素检测</a>
                         </li>
                                                  <li >
-                            <a  href="/docs/api/id/226/aid/821" title="逐小时预报天气数据">2.逐小时预报天气数据</a>
-                        </li>
-                                                 <li >
-                            <a  href="/docs/api/id/226/aid/822" title="15天概览天气预报数据">3.15天概览天气预报数据</a>
-                        </li>
-                                                 <li >
-                            <a  href="/docs/api/id/226/aid/823" title="城市实况指数数据">4.城市实况指数数据</a>
-                        </li>
-                                                 <li >
-                            <a  href="/docs/api/id/226/aid/824" title="实况空气质量数据">5.实况空气质量数据</a>
-                        </li>
-                                                 <li >
-                            <a  href="/docs/api/id/226/aid/825" title="根据区号逐小时查询AQI">6.根据区号逐小时查询AQI</a>
-                        </li>
-                                                 <li >
-                            <a  href="/docs/api/id/226/aid/826" title="根据经纬度逐小时查询AQI">7.根据经纬度逐小时查询AQI</a>
-                        </li>
-                                                 <li >
-                            <a  href="/docs/api/id/226/aid/827" title="根据地区编码查询每日AQI 均值">8.根据地区编码查询每日AQI 均值</a>
-                        </li>
-                                                 <li >
-                            <a  href="/docs/api/id/226/aid/828" title="根据经纬度查询每日AQI 均值">9.根据经纬度查询每日AQI 均值</a>
-                        </li>
-                                                 <li >
-                            <a  href="/docs/api/id/226/aid/829" title="根据地区编码查询逐小时分量数据">10.根据地区编码查询逐小时分量数据</a>
-                        </li>
-                                                 <li >
-                            <a  href="/docs/api/id/226/aid/830" title="根据经纬度查询逐小时数据">11.根据经纬度查询逐小时数据</a>
-                        </li>
-                                                 <li >
-                            <a  href="/docs/api/id/226/aid/831" title="根据地区编码查询每日均值分量数据">12.根据地区编码查询每日均值分量数据</a>
-                        </li>
-                                                 <li >
-                            <a  href="/docs/api/id/226/aid/832" title="根据经纬度查询每日均值分量数据">13.根据经纬度查询每日均值分量数据</a>
-                        </li>
-                                                 <li >
-                            <a  href="/docs/api/id/226/aid/833" title="地区信息列表">14.地区信息列表</a>
+                            <a  href="/docs/api/id/213/aid/735" title="查询记录清单">2.查询记录清单</a>
                         </li>
                                             </ul>
                     <div class="das_right">
-                        <div class="simpleline"><strong>接口地址：</strong><span class="url">http://v.juhe.cn/xiangji_weather/real_time_weather.php</span></div>
+                        <div class="simpleline"><strong>接口地址：</strong><span class="url">http://v.juhe.cn/verifybankcard4/query</span></div>
                         <div class="simpleline"><strong>支持格式：</strong><span class="url">json</span></div>
-                        <div class="simpleline"><strong>请求方式：</strong><span class="url">get</span></div>
-                        <div class="simpleline"><strong>请求示例：</strong><span class="url">http://v.juhe.cn/xiangji_weather/real_time_weather.php?areaid=101010100&amp;key=YOURKEY</span></div>
+                        <div class="simpleline"><strong>请求方式：</strong><span class="url">http get/post</span></div>
+                        <div class="simpleline"><strong>请求示例：</strong><span class="url">http://v.juhe.cn/verifybankcard4/query.php?key=&amp;bankcard=6259656360701234&amp;realname=你好帅&amp;idcard=310329198903010011&amp;mobile=18912341234</span></div>
 
-                                                <div class="simpleline"><strong>接口备注：</strong><font color="">根据输入区号查询实况天气数据</font></div>
+                                                <div class="simpleline"><strong>接口备注：</strong><font color="">根据姓名、身份证、银行卡、手机号码，检测信息是否匹配</font></div>
                         
                                                 <div class="simpleline simpleTable">
                             <strong>请求参数说明：</strong>
@@ -210,14 +174,35 @@
                                     <td class="url">key</td>
                                     <td class="url">string</td>
                                     <td class="url">是</td>
-                                    <td>你申请的key</td>
+                                    <td>您申请的key</td>
                                   </tr>
                                                                     <tr>
                                     <td>&nbsp;</td>
-                                    <td class="url">areaid</td>
-                                    <td class="url">int</td>
+                                    <td class="url">realname</td>
+                                    <td class="url">string</td>
                                     <td class="url">是</td>
-                                    <td>地区编码</td>
+                                    <td>姓名，需要utf8 Urlencode</td>
+                                  </tr>
+                                                                    <tr>
+                                    <td>&nbsp;</td>
+                                    <td class="url">idcard</td>
+                                    <td class="url">string</td>
+                                    <td class="url">是</td>
+                                    <td>身份证号码</td>
+                                  </tr>
+                                                                    <tr>
+                                    <td>&nbsp;</td>
+                                    <td class="url">bankcard</td>
+                                    <td class="url">string</td>
+                                    <td class="url">是</td>
+                                    <td>银行卡卡号</td>
+                                  </tr>
+                                                                    <tr>
+                                    <td>&nbsp;</td>
+                                    <td class="url">mobile</td>
+                                    <td class="url">string</td>
+                                    <td class="url">是</td>
+                                    <td>手机号码</td>
                                   </tr>
                                                               </table>
                         </div>
@@ -240,13 +225,49 @@
                                     <td>&nbsp;</td>
                                     <td class="url">reason</td>
                                     <td class="url">string</td>
-                                    <td>提示信息</td>
+                                    <td>返回码描述</td>
                                   </tr>
                                                                     <tr>
                                     <td>&nbsp;</td>
-                                    <td class="url">result</td>
+                                    <td class="url">bankcard</td>
                                     <td class="url">string</td>
-                                    <td>实体信息</td>
+                                    <td>银行卡卡号</td>
+                                  </tr>
+                                                                    <tr>
+                                    <td>&nbsp;</td>
+                                    <td class="url">realname</td>
+                                    <td class="url">string</td>
+                                    <td>姓名</td>
+                                  </tr>
+                                                                    <tr>
+                                    <td>&nbsp;</td>
+                                    <td class="url">idcard</td>
+                                    <td class="url">string</td>
+                                    <td>身份证号码</td>
+                                  </tr>
+                                                                    <tr>
+                                    <td>&nbsp;</td>
+                                    <td class="url">res</td>
+                                    <td class="url">int</td>
+                                    <td>匹配结果，1:匹配 2:不匹配</td>
+                                  </tr>
+                                                                    <tr>
+                                    <td>&nbsp;</td>
+                                    <td class="url">jobid</td>
+                                    <td class="url">string</td>
+                                    <td>本次查询流水号</td>
+                                  </tr>
+                                                                    <tr>
+                                    <td>&nbsp;</td>
+                                    <td class="url">mobile</td>
+                                    <td class="url">string</td>
+                                    <td>手机号码</td>
+                                  </tr>
+                                                                    <tr>
+                                    <td>&nbsp;</td>
+                                    <td class="url">res</td>
+                                    <td class="url">string</td>
+                                    <td>认证结果，1:匹配 2:不匹配 3:无法认证 4:服务商超时</td>
                                   </tr>
                                                               </table>
                         </div>
@@ -254,23 +275,15 @@
                             <b>JSON返回示例：</b>
                             <div class="prediv">
                                 <pre>{
-    &quot;reason&quot;: &quot;success&quot;,
+    &quot;reason&quot;: &quot;成功1&quot;,
     &quot;result&quot;: {
-        &quot;pubTime&quot;: &quot;20160115172532&quot;,//发布时间(yyyyMMddHHmmss)	
-  
-        &quot;reqTime&quot;: &quot;20160115173718&quot;,//收到请求时间(yyyyMMddHHmmss)	
-  	
-        &quot;data&quot;: {
-            &quot;cw&quot;: &quot;01&quot;,//天气现象编码
-            &quot;w&quot;: &quot;多云&quot;,//天气现象
-            &quot;rh&quot;: 55,//相对湿度
-            &quot;cwd&quot;: &quot;东风&quot;,//风向描述
-            &quot;wd&quot;: &quot;2 级&quot;,//风力描述
-            &quot;wdg&quot;: 2,//风力级别
-            &quot;tmp&quot;: 3,//温度
-            &quot;airp&quot;: 1015,//气压
-            &quot;st&quot;: 3//体感温度
-        }
+        &quot;jobid&quot;: &quot;2015120913503797592&quot;,<font color='red'>/*本次查询流水号*/</font>
+        &quot;realname&quot;: &quot;商世界&quot;,<font color='red'>/*姓名*/</font>
+        &quot;bankcard&quot;: &quot;6259656360701234&quot;,<font color='red'>/*银行卡卡号*/</font>
+        &quot;idcard&quot;: &quot;310329198103050011&quot;,<font color='red'>/*身份证号码*/</font>
+        &quot;mobile&quot;: &quot;18912341234&quot;,<font color='red'>/*预留手机号码*/</font>
+        &quot;res&quot;: &quot;2&quot;,<font color='red'>/*验证结果，1:匹配 2:不匹配 3:无法认证 4:服务商超时*/</font>
+        &quot;message&quot;: &quot;认证信息不匹配&quot;<font color='red'>/*描述*/</font>
     },
     &quot;error_code&quot;: 0
 }</pre>
@@ -289,61 +302,7 @@
                                 <th width="200">错误码</th>
                                 <th>说明</th>
                             </tr>
-                                                          <tr>
-                                <td >&nbsp;</td>
-                                <td class="url">222600</td>
-                                <td class="text">网络请求失败,请稍后重试</td>
-                                <!--<td class="url"></td>-->
-                              </tr>
-                                                            <tr>
-                                <td >&nbsp;</td>
-                                <td class="url">222601</td>
-                                <td class="text">数据源服务器失败</td>
-                                <!--<td class="url"></td>-->
-                              </tr>
-                                                            <tr>
-                                <td >&nbsp;</td>
-                                <td class="url">222602</td>
-                                <td class="text">请求数据源过快</td>
-                                <!--<td class="url"></td>-->
-                              </tr>
-                                                            <tr>
-                                <td >&nbsp;</td>
-                                <td class="url">222603</td>
-                                <td class="text">客户端认证失败</td>
-                                <!--<td class="url"></td>-->
-                              </tr>
-                                                            <tr>
-                                <td >&nbsp;</td>
-                                <td class="url">222604</td>
-                                <td class="text">数据源请求次数达到上限</td>
-                                <!--<td class="url"></td>-->
-                              </tr>
-                                                            <tr>
-                                <td >&nbsp;</td>
-                                <td class="url">222605</td>
-                                <td class="text">经纬度错误或不在预报数据范围</td>
-                                <!--<td class="url"></td>-->
-                              </tr>
-                                                            <tr>
-                                <td >&nbsp;</td>
-                                <td class="url">222606</td>
-                                <td class="text">地区编码错误</td>
-                                <!--<td class="url"></td>-->
-                              </tr>
-                                                            <tr>
-                                <td >&nbsp;</td>
-                                <td class="url">222607</td>
-                                <td class="text">预报 API 中时间错误</td>
-                                <!--<td class="url"></td>-->
-                              </tr>
-                                                            <tr>
-                                <td >&nbsp;</td>
-                                <td class="url">222608</td>
-                                <td class="text">请求参数错误</td>
-                                <!--<td class="url"></td>-->
-                              </tr>
-                                                      </table>
+                                                    </table>
                     </div>
                     <div class="simpleline simpleTable">
                         <b>系统级错误码参照：</b>
@@ -462,7 +421,7 @@
                 <!--price-->
                 <div class="docs_api_show">
                                                                     <div class="simpleline simpleTable">
-                            <b>《7*24小时城市天气空气质量预报》资费说明：</b>
+                            <b>《银行卡四元素校验》资费说明：</b>
                             <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" class="api_table">
                                   <tr class="title">
                                     <th width="20">&nbsp;</th>
@@ -475,13 +434,13 @@
                                     <td >&nbsp;</td>
                                     <td class="url" width="200">赠送包</td>
                                     <td class="url" width="200">￥0.00&nbsp;&nbsp;</td>
-                                    <td class="url">20&nbsp;&nbsp;</td>
+                                    <td class="url">0&nbsp;&nbsp;</td>
                                     <td>&nbsp;</td>
                                   </tr>
                         </table>
                         </div>
                                                 <div class="simpleline simpleTable">
-                            <b>常规套餐包<a href="http://www.juhe.cn/contact" target="_blank"><font color="#FF0000">【更多次数、更多优惠，请与商务联系>>】</font></a></b>
+                            <b>常规套餐包<a href="http://www.juhe.cn/contact" target="_blank"><font color="#FF0000"></font></a></b>
                             <table class="api_table" border="0" cellspacing="0" cellpadding="0">
                                 <tr>
                                     <th width="20">&nbsp;</th>
@@ -492,16 +451,23 @@
                                 </tr>
                                                                   <tr>
                                     <td >&nbsp;</td>
-                                    <td class="url" width="200">起步套餐</td>
-                                    <td class="url" width="200">￥99.00&nbsp;&nbsp;</td>
-                                    <td class="url">5000&nbsp;&nbsp;</td>
+                                    <td class="url" width="200">发展套餐</td>
+                                    <td class="url" width="200">￥199.00&nbsp;&nbsp;</td>
+                                    <td class="url">120&nbsp;&nbsp;</td>
                                     <td></td>
                                   </tr>
                                                                     <tr>
                                     <td >&nbsp;</td>
-                                    <td class="url" width="200">发展套餐</td>
-                                    <td class="url" width="200">￥299.00&nbsp;&nbsp;</td>
-                                    <td class="url">20000&nbsp;&nbsp;</td>
+                                    <td class="url" width="200">起步套餐</td>
+                                    <td class="url" width="200">￥99.00&nbsp;&nbsp;</td>
+                                    <td class="url">50&nbsp;&nbsp;</td>
+                                    <td></td>
+                                  </tr>
+                                                                    <tr>
+                                    <td >&nbsp;</td>
+                                    <td class="url" width="200">高级套餐</td>
+                                    <td class="url" width="200">￥1599.00&nbsp;&nbsp;</td>
+                                    <td class="url">1000&nbsp;&nbsp;</td>
                                     <td></td>
                                   </tr>
                                                               </table>
@@ -629,24 +595,24 @@
             <h3>推荐接口<span>/API</span></h3>
             <ul class="tuijianapi">
                                 <li>
-                    <a class="tuijianimg" href="/docs/api/id/228"><img src="/themes/images/data/new/a228.png" /></a>
-                    <p class="apiname"><a href="/docs/api/id/228">灾害预警</a></p>
-                    <p class="apides">查询气象台发布的灾害类型、级别、时间等预警信息</p>
+                    <a class="tuijianimg" href="/docs/api/id/29"><img src="/themes/images/data/new/a29.png" /></a>
+                    <p class="apiname"><a href="/docs/api/id/29">黄金数据</a></p>
+                    <p class="apides">黄金品种、最新价、开盘价、最高价等信息</p>
                 </li>
                                 <li>
-                    <a class="tuijianimg" href="/docs/api/id/73"><img src="/themes/images/data/new/a73.png" /></a>
-                    <p class="apiname"><a href="/docs/api/id/73">天气预报</a></p>
-                    <p class="apides">全国天气预报，生活指数、实况、PM2.5等信息</p>
+                    <a class="tuijianimg" href="/docs/api/id/25"><img src="/themes/images/data/new/a25.png" /></a>
+                    <p class="apiname"><a href="/docs/api/id/25">净值数据</a></p>
+                    <p class="apides">净值数据</p>
                 </li>
                                 <li>
-                    <a class="tuijianimg" href="/docs/api/id/226"><img src="/themes/images/data/new/a226.png" /></a>
-                    <p class="apiname"><a href="/docs/api/id/226">7*24小时城市天气空气质量预报</a></p>
-                    <p class="apides">提供数据气象方面,包括天气预报和空气质量预报的精细化的服务</p>
+                    <a class="tuijianimg" href="/docs/api/id/23"><img src="/themes/images/data/new/a23.png" /></a>
+                    <p class="apiname"><a href="/docs/api/id/23">货币汇率</a></p>
+                    <p class="apides">支持人民币牌价、外汇汇率查询；数据仅供参考，交易时以银行柜台成交价为准</p>
                 </li>
                                 <li>
-                    <a class="tuijianimg" href="/docs/api/id/33"><img src="/themes/images/data/new/a33.png" /></a>
-                    <p class="apiname"><a href="/docs/api/id/33">空气质量</a></p>
-                    <p class="apides">城市空气质量、城市空气PM2.5指数、城市辐射指数</p>
+                    <a class="tuijianimg" href="/docs/api/id/21"><img src="/themes/images/data/new/a21.png" /></a>
+                    <p class="apiname"><a href="/docs/api/id/21">股票数据</a></p>
+                    <p class="apides">提供沪深、香港、美国股市信息</p>
                 </li>
                             </ul>
             <ul class="apiActivity">
@@ -717,7 +683,7 @@
 #juhegoTop span{display: none; width: 82px; height: 27px; padding-right:6px; line-height: 27px; background: url(/themes/v4/public/images/topTipsBg.png) no-repeat; font-size: 12px; color: #fff; font-family: "microsoft yahei"; text-align: center; position: absolute; top: 12px; right: 55px;}
 #tools_goTop{display: none;margin-top: 6px;}
 </style>
-<ul id="juhegoTop" style="display:none">
+<ul id="juhegoTop" style="display:none" style="display:none" style="display:none" style="display:none">
 	<li id="tools_qq">
 		<a rel="nofollow" href="http://crm2.qq.com/page/portalpage/wpa.php?uin=800076065&f=1&ty=1&aty=0&a=&from=6" target="_blank"></a>
 		<span>QQ客服</span>
@@ -831,7 +797,7 @@ $(document).ready(function(){
         })
     })
 
-    var did = 226;
+    var did = 213;
     $.getJSON("https://code.juhe.cn/api/docsByDid?callback=?", {
         "did" : did
       }, function(data) {
