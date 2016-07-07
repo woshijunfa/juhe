@@ -1,0 +1,9 @@
+#删除动态按钮
+grep -rl "/news/listview" ./|xargs sed -i "" "/news\/listview/d"
+grep -rl '趣钱包' ./ |xargs sed -i -e 's/趣钱包/趣店/g'
+
+//删除条
+grep -rl "B2-20140496" ./|xargs sed -i "" "/B2-20140496/d"
+
+#隐藏电话悬浮条
+grep -rl "id="juhegoTop" ./ |xargs sed -i -e 's/id="juhegoTop"/id="juhegoTop" style="display:none"/g'

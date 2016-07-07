@@ -1,0 +1,84 @@
+/*PriceMain*/
+.pricemain{ width:1200px; margin:0 auto; margin-top:40px; }
+.pricemain .left{ width:220px; float:left;}
+/*
+.pricemain .right{ width:900px; float:right;}
+*/
+.pricemain .right{ width: 1150px; margin: 0 auto;}
+.pricemain .left ul li{
+    height:30px;
+    line-height:30px;
+    text-indent:2em;
+    font-size:14px;
+    font-family:"Microsoft Yahei";
+    margin-bottom:10px
+}
+.pricemain .left ul li a{
+    color:#000
+}
+.pricemain .left ul li.sel{
+    background:#2AABE4;
+    color:#FFF
+}
+.pricemain .left ul li.sel a{
+    color:#FFF
+}
+.pricemain .left ul li .arrow{
+    width:5px; position:absolute; display:block; height:30px; background:url(../../../images/arrow.png) center center no-repeat;
+    margin-top:0px;
+    margin-left:220px;
+    *margin-left:192px;
+    *margin-top:-4px;
+
+}
+.pricemain .left .title{  line-height:30px;  font-size:18px; color:#333;}
+.pricemain .left  .line{ width:100%; border-bottom:2px solid #2AABE4; margin-top:10px;}
+
+.pricemain .right .title{
+    font-size:18px;
+    line-height:30px;
+
+}
+.pricemain .right .line{
+    width:100%;
+    margin-top:5px;
+    border-bottom:2px solid #2AABE4;
+}
+.pricemain .right .linestyle{
+    width:100%;
+    line-height:30px;
+    color:#333;
+    font-size:12px;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+.pricemain .right .linestyle a{
+    color:#2AABE4
+}
+.pricemain .right .quesline{
+    height:30px;
+    line-height:30px;
+    background:url(../../../images/questionico.gif) left center no-repeat;
+    color:#0595cd;
+    font-size:14px;
+    text-indent:30px;
+}
+.pricemain .right .tipbox{
+    background:#FBF1F1; width:100%; height:130px; border:2px solid #FACACA; margin-bottom:20px; margin-top:20px; font-size:12px;
+}
+.pricemain .right .tipbox .t{
+    color:#DD3431; line-height:25px; padding-left:20px; padding-top:20px; font-size:14px; font-weight:bold
+}
+.pricemain .right .tipbox .c{line-height:25px; padding-left:20px; color:#666}
+.pricemain .right .linetitle{
+    border-bottom:1px solid #DFDFDF;
+    height:50px;
+}
+.pricemain .right .content-title{
+    font-size:18px;
+    line-height:40px;
+    color:#2AABE4;
+
+    margin-top:20px;
+    border-bottom:1px solid #f2f2f2
+}

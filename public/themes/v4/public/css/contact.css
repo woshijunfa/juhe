@@ -1,0 +1,93 @@
+.contact_main{
+    width:100%;
+    background:#f2f2f2;
+    padding-bottom:30px;
+    padding-top:30px;
+    font-size:12px;
+}
+.contact_main .cm{
+    width:960px;
+    margin:0 auto
+}
+.cm .cm_1,.cm .cm_2,.cm .cm_3{
+    float:left;
+    width:33%;
+    line-height:30px;
+}
+.cm .cm_1 a,.cm .cm_2 a,.cm .cm_3 a{ color:#333}
+.contact{
+    width:960px;
+    margin:0 auto;
+    margin-bottom:30px;
+    margin-top:30px;
+    font-family:"Microsoft YaHei";
+}
+
+
+.contact_left{
+    width:500px;
+    float:left;
+    height:100%;
+}
+.contact_left h2,.contact_right h2{
+    height:50px;
+}
+.contact_left .cominfo{
+    width:480px;
+    line-height:25px;
+    margin-top:10px;
+}
+.contact_right{
+    width:400px;
+    float:right;
+    height:100%;
+}
+.contactBtn{
+    border:0;
+    background:#CCC;
+    height:30px;
+    width:50px;
+    cursor:pointer;
+    color:#626262;
+    font-family:"Microsoft YaHei", Heiti SC, Helvetica, "黑体", Verdana, Arial;
+    /*
+    -moz-border-radius: 3px;
+    -khtml-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    */
+}
+.contactBtn:hover{
+    background:#198DCE;
+    color:#FFF;
+    border:0;
+}
+#container{
+    width:500px;
+    height:250px;
+    border:1px solid #CCC;
+}
+.gbook{
+    height:40px;
+    margin-bottom:10px;
+}
+.gbook .message-tips{ font-size:12px; color:#C85305; display:none;}
+.gbooktxt{
+    width:270px;
+    height:35px;
+    line-height:35px;
+    font-size:14px;
+    font-family:"Microsoft YaHei", Heiti SC, Helvetica, "黑体", Verdana, Arial;
+    color:#999;
+    border:1px solid #CCC;
+    text-indent:1em;
+}
+.gbooktxtarea{
+    width:370px;
+    height:150px;
+    border:1px solid #CCC;
+    text-indent:1em;
+    font-size:14px;
+    font-family:"Microsoft YaHei", Heiti SC, Helvetica, "黑体", Verdana, Arial;
+    color:#999;
+}
