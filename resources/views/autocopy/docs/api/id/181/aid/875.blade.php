@@ -89,9 +89,7 @@
                 </div>
                 <div class="api_data_info">
                     <h2><strong>违章代缴</strong>
-                                                <span class="h1_span color_juhe">聚合数据</span>
                         
-                                                <span class="h1_span color_https">支持HTTPS</span>                        
                                             </h2>
                     <p class="doc_api_decsP">足不出户，办理违章代缴业务，更多城市陆续上线</p>
 					<!--五周年活动 start-->

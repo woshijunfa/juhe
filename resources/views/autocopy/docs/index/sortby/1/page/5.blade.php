@@ -142,7 +142,6 @@
                             <h2>
                                 <a href="/docs/api/id/66" title="邮编查询 接口">邮编查询</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">提供全国邮政编码大全,为你快速准确查邮编</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -167,7 +166,6 @@
                             <h2>
                                 <a href="/docs/api/id/156" title="新华字典 接口">新华字典</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">最大最全的新华汉语词典，按拼音查、按部首查、按笔画查</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -192,7 +190,6 @@
                             <h2>
                                 <a href="/docs/api/id/183" title="驾照题库 接口">驾照题库</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">采用公安部2015最新驾校模拟考试题库</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -217,7 +214,6 @@
                             <h2>
                                 <a href="/docs/api/id/65" title="老黄历 接口">老黄历</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">提供老黄历查询,黄历每日吉凶宜忌查询</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -294,7 +290,6 @@
                             <h2>
                                 <a href="/docs/api/id/47" title="地产数据 接口">地产数据</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">全国地产数据，目前已经包含深圳、苏州、上海等城市，其他城市陆续添加中</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -344,7 +339,6 @@
                             <h2>
                                 <a href="/docs/api/id/41" title="实时公共自行车 接口">实时公共自行车</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">目前支持城市苏州、常熟、昆山、吴江、南通、宜兴、徐州、镇江</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -369,7 +363,6 @@
                             <h2>
                                 <a href="/docs/api/id/28" title="基金财务数据 接口">基金财务数据</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">基金财务数据</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -394,7 +387,6 @@
                             <h2>
                                 <a href="/docs/api/id/51" title="Alexa网站排名 接口">Alexa网站排名</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">网站排名、流量、访问量、页面浏览量查询</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -445,7 +437,6 @@
                             <h2>
                                 <a href="/docs/api/id/48" title="全国省市今日油价 接口">全国省市今日油价</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">今日汽油价格查询,最新柴油油价实时行情</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -470,7 +461,6 @@
                             <h2>
                                 <a href="/docs/api/id/34" title="水质量 接口">水质量</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">流域查询水质量，监测站点查询水质量
 </p>
@@ -522,7 +512,6 @@
                             <h2>
                                 <a href="/docs/api/id/107" title="苹果APP游戏充值 接口">苹果APP游戏充值</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">苹果app游戏在线直充</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -571,7 +560,6 @@
                             <h2>
                                 <a href="/docs/api/id/19" title="网站安全检测 接口">网站安全检测</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">网站健康状况查询，检测结果由 360网站安全检测 提供</p>
                             <div class="juhe_desc_p2 clearfix">

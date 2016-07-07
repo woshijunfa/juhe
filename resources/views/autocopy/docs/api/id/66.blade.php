@@ -89,9 +89,7 @@
                 </div>
                 <div class="api_data_info">
                     <h2><strong>邮编查询</strong>
-                                                <span class="h1_span color_juhe">聚合数据</span>
                         
-                        <span class="h1_span color_mianfei">免费</span>                        <span class="h1_span color_https">支持HTTPS</span>                        
                                             </h2>
                     <p class="doc_api_decsP">提供全国邮政编码大全,为你快速准确查邮编</p>
 					<!--五周年活动 start-->

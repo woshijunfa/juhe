@@ -90,7 +90,6 @@
                     <h2><strong>天气预报</strong>
                                                 <span class="h1_span color_disanfang">weather.com</span>
                         
-                        <span class="h1_span color_mianfei">免费</span>                        <span class="h1_span color_https">支持HTTPS</span>                        
                                             </h2>
                     <p class="doc_api_decsP">全国天气预报，生活指数、实况、PM2.5等信息</p>
 					<!--五周年活动 start-->

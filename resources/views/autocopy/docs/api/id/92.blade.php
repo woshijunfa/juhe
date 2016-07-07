@@ -90,7 +90,6 @@
                     <h2><strong>NBA赛事</strong>
                                                 <span class="h1_span color_disanfang">360搜索</span>
                         
-                        <span class="h1_span color_mianfei">免费</span>                        <span class="h1_span color_https">支持HTTPS</span>                        
                                             </h2>
                     <p class="doc_api_decsP">NBA赛事赛程相关信息</p>
 					<!--五周年活动 start-->

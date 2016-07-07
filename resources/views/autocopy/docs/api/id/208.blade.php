@@ -89,9 +89,7 @@
                 </div>
                 <div class="api_data_info">
                     <h2><strong>三网手机实名制认证</strong>
-                                                <span class="h1_span color_juhe">聚合数据</span>
                         
-                                                <span class="h1_span color_https">支持HTTPS</span>                        
                                             </h2>
                     <p class="doc_api_decsP">支持移动、电信、联通号码；检验姓名、身份证、手机号码是否一致。</p>
 					<!--五周年活动 start-->

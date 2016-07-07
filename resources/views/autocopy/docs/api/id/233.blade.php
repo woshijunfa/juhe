@@ -90,7 +90,6 @@
                     <h2><strong>账户及业务安全检测</strong>
                                                 <span class="h1_span color_disanfang">乌云漏洞平台</span>
                         
-                                                <span class="h1_span color_https">支持HTTPS</span>                        
                                             </h2>
                     <p class="doc_api_decsP">账户安全：判断用户名或邮箱或电话号码对应的密码是否安全，用来缓解撞库攻击的危害；业务安全：根据不同数据类型，判断当前信息是否为恶意IP、薅羊毛手机号、盗刷银行卡号。</p>
 					<!--五周年活动 start-->

@@ -88,9 +88,7 @@
                 </div>
                 <div class="api_data_info">
                     <h2><strong>新闻头条</strong>
-                                                <span class="h1_span color_juhe">聚合数据</span>
                         
-                        <span class="h1_span color_mianfei">免费</span>                        <span class="h1_span color_https">支持HTTPS</span>                        
                                             </h2>
                     <p class="doc_api_decsP">最新新闻头条，各类社会、国内、国际、体育、娱乐、科技等资讯，更新周期5-30分钟</p>
 					<!--五周年活动 start-->

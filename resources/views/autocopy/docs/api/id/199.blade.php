@@ -89,9 +89,7 @@
                 </div>
                 <div class="api_data_info">
                     <h2><strong>身份证头像验证</strong>
-                                                <span class="h1_span color_juhe">聚合数据</span>
                         
-                                                <span class="h1_span color_https">支持HTTPS</span>                        
                                             </h2>
                     <p class="doc_api_decsP">根据真实姓名和身份证号，获取身份证头像照片的Base64字符串编码。</p>
 					<!--五周年活动 start-->

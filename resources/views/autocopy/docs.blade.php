@@ -141,7 +141,6 @@
                             <h2>
                                 <a href="/docs/api/id/208" title="三网手机实名制认证 接口">三网手机实名制认证</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">支持移动、电信、联通号码；检验姓名、身份证、手机号码是否一致。</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -165,7 +164,6 @@
                             <h2>
                                 <a href="/docs/api/id/103" title="身份证实名认证 接口">身份证实名认证</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">检测姓名和身份证号是否一致。</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -189,7 +187,6 @@
                             <h2>
                                 <a href="/docs/api/id/181" title="违章代缴 接口">违章代缴</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">足不出户，办理违章代缴业务，更多城市陆续上线</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -214,7 +211,6 @@
                             <h2>
                                 <a href="/docs/api/id/199" title="身份证头像验证 接口">身份证头像验证</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">根据真实姓名和身份证号，获取身份证头像照片的Base64字符串编码。</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -238,7 +234,6 @@
                             <h2>
                                 <a href="/docs/api/id/54" title="短信API服务 接口">短信API服务</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">稳定的短信发送API，低至3.7分/条；【请务必添加图片验证码等防恶意攻击的机制，以防短信轰炸】。</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -289,7 +284,6 @@
                             <h2>
                                 <a href="/docs/api/id/227" title="个人社保缴纳 接口">个人社保缴纳</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">支持指定城市社保公积金缴费比例查询和补缴计算、正常缴纳以及补缴，测试完毕后请联系商务获取正式生产环境接口。服务费：请咨询客服</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -314,7 +308,6 @@
                             <h2>
                                 <a href="/docs/api/id/231" title="通用礼品卡接口文档 接口">通用礼品卡接口文档</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">集于各商家（KFC、必胜客、GAP等）实体卡和会员卡的API虚拟卡，可用于线上/下消费、移动支付。</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -339,7 +332,6 @@
                             <h2>
                                 <a href="/docs/api/id/8" title="移动联通基站 接口">移动联通基站</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">通过移动联通基站的小区号和基站号进行基站位置查询。</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -390,7 +382,6 @@
                             <h2>
                                 <a href="/docs/api/id/173" title="火车票订票 接口">火车票订票</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">服务费2元/笔，更多优惠请咨询客服（注意：非正式用户，测试期间有查询次数限制）</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -441,7 +432,6 @@
                             <h2>
                                 <a href="/docs/api/id/87" title="加油卡充值 接口">加油卡充值</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">中石化、中石油加油卡充值</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -516,7 +506,6 @@
                             <h2>
                                 <a href="/docs/api/id/11" title="手机号码归属地 接口">手机号码归属地</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">根据手机号码或手机号码的前7位，查询手机号码归属地信息，包括省份 、城市、区号、邮编、运营商和卡类型。</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -541,7 +530,6 @@
                             <h2>
                                 <a href="/docs/api/id/63" title="历史上的今天 接口">历史上的今天</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">回顾历史的长河，历史是生活的一面镜子</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -592,7 +580,6 @@
                             <h2>
                                 <a href="/docs/api/id/36" title="全国车辆违章 接口">全国车辆违章</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">目前已经支持300个左右的城市违章查询</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -617,7 +604,6 @@
                             <h2>
                                 <a href="/docs/api/id/46" title="菜谱大全 接口">菜谱大全</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">上万种菜色供您选择</p>
                             <div class="juhe_desc_p2 clearfix">

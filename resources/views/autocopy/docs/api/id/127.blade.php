@@ -88,9 +88,7 @@
                 </div>
                 <div class="api_data_info">
                     <h2><strong>景点门票</strong>
-                                                <span class="h1_span color_juhe">聚合数据</span>
                         
-                                                                        <span class="h1_span color_juhe">企业专用</span>
                                             </h2>
                     <p class="doc_api_decsP">提供景点门票信息查询，以及支付下单</p>
 					<!--五周年活动 start-->

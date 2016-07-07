@@ -142,7 +142,6 @@
                             <h2>
                                 <a href="/docs/api/id/51" title="Alexa网站排名 接口">Alexa网站排名</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">网站排名、流量、访问量、页面浏览量查询</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -167,7 +166,6 @@
                             <h2>
                                 <a href="/docs/api/id/50" title="图书电商数据 接口">图书电商数据</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">于万千之中选择你所爱--好书推荐，值得你信赖。</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -192,7 +190,6 @@
                             <h2>
                                 <a href="/docs/api/id/48" title="全国省市今日油价 接口">全国省市今日油价</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">今日汽油价格查询,最新柴油油价实时行情</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -217,7 +214,6 @@
                             <h2>
                                 <a href="/docs/api/id/47" title="地产数据 接口">地产数据</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">全国地产数据，目前已经包含深圳、苏州、上海等城市，其他城市陆续添加中</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -242,7 +238,6 @@
                             <h2>
                                 <a href="/docs/api/id/46" title="菜谱大全 接口">菜谱大全</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">上万种菜色供您选择</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -267,7 +262,6 @@
                             <h2>
                                 <a href="/docs/api/id/44" title="电影票房 接口">电影票房</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">电影票房，票房榜</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -292,7 +286,6 @@
                             <h2>
                                 <a href="/docs/api/id/43" title="常用快递 接口">常用快递</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">支持顺丰、EMS、申通、圆通、韵达、汇通、中通、天天、德邦、全峰等主流快递公司。</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -317,7 +310,6 @@
                             <h2>
                                 <a href="/docs/api/id/42" title="影讯API合集 接口">影讯API合集</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">影片信息、评分、影视票房榜,电影院上映信息等API</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -342,7 +334,6 @@
                             <h2>
                                 <a href="/docs/api/id/41" title="实时公共自行车 接口">实时公共自行车</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">目前支持城市苏州、常熟、昆山、吴江、南通、宜兴、徐州、镇江</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -367,7 +358,6 @@
                             <h2>
                                 <a href="/docs/api/id/39" title="全国天气预报 接口">全国天气预报</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">全国天气查询API</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -392,7 +382,6 @@
                             <h2>
                                 <a href="/docs/api/id/38" title="身份证查询 接口">身份证查询</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">身份证归属地信息查询</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -417,7 +406,6 @@
                             <h2>
                                 <a href="/docs/api/id/36" title="全国车辆违章 接口">全国车辆违章</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">目前已经支持300个左右的城市违章查询</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -442,7 +430,6 @@
                             <h2>
                                 <a href="/docs/api/id/34" title="水质量 接口">水质量</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">流域查询水质量，监测站点查询水质量
 </p>
@@ -468,7 +455,6 @@
                             <h2>
                                 <a href="/docs/api/id/33" title="空气质量 接口">空气质量</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">城市空气质量、城市空气PM2.5指数、城市辐射指数</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -493,7 +479,6 @@
                             <h2>
                                 <a href="/docs/api/id/32" title="地图坐标服务 接口">地图坐标服务</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">支持百度、谷歌、GPS三大经纬度互相转化</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -518,7 +503,6 @@
                             <h2>
                                 <a href="/docs/api/id/31" title="苏州实时公交 接口">苏州实时公交</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">苏州公交状态实时跟踪API</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -543,7 +527,6 @@
                             <h2>
                                 <a href="/docs/api/id/29" title="黄金数据 接口">黄金数据</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">黄金品种、最新价、开盘价、最高价等信息</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -568,7 +551,6 @@
                             <h2>
                                 <a href="/docs/api/id/28" title="基金财务数据 接口">基金财务数据</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">基金财务数据</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -593,7 +575,6 @@
                             <h2>
                                 <a href="/docs/api/id/27" title="重仓股基金 接口">重仓股基金</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">重仓股基金</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -618,7 +599,6 @@
                             <h2>
                                 <a href="/docs/api/id/26" title="暂停基金 接口">暂停基金</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">暂停基金</p>
                             <div class="juhe_desc_p2 clearfix">

@@ -88,9 +88,7 @@
                 </div>
                 <div class="api_data_info">
                     <h2><strong>全国天气预报</strong>
-                                                <span class="h1_span color_juhe">聚合数据</span>
                         
-                                                <span class="h1_span color_https">支持HTTPS</span>                        
                                             </h2>
                     <p class="doc_api_decsP">全国天气查询API</p>
 					<!--五周年活动 start-->

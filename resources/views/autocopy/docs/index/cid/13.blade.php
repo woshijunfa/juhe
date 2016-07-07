@@ -142,7 +142,6 @@
                             <h2>
                                 <a href="/docs/api/id/54" title="短信API服务 接口">短信API服务</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">稳定的短信发送API，低至3.7分/条；【请务必添加图片验证码等防恶意攻击的机制，以防短信轰炸】。</p>
                             <div class="juhe_desc_p2 clearfix">

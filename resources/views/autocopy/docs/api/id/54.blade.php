@@ -88,9 +88,7 @@
                 </div>
                 <div class="api_data_info">
                     <h2><strong>短信API服务</strong>
-                                                <span class="h1_span color_juhe">聚合数据</span>
                         
-                                                <span class="h1_span color_https">支持HTTPS</span>                        <span class="h1_span color_juhe">企业专用</span>
                                             </h2>
                     <p class="doc_api_decsP">稳定的短信发送API，低至3.7分/条；【请务必添加图片验证码等防恶意攻击的机制，以防短信轰炸】。</p>
 					<!--五周年活动 start-->

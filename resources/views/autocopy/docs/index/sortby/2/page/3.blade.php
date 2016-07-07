@@ -194,7 +194,6 @@
                             <h2>
                                 <a href="/docs/api/id/147" title="微信精选 接口">微信精选</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">微信精选全新上线</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -427,7 +426,6 @@
                             <h2>
                                 <a href="/docs/api/id/133" title="实时停车场数据 接口">实时停车场数据</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">全国实时停车场信息</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -452,7 +450,6 @@
                             <h2>
                                 <a href="/docs/api/id/181" title="违章代缴 接口">违章代缴</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">足不出户，办理违章代缴业务，更多城市陆续上线</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -477,7 +474,6 @@
                             <h2>
                                 <a href="/docs/api/id/129" title="电视节目时间表 接口">电视节目时间表</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">央视及各地卫视节目时间表</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -578,7 +574,6 @@
                             <h2>
                                 <a href="/docs/api/id/115" title="固话/宽带直充 接口">固话/宽带直充</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">此接口依据用户提供的请求为指定固话/宽带直接充值</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -628,7 +623,6 @@
                             <h2>
                                 <a href="/docs/api/id/119" title="邮箱地址验证 接口">邮箱地址验证</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">通过连接到邮件服务器并检查邮箱存在与否。</p>
                             <div class="juhe_desc_p2 clearfix">

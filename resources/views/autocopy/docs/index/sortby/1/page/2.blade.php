@@ -167,7 +167,6 @@
                             <h2>
                                 <a href="/docs/api/id/39" title="全国天气预报 接口">全国天气预报</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">全国天气查询API</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -192,7 +191,6 @@
                             <h2>
                                 <a href="/docs/api/id/21" title="股票数据 接口">股票数据</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">提供沪深、香港、美国股市信息</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -217,7 +215,6 @@
                             <h2>
                                 <a href="/docs/api/id/22" title="12306火车票查询 接口">12306火车票查询</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">火车时刻表、余票查询</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -242,7 +239,6 @@
                             <h2>
                                 <a href="/docs/api/id/85" title="手机话费充值 接口">手机话费充值</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">手机话费快速充值</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -266,7 +262,6 @@
                             <h2>
                                 <a href="/docs/api/id/43" title="常用快递 接口">常用快递</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">支持顺丰、EMS、申通、圆通、韵达、汇通、中通、天天、德邦、全峰等主流快递公司。</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -291,7 +286,6 @@
                             <h2>
                                 <a href="/docs/api/id/38" title="身份证查询 接口">身份证查询</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">身份证归属地信息查询</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -342,7 +336,6 @@
                             <h2>
                                 <a href="/docs/api/id/42" title="影讯API合集 接口">影讯API合集</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">影片信息、评分、影视票房榜,电影院上映信息等API</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -367,7 +360,6 @@
                             <h2>
                                 <a href="/docs/api/id/33" title="空气质量 接口">空气质量</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">城市空气质量、城市空气PM2.5指数、城市辐射指数</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -392,7 +384,6 @@
                             <h2>
                                 <a href="/docs/api/id/95" title="笑话大全 接口">笑话大全</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">搜集网络幽默、搞笑、内涵段子，不间断更新</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -417,7 +408,6 @@
                             <h2>
                                 <a href="/docs/api/id/16" title="电信基站 接口">电信基站</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">通过电信基站的系统识别码、网络识别码和基站号进行基站位置查询。</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -442,7 +432,6 @@
                             <h2>
                                 <a href="/docs/api/id/20" title="航班动态 接口">航班动态</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">提供国内航班动态查询</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -467,7 +456,6 @@
                             <h2>
                                 <a href="/docs/api/id/163" title="漫画书 接口">漫画书</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">上万本漫画书供你选择，数据来源网络，如有侵权请联系我们删除</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -492,7 +480,6 @@
                             <h2>
                                 <a href="/docs/api/id/1" title="IP地址 接口">IP地址</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">根据查询的IP地址或者域名，查询该IP所属的区域</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -517,7 +504,6 @@
                             <h2>
                                 <a href="/docs/api/id/105" title="流量直充 接口">流量直充</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">依据用户提供的请求为指定手机充值流量</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -541,7 +527,6 @@
                             <h2>
                                 <a href="/docs/api/id/45" title="餐饮美食 接口">餐饮美食</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">提供周边美食餐厅检索</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -566,7 +551,6 @@
                             <h2>
                                 <a href="/docs/api/id/7" title="全国加油站油价 接口">全国加油站油价</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">全国加油站、周边加油站，以及实时油价查询</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -617,7 +601,6 @@
                             <h2>
                                 <a href="/docs/api/id/88" title="游戏充值 接口">游戏充值</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">各大游戏、Q币、QQ会员、腾讯服务等在线直充API</p>
                             <div class="juhe_desc_p2 clearfix">

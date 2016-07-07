@@ -135,7 +135,6 @@
                         <h2>
                             <a href="/docs/giftcardinfo/id/17" title="爱奇艺会员卡 接口" target="_blank">爱奇艺会员卡</a>
                                 <span>
-                                    <!--<label class="color_juhe">聚合数据</label>-->
                                     <!---->
                                 </span>
                         </h2>
@@ -159,7 +158,6 @@
                         <h2>
                             <a href="/docs/giftcardinfo/id/3" title="京东E卡 接口" target="_blank">京东E卡</a>
                                 <span>
-                                    <!--<label class="color_juhe">聚合数据</label>-->
                                     <!---->
                                 </span>
                         </h2>
@@ -183,7 +181,6 @@
                         <h2>
                             <a href="/docs/giftcardinfo/id/15" title="百胜心意美食卡 接口" target="_blank">百胜心意美食卡</a>
                                 <span>
-                                    <!--<label class="color_juhe">聚合数据</label>-->
                                     <!---->
                                 </span>
                         </h2>
@@ -207,7 +204,6 @@
                         <h2>
                             <a href="/docs/giftcardinfo/id/12" title="亚马逊礼品卡 接口" target="_blank">亚马逊礼品卡</a>
                                 <span>
-                                    <!--<label class="color_juhe">聚合数据</label>-->
                                     <!---->
                                 </span>
                         </h2>
@@ -231,7 +227,6 @@
                         <h2>
                             <a href="/docs/giftcardinfo/id/9" title="苏宁卡 接口" target="_blank">苏宁卡</a>
                                 <span>
-                                    <!--<label class="color_juhe">聚合数据</label>-->
                                     <!---->
                                 </span>
                         </h2>
@@ -255,7 +250,6 @@
                         <h2>
                             <a href="/docs/giftcardinfo/id/4" title="国美红券 接口" target="_blank">国美红券</a>
                                 <span>
-                                    <!--<label class="color_juhe">聚合数据</label>-->
                                     <!---->
                                 </span>
                         </h2>
@@ -279,7 +273,6 @@
                         <h2>
                             <a href="/docs/giftcardinfo/id/2" title="当当礼品卡 接口" target="_blank">当当礼品卡</a>
                                 <span>
-                                    <!--<label class="color_juhe">聚合数据</label>-->
                                     <!---->
                                 </span>
                         </h2>
@@ -303,7 +296,6 @@
                         <h2>
                             <a href="/docs/giftcardinfo/id/11" title="唯品会礼品卡 接口" target="_blank">唯品会礼品卡</a>
                                 <span>
-                                    <!--<label class="color_juhe">聚合数据</label>-->
                                     <!---->
                                 </span>
                         </h2>
@@ -327,7 +319,6 @@
                         <h2>
                             <a href="/docs/giftcardinfo/id/6" title="乐蜂网礼品卡 接口" target="_blank">乐蜂网礼品卡</a>
                                 <span>
-                                    <!--<label class="color_juhe">聚合数据</label>-->
                                     <!---->
                                 </span>
                         </h2>
@@ -351,7 +342,6 @@
                         <h2>
                             <a href="/docs/giftcardinfo/id/7" title="携程礼品卡(任我行) 接口" target="_blank">携程礼品卡(任我行)</a>
                                 <span>
-                                    <!--<label class="color_juhe">聚合数据</label>-->
                                     <!---->
                                 </span>
                         </h2>
@@ -375,7 +365,6 @@
                         <h2>
                             <a href="/docs/giftcardinfo/id/8" title="携程礼品卡(任我游) 接口" target="_blank">携程礼品卡(任我游)</a>
                                 <span>
-                                    <!--<label class="color_juhe">聚合数据</label>-->
                                     <!---->
                                 </span>
                         </h2>
@@ -399,7 +388,6 @@
                         <h2>
                             <a href="/docs/giftcardinfo/id/5" title="来伊份礼品卡 接口" target="_blank">来伊份礼品卡</a>
                                 <span>
-                                    <!--<label class="color_juhe">聚合数据</label>-->
                                     <!---->
                                 </span>
                         </h2>
@@ -423,7 +411,6 @@
                         <h2>
                             <a href="/docs/giftcardinfo/id/10" title="天天果园充值卡 接口" target="_blank">天天果园充值卡</a>
                                 <span>
-                                    <!--<label class="color_juhe">聚合数据</label>-->
                                     <!---->
                                 </span>
                         </h2>
@@ -447,7 +434,6 @@
                         <h2>
                             <a href="/docs/giftcardinfo/id/14" title="GAP礼品卡 接口" target="_blank">GAP礼品卡</a>
                                 <span>
-                                    <!--<label class="color_juhe">聚合数据</label>-->
                                     <!---->
                                 </span>
                         </h2>
@@ -471,7 +457,6 @@
                         <h2>
                             <a href="/docs/giftcardinfo/id/16" title="优酷土豆会员月卡 接口" target="_blank">优酷土豆会员月卡</a>
                                 <span>
-                                    <!--<label class="color_juhe">聚合数据</label>-->
                                     <!---->
                                 </span>
                         </h2>

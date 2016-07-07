@@ -194,7 +194,6 @@
                             <h2>
                                 <a href="/docs/api/id/157" title="成语词典 接口">成语词典</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">新华字典在线查字,最新最全</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -323,7 +322,6 @@
                             <h2>
                                 <a href="/docs/api/id/27" title="重仓股基金 接口">重仓股基金</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">重仓股基金</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -373,7 +371,6 @@
                             <h2>
                                 <a href="/docs/api/id/69" title="简/繁/火星字体转换 接口">简/繁/火星字体转换</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">实现简体、繁体、火星文之间的转换</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -424,7 +421,6 @@
                             <h2>
                                 <a href="/docs/api/id/26" title="暂停基金 接口">暂停基金</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">暂停基金</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -475,7 +471,6 @@
                             <h2>
                                 <a href="/docs/api/id/213" title="银行卡四元素校验 接口">银行卡四元素校验</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">检测输入的姓名、手机号码、身份证号码、银行卡号是否一致。</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -499,7 +494,6 @@
                             <h2>
                                 <a href="/docs/api/id/207" title="银行卡三元素检测 接口">银行卡三元素检测</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">检测输入的姓名、身份证号码、银行卡号是否一致。</p>
                             <div class="juhe_desc_p2 clearfix">

@@ -142,7 +142,6 @@
                             <h2>
                                 <a href="/docs/api/id/235" title="新闻头条 接口">新闻头条</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">最新新闻头条，各类社会、国内、国际、体育、娱乐、科技等资讯，更新周期5-30分钟</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -167,7 +166,6 @@
                             <h2>
                                 <a href="/docs/api/id/127" title="景点门票 接口">景点门票</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">提供景点门票信息查询，以及支付下单</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -243,7 +241,6 @@
                             <h2>
                                 <a href="/docs/api/id/231" title="通用礼品卡接口文档 接口">通用礼品卡接口文档</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">集于各商家（KFC、必胜客、GAP等）实体卡和会员卡的API虚拟卡，可用于线上/下消费、移动支付。</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -268,7 +265,6 @@
                             <h2>
                                 <a href="/docs/api/id/229" title="快递在线下单 接口">快递在线下单</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">应用场景：普通用户在线向快递公司在线下单，快递公司收到申请快递员上门取件</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -319,7 +315,6 @@
                             <h2>
                                 <a href="/docs/api/id/227" title="个人社保缴纳 接口">个人社保缴纳</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">支持指定城市社保公积金缴费比例查询和补缴计算、正常缴纳以及补缴，测试完毕后请联系商务获取正式生产环境接口。服务费：请咨询客服</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -552,7 +547,6 @@
                             <h2>
                                 <a href="/docs/api/id/208" title="三网手机实名制认证 接口">三网手机实名制认证</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">支持移动、电信、联通号码；检验姓名、身份证、手机号码是否一致。</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -576,7 +570,6 @@
                             <h2>
                                 <a href="/docs/api/id/213" title="银行卡四元素校验 接口">银行卡四元素校验</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">检测输入的姓名、手机号码、身份证号码、银行卡号是否一致。</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -600,7 +593,6 @@
                             <h2>
                                 <a href="/docs/api/id/209" title="实时路况查询 接口">实时路况查询</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">基于用户输入的道路名称或者用户当前位置提供该道路的实时路况查询</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -625,7 +617,6 @@
                             <h2>
                                 <a href="/docs/api/id/199" title="身份证头像验证 接口">身份证头像验证</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">根据真实姓名和身份证号，获取身份证头像照片的Base64字符串编码。</p>
                             <div class="juhe_desc_p2 clearfix">

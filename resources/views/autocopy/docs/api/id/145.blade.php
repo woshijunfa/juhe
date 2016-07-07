@@ -90,7 +90,6 @@
                     <h2><strong>健康资讯</strong>
                                                 <span class="h1_span color_disanfang">天狗云</span>
                         
-                                                <span class="h1_span color_https">支持HTTPS</span>                        
                                             </h2>
                     <p class="doc_api_decsP">健康资讯新闻为广大网民提供医疗卫生行业最新资讯,追踪健康焦点事件</p>
 					<!--五周年活动 start-->

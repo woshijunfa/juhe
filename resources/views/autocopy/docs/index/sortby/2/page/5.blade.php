@@ -168,7 +168,6 @@
                             <h2>
                                 <a href="/docs/api/id/91" title="违章高发地 接口">违章高发地</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">根据百度地图坐标，检索周边违章高发地信息</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -219,7 +218,6 @@
                             <h2>
                                 <a href="/docs/api/id/87" title="加油卡充值 接口">加油卡充值</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">中石化、中石油加油卡充值</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -269,7 +267,6 @@
                             <h2>
                                 <a href="/docs/api/id/85" title="手机话费充值 接口">手机话费充值</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">手机话费快速充值</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -293,7 +290,6 @@
                             <h2>
                                 <a href="/docs/api/id/20" title="航班动态 接口">航班动态</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">提供国内航班动态查询</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -318,7 +314,6 @@
                             <h2>
                                 <a href="/docs/api/id/22" title="12306火车票查询 接口">12306火车票查询</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">火车时刻表、余票查询</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -369,7 +364,6 @@
                             <h2>
                                 <a href="/docs/api/id/69" title="简/繁/火星字体转换 接口">简/繁/火星字体转换</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">实现简体、繁体、火星文之间的转换</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -394,7 +388,6 @@
                             <h2>
                                 <a href="/docs/api/id/68" title="域名备案查询 接口">域名备案查询</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">ICP备案查询</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -419,7 +412,6 @@
                             <h2>
                                 <a href="/docs/api/id/1" title="IP地址 接口">IP地址</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">根据查询的IP地址或者域名，查询该IP所属的区域</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -444,7 +436,6 @@
                             <h2>
                                 <a href="/docs/api/id/66" title="邮编查询 接口">邮编查询</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">提供全国邮政编码大全,为你快速准确查邮编</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -469,7 +460,6 @@
                             <h2>
                                 <a href="/docs/api/id/65" title="老黄历 接口">老黄历</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">提供老黄历查询,黄历每日吉凶宜忌查询</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -494,7 +484,6 @@
                             <h2>
                                 <a href="/docs/api/id/63" title="历史上的今天 接口">历史上的今天</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">回顾历史的长河，历史是生活的一面镜子</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -519,7 +508,6 @@
                             <h2>
                                 <a href="/docs/api/id/64" title="周公解梦 接口">周公解梦</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">周公解梦,周公解梦大全,周公解梦查询，免费周公解梦</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -544,7 +532,6 @@
                             <h2>
                                 <a href="/docs/api/id/11" title="手机号码归属地 接口">手机号码归属地</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">根据手机号码或手机号码的前7位，查询手机号码归属地信息，包括省份 、城市、区号、邮编、运营商和卡类型。</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -569,7 +556,6 @@
                             <h2>
                                 <a href="/docs/api/id/45" title="餐饮美食 接口">餐饮美食</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">提供周边美食餐厅检索</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -594,7 +580,6 @@
                             <h2>
                                 <a href="/docs/api/id/58" title="星座运势 接口">星座运势</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">十二星座每日、每月、每年运势</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -619,7 +604,6 @@
                             <h2>
                                 <a href="/docs/api/id/54" title="短信API服务 接口">短信API服务</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">稳定的短信发送API，低至3.7分/条；【请务必添加图片验证码等防恶意攻击的机制，以防短信轰炸】。</p>
                             <div class="juhe_desc_p2 clearfix">

@@ -168,7 +168,6 @@
                             <h2>
                                 <a href="/docs/api/id/11" title="手机号码归属地 接口">手机号码归属地</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">根据手机号码或手机号码的前7位，查询手机号码归属地信息，包括省份 、城市、区号、邮编、运营商和卡类型。</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -193,7 +192,6 @@
                             <h2>
                                 <a href="/docs/api/id/38" title="身份证查询 接口">身份证查询</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">身份证归属地信息查询</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -218,7 +216,6 @@
                             <h2>
                                 <a href="/docs/api/id/95" title="笑话大全 接口">笑话大全</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">搜集网络幽默、搞笑、内涵段子，不间断更新</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -243,7 +240,6 @@
                             <h2>
                                 <a href="/docs/api/id/1" title="IP地址 接口">IP地址</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">根据查询的IP地址或者域名，查询该IP所属的区域</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -268,7 +264,6 @@
                             <h2>
                                 <a href="/docs/api/id/21" title="股票数据 接口">股票数据</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">提供沪深、香港、美国股市信息</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -293,7 +288,6 @@
                             <h2>
                                 <a href="/docs/api/id/44" title="电影票房 接口">电影票房</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">电影票房，票房榜</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -318,7 +312,6 @@
                             <h2>
                                 <a href="/docs/api/id/58" title="星座运势 接口">星座运势</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">十二星座每日、每月、每年运势</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -343,7 +336,6 @@
                             <h2>
                                 <a href="/docs/api/id/63" title="历史上的今天 接口">历史上的今天</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">回顾历史的长河，历史是生活的一面镜子</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -368,7 +360,6 @@
                             <h2>
                                 <a href="/docs/api/id/147" title="微信精选 接口">微信精选</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">微信精选全新上线</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -445,7 +436,6 @@
                             <h2>
                                 <a href="/docs/api/id/18" title="全国WIFI 接口">全国WIFI</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">全国免费的WIFI热点分布</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -470,7 +460,6 @@
                             <h2>
                                 <a href="/docs/api/id/23" title="货币汇率 接口">货币汇率</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">支持人民币牌价、外汇汇率查询；数据仅供参考，交易时以银行柜台成交价为准</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -547,7 +536,6 @@
                             <h2>
                                 <a href="/docs/api/id/50" title="图书电商数据 接口">图书电商数据</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">于万千之中选择你所爱--好书推荐，值得你信赖。</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -572,7 +560,6 @@
                             <h2>
                                 <a href="/docs/api/id/64" title="周公解梦 接口">周公解梦</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">周公解梦,周公解梦大全,周公解梦查询，免费周公解梦</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -597,7 +584,6 @@
                             <h2>
                                 <a href="/docs/api/id/29" title="黄金数据 接口">黄金数据</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">黄金品种、最新价、开盘价、最高价等信息</p>
                             <div class="juhe_desc_p2 clearfix">

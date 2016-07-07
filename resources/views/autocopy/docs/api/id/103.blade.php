@@ -89,9 +89,7 @@
                 </div>
                 <div class="api_data_info">
                     <h2><strong>身份证实名认证</strong>
-                                                <span class="h1_span color_juhe">聚合数据</span>
                         
-                                                <span class="h1_span color_https">支持HTTPS</span>                        <span class="h1_span color_juhe">企业专用</span>
                                             </h2>
                     <p class="doc_api_decsP">检测姓名和身份证号是否一致。</p>
 					<!--五周年活动 start-->

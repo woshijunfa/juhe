@@ -142,7 +142,6 @@
                             <h2>
                                 <a href="/docs/api/id/25" title="净值数据 接口">净值数据</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">净值数据</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -167,7 +166,6 @@
                             <h2>
                                 <a href="/docs/api/id/23" title="货币汇率 接口">货币汇率</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">支持人民币牌价、外汇汇率查询；数据仅供参考，交易时以银行柜台成交价为准</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -192,7 +190,6 @@
                             <h2>
                                 <a href="/docs/api/id/21" title="股票数据 接口">股票数据</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">提供沪深、香港、美国股市信息</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -217,7 +214,6 @@
                             <h2>
                                 <a href="/docs/api/id/19" title="网站安全检测 接口">网站安全检测</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">网站健康状况查询，检测结果由 360网站安全检测 提供</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -242,7 +238,6 @@
                             <h2>
                                 <a href="/docs/api/id/18" title="全国WIFI 接口">全国WIFI</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">全国免费的WIFI热点分布</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -267,7 +262,6 @@
                             <h2>
                                 <a href="/docs/api/id/16" title="电信基站 接口">电信基站</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">通过电信基站的系统识别码、网络识别码和基站号进行基站位置查询。</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -292,7 +286,6 @@
                             <h2>
                                 <a href="/docs/api/id/15" title="经纬度地址解析 接口">经纬度地址解析</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">根据提供的谷歌地图坐标、百度地图坐标或GPS坐标，查询位置信息</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -317,7 +310,6 @@
                             <h2>
                                 <a href="/docs/api/id/9" title="谷歌POI 接口">谷歌POI</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">包含餐饮、住宿、娱乐等30大类，约共1400W条POI数据</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -342,7 +334,6 @@
                             <h2>
                                 <a href="/docs/api/id/8" title="移动联通基站 接口">移动联通基站</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">通过移动联通基站的小区号和基站号进行基站位置查询。</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -367,7 +358,6 @@
                             <h2>
                                 <a href="/docs/api/id/7" title="全国加油站油价 接口">全国加油站油价</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">全国加油站、周边加油站，以及实时油价查询</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -392,7 +382,6 @@
                             <h2>
                                 <a href="/docs/api/id/237" title="个人履历查询 接口">个人履历查询</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">暂支持在上海工作的人群覆盖，以及部分江苏等其他地区的个人经历</p>
                             <div class="juhe_desc_p2 clearfix">

@@ -141,7 +141,6 @@
                             <h2>
                                 <a href="/docs/api/id/29" title="黄金数据 接口">黄金数据</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">黄金品种、最新价、开盘价、最高价等信息</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -166,7 +165,6 @@
                             <h2>
                                 <a href="/docs/api/id/32" title="地图坐标服务 接口">地图坐标服务</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">支持百度、谷歌、GPS三大经纬度互相转化</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -191,7 +189,6 @@
                             <h2>
                                 <a href="/docs/api/id/133" title="实时停车场数据 接口">实时停车场数据</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">全国实时停车场信息</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -216,7 +213,6 @@
                             <h2>
                                 <a href="/docs/api/id/60" title="验证码识别 接口">验证码识别</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">根据图片识别验证码，支持数字、字母组合</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -241,7 +237,6 @@
                             <h2>
                                 <a href="/docs/api/id/127" title="景点门票 接口">景点门票</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">提供景点门票信息查询，以及支付下单</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -344,7 +339,6 @@
                             <h2>
                                 <a href="/docs/api/id/31" title="苏州实时公交 接口">苏州实时公交</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">苏州公交状态实时跟踪API</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -369,7 +363,6 @@
                             <h2>
                                 <a href="/docs/api/id/9" title="谷歌POI 接口">谷歌POI</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">包含餐饮、住宿、娱乐等30大类，约共1400W条POI数据</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -446,7 +439,6 @@
                             <h2>
                                 <a href="/docs/api/id/129" title="电视节目时间表 接口">电视节目时间表</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">央视及各地卫视节目时间表</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -471,7 +463,6 @@
                             <h2>
                                 <a href="/docs/api/id/64" title="周公解梦 接口">周公解梦</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">周公解梦,周公解梦大全,周公解梦查询，免费周公解梦</p>
                             <div class="juhe_desc_p2 clearfix">

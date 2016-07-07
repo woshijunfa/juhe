@@ -142,7 +142,6 @@
                             <h2>
                                 <a href="/docs/api/id/229" title="快递在线下单 接口">快递在线下单</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">应用场景：普通用户在线向快递公司在线下单，快递公司收到申请快递员上门取件</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -167,7 +166,6 @@
                             <h2>
                                 <a href="/docs/api/id/204" title="标准中文电码查询 接口">标准中文电码查询</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">提供的标准中文电码查询程序结果</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -218,7 +216,6 @@
                             <h2>
                                 <a href="/docs/api/id/235" title="新闻头条 接口">新闻头条</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">最新新闻头条，各类社会、国内、国际、体育、娱乐、科技等资讯，更新周期5-30分钟</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -243,7 +240,6 @@
                             <h2>
                                 <a href="/docs/api/id/237" title="个人履历查询 接口">个人履历查询</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">暂支持在上海工作的人群覆盖，以及部分江苏等其他地区的个人经历</p>
                             <div class="juhe_desc_p2 clearfix">

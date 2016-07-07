@@ -88,7 +88,6 @@
                 </div>
                 <div class="api_data_info">
                     <h2><strong>快递在线下单</strong>
-                                                <span class="h1_span color_juhe">聚合数据</span>
                         
                                                                         
                                             </h2>

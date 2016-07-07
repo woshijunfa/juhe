@@ -168,7 +168,6 @@
                             <h2>
                                 <a href="/docs/api/id/207" title="银行卡三元素检测 接口">银行卡三元素检测</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">检测输入的姓名、身份证号码、银行卡号是否一致。</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -217,7 +216,6 @@
                             <h2>
                                 <a href="/docs/api/id/204" title="标准中文电码查询 接口">标准中文电码查询</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">提供的标准中文电码查询程序结果</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -268,7 +266,6 @@
                             <h2>
                                 <a href="/docs/api/id/188" title="银行卡二元素检测 接口">银行卡二元素检测</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">检测输入的姓名、银行卡号是否一致。</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -344,7 +341,6 @@
                             <h2>
                                 <a href="/docs/api/id/183" title="驾照题库 接口">驾照题库</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">采用公安部2015最新驾校模拟考试题库</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -369,7 +365,6 @@
                             <h2>
                                 <a href="/docs/api/id/182" title="尾号限行 接口">尾号限行</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">目前支持北京、天津、兰州、杭州、长春、南昌、成都、贵阳</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -394,7 +389,6 @@
                             <h2>
                                 <a href="/docs/api/id/163" title="漫画书 接口">漫画书</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">上万本漫画书供你选择，数据来源网络，如有侵权请联系我们删除</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -497,7 +491,6 @@
                             <h2>
                                 <a href="/docs/api/id/173" title="火车票订票 接口">火车票订票</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">服务费2元/笔，更多优惠请咨询客服（注意：非正式用户，测试期间有查询次数限制）</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -548,7 +541,6 @@
                             <h2>
                                 <a href="/docs/api/id/166" title="QQ号码测吉凶 接口">QQ号码测吉凶</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">QQ号码测吉凶,QQ号码吉凶查询,QQ号码吉凶预测,QQ号码吉凶</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -599,7 +591,6 @@
                             <h2>
                                 <a href="/docs/api/id/157" title="成语词典 接口">成语词典</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">新华字典在线查字,最新最全</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -624,7 +615,6 @@
                             <h2>
                                 <a href="/docs/api/id/156" title="新华字典 接口">新华字典</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">最大最全的新华汉语词典，按拼音查、按部首查、按笔画查</p>
                             <div class="juhe_desc_p2 clearfix">

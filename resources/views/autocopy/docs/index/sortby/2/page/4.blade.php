@@ -194,7 +194,6 @@
                             <h2>
                                 <a href="/docs/api/id/60" title="验证码识别 接口">验证码识别</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">根据图片识别验证码，支持数字、字母组合</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -219,7 +218,6 @@
                             <h2>
                                 <a href="/docs/api/id/52" title="条码查询 接口">条码查询</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">提供全网商品条码比价</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -322,7 +320,6 @@
                             <h2>
                                 <a href="/docs/api/id/107" title="苹果APP游戏充值 接口">苹果APP游戏充值</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">苹果app游戏在线直充</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -424,7 +421,6 @@
                             <h2>
                                 <a href="/docs/api/id/105" title="流量直充 接口">流量直充</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">依据用户提供的请求为指定手机充值流量</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -448,7 +444,6 @@
                             <h2>
                                 <a href="/docs/api/id/103" title="身份证实名认证 接口">身份证实名认证</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">检测姓名和身份证号是否一致。</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -548,7 +543,6 @@
                             <h2>
                                 <a href="/docs/api/id/95" title="笑话大全 接口">笑话大全</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">搜集网络幽默、搞笑、内涵段子，不间断更新</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -599,7 +593,6 @@
                             <h2>
                                 <a href="/docs/api/id/88" title="游戏充值 接口">游戏充值</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">各大游戏、Q币、QQ会员、腾讯服务等在线直充API</p>
                             <div class="juhe_desc_p2 clearfix">

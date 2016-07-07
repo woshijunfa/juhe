@@ -88,9 +88,7 @@
                 </div>
                 <div class="api_data_info">
                     <h2><strong>移动联通基站</strong>
-                                                <span class="h1_span color_juhe">聚合数据</span>
                         
-                                                <span class="h1_span color_https">支持HTTPS</span>                        
                                             </h2>
                     <p class="doc_api_decsP">通过移动联通基站的小区号和基站号进行基站位置查询。</p>
 					<!--五周年活动 start-->

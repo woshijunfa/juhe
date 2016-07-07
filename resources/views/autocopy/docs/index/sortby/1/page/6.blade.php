@@ -194,7 +194,6 @@
                             <h2>
                                 <a href="/docs/api/id/68" title="域名备案查询 接口">域名备案查询</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">ICP备案查询</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -322,7 +321,6 @@
                             <h2>
                                 <a href="/docs/api/id/188" title="银行卡二元素检测 接口">银行卡二元素检测</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">检测输入的姓名、银行卡号是否一致。</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -346,7 +344,6 @@
                             <h2>
                                 <a href="/docs/api/id/166" title="QQ号码测吉凶 接口">QQ号码测吉凶</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                    <label class="color_mianfei">免费</label>                                </span>
                             </h2>
                             <p class="juhe_desc_p1">QQ号码测吉凶,QQ号码吉凶查询,QQ号码吉凶预测,QQ号码吉凶</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -397,7 +394,6 @@
                             <h2>
                                 <a href="/docs/api/id/209" title="实时路况查询 接口">实时路况查询</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">基于用户输入的道路名称或者用户当前位置提供该道路的实时路况查询</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -474,7 +470,6 @@
                             <h2>
                                 <a href="/docs/api/id/91" title="违章高发地 接口">违章高发地</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">根据百度地图坐标，检索周边违章高发地信息</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -499,7 +494,6 @@
                             <h2>
                                 <a href="/docs/api/id/119" title="邮箱地址验证 接口">邮箱地址验证</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">通过连接到邮件服务器并检查邮箱存在与否。</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -524,7 +518,6 @@
                             <h2>
                                 <a href="/docs/api/id/115" title="固话/宽带直充 接口">固话/宽带直充</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">此接口依据用户提供的请求为指定固话/宽带直接充值</p>
                             <div class="juhe_desc_p2 clearfix">
@@ -574,7 +567,6 @@
                             <h2>
                                 <a href="/docs/api/id/182" title="尾号限行 接口">尾号限行</a>
                                 <span>
-                                    <label class="color_juhe">聚合数据</label>                                                                    </span>
                             </h2>
                             <p class="juhe_desc_p1">目前支持北京、天津、兰州、杭州、长春、南昌、成都、贵阳</p>
                             <div class="juhe_desc_p2 clearfix">
