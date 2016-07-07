@@ -24,26 +24,26 @@ class UserController extends Controller
     {
         $email = Input::get("email");
         $userName = Input::get('username');
-        if (empty($email)) return $this->json(1,[],"邮箱不能为空");
-        if (empty($userName)) return $this->json(1,[],"用户名不能为空");
-        if (!gIsEmail($email)) return $this->json(1,[],"邮箱格式不正确");
+        if (empty($email)) return response(json_encode(['code'=>-2,'info'=>'邮箱不能为空']));
+        if (empty($userName)) return response(json_encode(['code'=>-1,'info'=>'用户名不能为空']));
+        if (!gIsEmail($email)) return response(json_encode(['code'=>-2,'info'=>'邮箱不能为空']));
 
         $password = Input::get("password");
-        if (empty($password)) return $this->json(1,[],"密码不能为空");
+        if (empty($password)) return response(json_encode(['code'=>-2,'info'=>'密码不能为空']));
 
         //用户信息，是否已经注册
         $userInfo = User::where("email",$email)->first();
-        if (!empty($userInfo)) return $this->json(1,[],"该邮箱已经注册，请直接登录");
+        if (!empty($userInfo)) return response(json_encode(['code'=>-2,'info'=>'该邮箱已经注册，请直接登录']));
 
         //用户名
         $userInfo = User::where("username",$userName)->first();
-        if (!empty($userInfo)) return $this->json(1,[],"该用户名已经被使用，请更换一个");
+        if (!empty($userInfo)) return response(json_encode(['code'=>-1,'info'=>'该用户名已经被使用，请更换一个']));
 
         //进行注册
         $uuid = User::reg($email,$userName,$password);
-        if (!$uuid) return $this->json(3,[],"注册失败，请稍后再试");
+        if (!$uuid) return  response(json_encode(['code'=>-100,'info'=>'注册失败，请稍后再试']));
 
-        return $this->json(0,[],"");
+        return response(json_encode(['code'=>1,'acturl'=>'/']));
     }
 
     //发送激活邮件
@@ -85,22 +85,22 @@ class UserController extends Controller
     public function loginPost()
     {
         //参数校验
-        $email = Input::get("email");
+        $email = Input::get("username");
         $password = Input::get("password");
-        if (empty($email) || empty($password)) return $this->json(1,[],"请输入正确的邮箱和密码");
+        if (empty($email) || empty($password)) return response(json_encode(['code'=>1,'message'=>'请输入正确的邮箱和密码']));
 
         //用户信息校验
         $userInfo = User::where("email",$email)->orWhere("username",$email)->where("status",0)->first();
-        if (empty($userInfo))  return $this->json(1,[],"邮箱或用户名或密码错误");
+        if (empty($userInfo)) return response(json_encode(['code'=>1,'message'=>'邮箱或用户名或密码错误']));
 
         //密码校验
-        if (!Hash::check($password,$userInfo->password))  return $this->json(1,[],"邮箱或密码错误");
+        if (!Hash::check($password,$userInfo->password))  return response(json_encode(['code'=>1,'message'=>'邮箱或用户名或密码错误']));
 
         //进行登录
         Auth::loginUsingId($userInfo->id);
 
         //返回值
-        return $this->json(0);
+        return response(json_encode(['code'=>0]));
     }
 
     //发送找回密码邮件

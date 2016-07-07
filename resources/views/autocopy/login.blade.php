@@ -31,18 +31,19 @@
         <form action="/login/login" class="formLogin" method="post" id="login_form"  onSubmit="return false;">
         <div class="loginList loginListUser">
         <label></label>
-        <input type="text" class="loginText" name="username" id="username"value=""  placeholder="用户名/手机号/邮箱" />
+        <input type="text" class="loginText" name="username" id="username"value=""  placeholder="请输入邮或用户名" />
         <span class="errorTips"><i></i><em></em></span>
         </div>
         <div class="loginList loginListPwd">
         <label></label>
         <input type="password" class="loginText" name="password" id="password" value="" placeholder="密码" />
         <span class="errorTips"><i></i><em></em></span>
+        {{csrf_field()}}
         </div>
         <div class="loginList loginListCode" style="display:none">
         <label></label>
         <input type="text" class="loginText" name="captcha" id="captcha" value="" placeholder="计算结果" />
-        <img src="/vercode?1467877669" id="vercodeImg" alt="" />
+        <!-- <img src="/vercode?1467877669" id="vercodeImg" alt="" /> -->
                             <a href="javascript:;" class="getImg"  id="captchaimg" >&nbsp;</a>
         <span class="errorTips"><i></i><em></em></span>
         </div>
@@ -97,24 +98,24 @@
                     $("#login_form").ajaxSubmit(function(e){
                         var obj  = json_parse(e);
                         var code = obj.code;
-                        //当用户登录错误且次数超过3次,显示验证码
-                        if(code != '1' && $(".loginListCode").css('display')=='none' && obj.errcount>2)
-                        {
-                            $(".loginListCode").css('display','block');
-                        }
+                        // //当用户登录错误且次数超过3次,显示验证码
+                        // if(code != '1' && $(".loginListCode").css('display')=='none' && obj.errcount>2)
+                        // {
+                        //     $(".loginListCode").css('display','block');
+                        // }
 
-                        if(code == '1')
+                        if(code == '0')
                         {
                             if(refer){
                                 window.location.href = refer;
                             }else{
-                                window.location.href = '/account';
+                                window.location.href = '/';
                             }
                         }
                         else
                         {
-                            if(code == '-1'){//登录数据库验证,登录失败显示
-                                $('.sysError').show().find('em').html(obj.info);
+                            if(code == '1'){//登录数据库验证,登录失败显示
+                                $('.sysError').show().find('em').html(obj.message);
                             }else if(code == '-4'){//未激活状态显示
                                 if(!isEmail(obj.email))
                                 {
@@ -122,12 +123,12 @@
                                 }
                                 else
                                 {
-                                    var info = obj.info+'或&nbsp;<a id="resendEmail" href="javascript:;" username="'+obj.username+'" email="'+obj.email+'">重新发送邮件</a>';
+                                    var info = obj.desc+'或&nbsp;<a id="resendEmail" href="javascript:;" username="'+obj.username+'" email="'+obj.email+'">重新发送邮件</a>';
                                 }
                                 $('.sysError').show().find('em').html(info);
                             }else if(code == '-6'){//验证码错误显示
                                 $(".loginListCode").css('display','block');
-                                showError(obj.info,$("#captcha"));
+                                showError(obj.desc,$("#captcha"));
                             }else if(code == '-3'){//验证码错误显示
                                 showError(obj.info,$("#username"));
                             }else{
@@ -135,7 +136,7 @@
                                 if(errcount>2){
                                     $(".loginListCode").css('display','block');
                                 }
-                                $('.sysError').show().find('em').html(obj.info);
+                                $('.sysError').show().find('em').html(obj.desc);
                             }
 
                             if($(".loginListCode").css('display')=='block')

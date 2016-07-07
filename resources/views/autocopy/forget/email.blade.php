@@ -12,9 +12,9 @@
             <div class="regLogo"></div>
             <div class="regDiv">
                 <form action="/forget/sendEmail" id="sendEmail" method="post" class="regForm borderRadius" onSubmit="return false;">
-                    <div class="title">
-                        <h3>通过邮箱找回</h3>
-                        <p class="have"><a href="/forget">通过手机号码找回<i></i></a></p>
+                    <div style="text-align:center;" class="title">
+                        <h3>找回密码</h3>
+                        <!-- <p class="have"><a href="/forget">通过手机号码找回<i></i></a></p> -->
                     </div>
                     <div class="inputDiv">
                         <input type="email" class="regInput" id= "emailId" name="email" placeholder="请输入注册时使用的邮箱" tabindex="1" />

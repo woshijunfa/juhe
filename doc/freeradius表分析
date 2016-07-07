@@ -1,6 +1,8 @@
 #删除动态按钮
 grep -rl "/news/listview" ./|xargs sed -i "" "/news\/listview/d"
-grep -rl '趣钱包' ./ |xargs sed -i -e 's/趣钱包/趣店/g'
+grep -rl 'juhe.cn' ./ |xargs sed -i -e 's/juhe.cn/shareapi.com/g'
+
+
 
 //删除条
 grep -rl "B2-20140496" ./|xargs sed -i "" "/B2-20140496/d"

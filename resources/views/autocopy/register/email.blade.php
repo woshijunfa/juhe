@@ -13,16 +13,20 @@
             <div class="regLogo"><a href="/account"><img src="/themes/v5/public/images/reglogo.png"></a></div>
             <div class="regDiv">
                 <div class="tabReg clearfix">
-                    <a href="/register">手机号注册</a>
-                    <a class="active" href="javascript:;">邮箱注册</a>
+                    <!-- <a href="/register">手机号注册</a> -->
+                    <!-- <a class="active" href="javascript:;">邮箱注册</a> -->
                 </div>
                 <form action="/register/registProcess" id="registerForm" method="post" class="regForm" autocomplete="off" onSubmit="return false;">
+                    <div class="inputDiv" style="text-align:center;font-size:140%;">
+                        <span class="active" >用户注册</span>
+                    </div>
                     <div class="inputDiv">
                         <input type="text" class="regInput" name="username" id="username" placeholder="用户名（6-24位字母数字）" autocomplete="off" />
                         <p class="errorTips"><i></i><em></em></p>
                     </div>
                     <div class="inputDiv">
                         <input type="email" class="regInput" name="email" id="email" autocomplete="off" placeholder="你的常用邮箱" />
+                        {{csrf_field()}}
                         <p class="errorTips"><i></i><em></em></p>
                     </div>
                     <div class="inputDiv">

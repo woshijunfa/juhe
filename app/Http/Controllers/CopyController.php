@@ -63,12 +63,16 @@ class CopyController extends Controller
         $content = View::make($bladename)->render();
 
         //如果用户登录显示相关信息
-        // $user = Auth::user();
-        // if (!empty($user)) 
-        // {
-        //     $msg = '<div class="pull-right content"><span>欢迎您' . $user->email . '</span><span><a href="/admin">我的云梯</a></span><span>/</span><span><a href="/logout">注销</a></span></div>';
-        //     $content = preg_replace("/<div\s+class=\"pull-right\scontent\">(.*?)<\/div>/is", $msg, $content);
-        // }
+        $user = Auth::user();
+        if (!empty($user)) 
+        {
+            $msg = '<div class="userCenter_v4">
+            <a style=" padding-top: 3px; letter-spacing: 0; text-align: right;" href="#" rel="nofollow">
+            <span style="color: #03C5FF;">'.$user->username.'</span>
+                    </a><a style="color: #ff9445;" href="/logout" id="loginout" rel="nofollow">退出</a><p class="line_v4"></p></div>';
+            // $msg = '<div class="pull-right content"><span>欢迎您' . $user->email . '</span><span><a href="/admin">我的云梯</a></span><span>/</span><span><a href="/logout">注销</a></span></div>';
+            $content = preg_replace("/<div\s+class=\"userCenter_v4\">(.*?)<\/div>/is", $msg, $content);
+        }
 
         return response($content);
     }

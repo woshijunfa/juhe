@@ -18,11 +18,18 @@ Route::get('', 'CopyController@index');
 //登录注册相关
 // Route::get('/users/sign_in', 'CopyController@common');
 // Route::get('/users/sign_up', 'CopyController@common');
-// Route::post('/register',"UserController@regiestPost");
-// Route::post('/login',"UserController@loginPost");
+
+Route::get('/register',function(){return view('autocopy.register.email');});
+Route::get('/register/email',function(){return view('autocopy.register.email');});
+
+Route::get('/forget',function(){return view('autocopy.forget.email');});
+Route::get('/forget/email',function(){return view('autocopy.forget.email');});
+
+Route::post('/register/registProcess',"UserController@regiestPost");
+Route::post('/login/login',"UserController@loginPost");
 // Route::post('/setLoginPass',"UserController@setLoginPass");
 // Route::post('/resetPassEmail',"UserController@resetPassEmail");
-// Route::get('/logout',"UserController@logout");
+Route::get('/logout',"UserController@logout");
 
 
 Route::get('/test','TestController@test');
@@ -50,10 +57,10 @@ Route::get('/docs/index/cid/t1', 'CopyController@autoNavi');
 Route::get('/docs/usersfavs', 'CopyController@autoNavi');
 Route::get('/docs/api/id/92', 'CopyController@autoNavi');
 Route::get('/login', 'CopyController@autoNavi');
-Route::get('/forget', 'CopyController@autoNavi');
-Route::get('/forget/email', 'CopyController@autoNavi');
-Route::get('/register', 'CopyController@autoNavi');
-Route::get('/register/email', 'CopyController@autoNavi');
+// Route::get('/forget', 'CopyController@autoNavi');
+// Route::get('/forget/email', 'CopyController@autoNavi');
+// Route::get('/register', 'CopyController@autoNavi');
+// Route::get('/register/email', 'CopyController@autoNavi');
 Route::get('/docs', 'CopyController@autoNavi');
 Route::get('/docs/index/sortby/1/page/2', 'CopyController@autoNavi');
 Route::get('/docs/index/sortby/1/page/3', 'CopyController@autoNavi');
@@ -121,3 +128,9 @@ Route::get('/docs/index/sortby/2/page/7', 'CopyController@autoNavi');
 Route::get('/docs/index/sortby/2/page/8', 'CopyController@autoNavi');
 Route::get('/docs/index/sortby/2/page/1', 'CopyController@autoNavi');
 Route::get('/docs/api/id/28', 'CopyController@autoNavi');
+Route::get('/docs/index/sortby/1/page/1', 'CopyController@autoNavi');
+Route::get('/docs/s/q/%E8%AF%9D%E8%B4%B9', 'CopyController@autoNavi');
+Route::get('/docs/s/q/%E5%9F%BA%E7%AB%99', 'CopyController@autoNavi');
+Route::get('/legal', 'CopyController@autoNavi');
+Route::get('/login/logout', 'CopyController@autoNavi');
+Route::get('/docs/api/id/221', 'CopyController@autoNavi');

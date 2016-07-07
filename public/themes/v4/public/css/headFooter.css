@@ -1,9 +1,9 @@
 @charset "utf-8";
-header{background: #fff; border-bottom: 1px solid #eee;padding-top: 40px;font-family:Tahoma,Arial,Helvetica,"microsoft yahei","Hiragino Sans GB",Simsun,\5b8b\4f53,sans-serif;}
+header{background: #fff; border-bottom: 1px solid #eee;padding-top: 10px;font-family:Tahoma,Arial,Helvetica,"microsoft yahei","Hiragino Sans GB",Simsun,\5b8b\4f53,sans-serif;}
 .width100_v4{width: 100%; min-width: 1200px;}
 .width1200_v4{width: 1200px; margin: 0 auto;}
-#headerTop_v4{height: 80px; position: relative; }
-#headerTop_v4 .search_v4{position: absolute; left: 492px; top: 0; width: 450px;}
+#headerTop_v4{height: 50px; position: relative; }
+#headerTop_v4 .search_v4{display: none; position: absolute; left: 492px; top: 0; width: 450px;}
 
 #searchText_v4{height: 22px; line-height: 22px; width: 340px; padding: 8px 10px 8px 36px; color: #555; border:2px solid #03c5ff; background: url(../images/serch.png) 10px center no-repeat;}
 #searchText_v4:focus{outline: none;}
