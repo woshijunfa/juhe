@@ -41,7 +41,6 @@ Route::group(['middleware'=>'auth'], function () {
 Route::get('/login/mini', 'CopyController@autoNavi');
 
 
-Route::get('/', 'CopyController@autoNavi');
 Route::get('/docs/api/id/39', 'CopyController@autoNavi');
 Route::get('/docs/api/id/8', 'CopyController@autoNavi');
 Route::get('/docs/api/id/46', 'CopyController@autoNavi');

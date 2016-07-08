@@ -26,13 +26,12 @@ class CopyController extends Controller
         if ($bladename[0] == '_') $bladename = substr($bladename,1);
         if (empty($bladename)) $bladename = 'index';
 
-
         if ($pos = strpos($bladename,'?')) 
         {
             $bladename = substr($bladename,0,$pos);
         }
 
-        $content = View::make('copy.' . $bladename)->render();
+        $content = View::make('autocopy.' . $bladename)->render();
 
         //如果用户登录显示相关信息
         $user = Auth::user();

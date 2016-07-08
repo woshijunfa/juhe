@@ -27,6 +27,8 @@ find  ./ -name "*.blade.php-e*"|xargs git rm
 
 #删除各种icon
 
+
+
 ########resource view下执行命令#######
 grep -rl "/news/listview" ./|xargs sudo sed -i "" "/news\/listview/d"
 grep -rl "B2-20140496" ./|xargs sudo sed -i "" "/B2-20140496/d"
@@ -44,12 +46,7 @@ grep -rl "api_newbtn_demo" ./|xargs sudo sed -i "" "/api_newbtn_demo/d"
 grep -rl "【更多次数、更多优惠，请与商务联系>>】" ./|xargs sudo sed  -i -e "s/【更多次数、更多优惠，请与商务联系>>】</</g"
 grep -r "联系我们" ./|grep contact|grep -v ervice@shareapi.cn|awk -F ':' '{print $1}'|xargs sudo sed -i "" "/联系我们/d"
 grep -rl "活动推荐<span>\/Activity" ./|xargs sudo sed -i "" "/活动推荐<span>\/Activity/d"
-
 grep -rl "hm.baidu.com" ./|xargs sudo sed -i "" "/hm.baidu.com/d"
-
-
-
-
 grep -rl "docs/index/sortby/2" ./|xargs sudo sed -i -e "s/docs\/index\/sortby\/2/docs\/index\/sortby\/1/g"
 grep -rl "docs/index/sortby/3" ./|xargs sudo sed -i -e "s/docs\/index\/sortby\/3/docs\/index\/sortby\/1/g"
 grep -rl "docs/index/sortby/4" ./|xargs sudo sed -i -e "s/docs\/index\/sortby\/4/docs\/index\/sortby\/1/g"

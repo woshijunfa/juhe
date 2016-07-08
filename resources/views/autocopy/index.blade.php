@@ -94,7 +94,7 @@ var _hmt = _hmt || [];
     <script src="/themes/v4/public/js/common.js"></script>
 
     <div class="content_v4 width100_v4">
-        <div class="navList_v4 width1200_v4 clearfix">
+        <div style="display:none;"  class="navList_v4 width1200_v4 clearfix">
             <span>全部数据分类</span>
             <p class="subNavP">
                 <a style="border:0 none;" href="/box" title="分享数据接口测试" target="_blank">聚盒子</a>
@@ -108,7 +108,7 @@ var _hmt = _hmt || [];
             </p>
         </div>
 
-        <div id="banner_v4" class="width100_v4">
+        <div style="display:none;"  id="banner_v4" class="width100_v4">
             <div class="fullSlide">
                 <ul style="background:url(/themes/v4/public/images/loading.gif) center no-repeat">
                                         <li style="background: url(https://juheimg.oss-cn-hangzhou.aliyuncs.com/www/v4/banner/june/san.jpg) center no-repeat #8971ff;" onclick="window.open('/docs/api/id/208');"></li>
@@ -598,7 +598,7 @@ var _hmt = _hmt || [];
             <script type="text/javascript">jQuery("#reco_div").slide({ mainCell:"ul",autoPlay:false,effect:"left", vis:6, scroll:1, autoPage:true, pnLoop:true });</script>
         </div>
 
-        <div class="width100_v4" id="otherData_v4">
+        <div style="display:none;" class="width100_v4" id="otherData_v4">
             <div class="width1200_v4">
                 <div class="spring_v4"><a href="/activity/double12/action/scene" target="_blank"><img class="png_bg" src="/themes/v4/public/images/spring.png" alt="分享数据春节" /></a></div>
                 <ul id="specialData_v4" class="clearfix">
@@ -682,11 +682,11 @@ var _hmt = _hmt || [];
                     </li>
                 </ul>
 
-                <div id="juhePoints_v4">
+                <div style="display:none;" id="juhePoints_v4">
                     <!--<a href="">我要定制</a>-->
                 </div>
 
-                <div class="qaList_v4 clearfix">
+                <div style="display:none;" class="qaList_v4 clearfix">
                     <div class="newestList_v4 qaListDiv_v4">
                         <ul>
                                                     <li><span>2016-06-30</span><a href="/news/index/id/201" title="苏州市发改委领导来我司调研考察">苏州市发改委领导来我司调研考察</a></li>
