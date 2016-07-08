@@ -120,9 +120,9 @@
                         <h1>所有数据<span>（145个）</span></h1>
                                                                               <ul class="clear api_sort">
                                <li ><a href="/docs/index/sortby/1">默认排序</a></li>
-                               <li class="active"><a href="/docs/index/sortby/2">最新上线</a></li>
-                               <li ><a href="/docs/index/sortby/3">连接应用数</a></li>
-                               <li ><a href="/docs/index/sortby/4">免费数据</a></li>
+                               <li class="active"><a href="/docs/index/sortby/1">最新上线</a></li>
+                               <li ><a href="/docs/index/sortby/1">连接应用数</a></li>
+                               <li ><a href="/docs/index/sortby/1">免费数据</a></li>
                            </ul>
                                                                            <div class="apiListIcon apiListIcon1">
                             <a id="listIcona1" href="javascript:;"></a>
@@ -622,7 +622,7 @@
                 <!-- api list end -->
                 <!-- paging start -->
                 <div id="juheapi_paging">
-                    <a href='/docs/index/sortby/2/page/4' title='上一页' class="juheapi_prev">上一页</a><a href='/docs/index/sortby/2/page/1'>1</a><a href='/docs/index/sortby/2/page/2'>2</a><a href='/docs/index/sortby/2/page/3'>3</a><a href='/docs/index/sortby/2/page/4'>4</a><a href='javascript:void(0)' class="pageSel">5</a><a href='/docs/index/sortby/2/page/6'>6</a><a href='/docs/index/sortby/2/page/7'>7</a><a href='/docs/index/sortby/2/page/8'>8</a><a href='/docs/index/sortby/2/page/6' title='下一页' class="juheapi_next" >下一页</a>                </div>
+                    <a href='/docs/index/sortby/1/page/4' title='上一页' class="juheapi_prev">上一页</a><a href='/docs/index/sortby/1/page/1'>1</a><a href='/docs/index/sortby/1/page/2'>2</a><a href='/docs/index/sortby/1/page/3'>3</a><a href='/docs/index/sortby/1/page/4'>4</a><a href='javascript:void(0)' class="pageSel">5</a><a href='/docs/index/sortby/1/page/6'>6</a><a href='/docs/index/sortby/1/page/7'>7</a><a href='/docs/index/sortby/1/page/8'>8</a><a href='/docs/index/sortby/1/page/6' title='下一页' class="juheapi_next" >下一页</a>                </div>
                 <!--paging end-->
             </div>
         </div>
@@ -683,7 +683,7 @@
 #juhegoTop span{display: none; width: 82px; height: 27px; padding-right:6px; line-height: 27px; background: url(/themes/v4/public/images/topTipsBg.png) no-repeat; font-size: 12px; color: #fff; font-family: "microsoft yahei"; text-align: center; position: absolute; top: 12px; right: 55px;}
 #tools_goTop{display: none;margin-top: 6px;}
 </style>
-<ul id="juhegoTop" style="display:none" style="display:none" style="display:none" style="display:none" style="display:none" style="display:none" style="display:none" style="display:none" style="display:none" style="display:none">
+<ul id="juhegoTop" style="display:none" style="display:none" style="display:none" style="display:none" style="display:none" style="display:none" style="display:none" style="display:none" style="display:none" style="display:none" style="display:none">
 	<li id="tools_qq">
 		<a rel="nofollow" href="http://crm2.qq.com/page/portalpage/wpa.php?uin=800076065&f=1&ty=1&aty=0&a=&from=6" target="_blank"></a>
 		<span>QQ客服</span>
@@ -728,11 +728,9 @@ $(function(){
 </script>
 <script type="text/javascript">
 	var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
-	document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F935d53e462220c223a1e7cbb7f16f1b9' type='text/javascript'%3E%3C/script%3E"));
 </script>
 <script type="text/javascript">
 var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
-document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F5d12e2b4eed3b554ae941c0ac43c330a' type='text/javascript'%3E%3C/script%3E"));
 </script>
 
 

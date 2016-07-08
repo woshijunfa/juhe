@@ -21,7 +21,6 @@
 var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
-  hm.src = "//hm.baidu.com/hm.js?5d12e2b4eed3b554ae941c0ac43c330a";
   var s = document.getElementsByTagName("script")[0];
   s.parentNode.insertBefore(hm, s);
 })();
@@ -29,7 +28,6 @@ var _hmt = _hmt || [];
 var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
-  hm.src = "//hm.baidu.com/hm.js?935d53e462220c223a1e7cbb7f16f1b9";
   var s = document.getElementsByTagName("script")[0];
   s.parentNode.insertBefore(hm, s);
 })();
@@ -432,7 +430,7 @@ var _hmt = _hmt || [];
                                 </ul>
             </div>
             <div class="juhedata_v4 NewData_v4">
-                <h2>最近上线 / <span>New Data</span><a href="/docs/index/sortby/2" rel="nofollow">更多>></a></h2>
+                <h2>最近上线 / <span>New Data</span><a href="/docs/index/sortby/1" rel="nofollow">更多>></a></h2>
                 <ul class="clearfix">
                                     <li>
                         <div class="dataDiv_v4"><a href="/docs/api/id/235" title="新闻头条"><img class="png_bg" src="/themes/images/data/new/a235.png" alt="新闻头条" /></a></div>

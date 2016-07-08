@@ -99,7 +99,7 @@
                             <p><b>接口状态：</b><font color="#88c773"><span style="color:#88c773; ">正常</span></font></p>
                         </div>
                         <div class="doc_arguments">
-                            <p><b>连接应用数：</b><font color="#777">356</font></p>
+                            <p><b>连接应用数：</b><font color="#777">358</font></p>
                             <p><b>接入服务商：</b><font color="#03c5ff">分享数据</font></p>
                         </div>
                         <div class="doc_arguments docPrice">
@@ -595,9 +595,9 @@
             <h3>推荐接口<span>/API</span></h3>
             <ul class="tuijianapi">
                                 <li>
-                    <a class="tuijianimg" href="/docs/api/id/29"><img src="/themes/images/data/new/a29.png" /></a>
-                    <p class="apiname"><a href="/docs/api/id/29">黄金数据</a></p>
-                    <p class="apides">黄金品种、最新价、开盘价、最高价等信息</p>
+                    <a class="tuijianimg" href="/docs/api/id/185"><img src="/themes/images/data/new/a185.png" /></a>
+                    <p class="apiname"><a href="/docs/api/id/185">新三板实时股票信息</a></p>
+                    <p class="apides">新三板实时股票信息</p>
                 </li>
                                 <li>
                     <a class="tuijianimg" href="/docs/api/id/25"><img src="/themes/images/data/new/a25.png" /></a>
@@ -605,14 +605,14 @@
                     <p class="apides">净值数据</p>
                 </li>
                                 <li>
-                    <a class="tuijianimg" href="/docs/api/id/23"><img src="/themes/images/data/new/a23.png" /></a>
-                    <p class="apiname"><a href="/docs/api/id/23">货币汇率</a></p>
-                    <p class="apides">支持人民币牌价、外汇汇率查询；数据仅供参考，交易时以银行柜台成交价为准</p>
+                    <a class="tuijianimg" href="/docs/api/id/237"><img src="/themes/images/data/new/a237.png" /></a>
+                    <p class="apiname"><a href="/docs/api/id/237">个人履历查询</a></p>
+                    <p class="apides">暂支持在上海工作的人群覆盖，以及部分江苏等其他地区的个人经历</p>
                 </li>
                                 <li>
-                    <a class="tuijianimg" href="/docs/api/id/21"><img src="/themes/images/data/new/a21.png" /></a>
-                    <p class="apiname"><a href="/docs/api/id/21">股票数据</a></p>
-                    <p class="apides">提供沪深、香港、美国股市信息</p>
+                    <a class="tuijianimg" href="/docs/api/id/197"><img src="/themes/images/data/new/a197.png" /></a>
+                    <p class="apiname"><a href="/docs/api/id/197">判断银行卡类型及真伪</a></p>
+                    <p class="apides">通过银行卡查询，可以判断卡类型。</p>
                 </li>
                             </ul>
             <ul class="apiActivity">
@@ -683,7 +683,7 @@
 #juhegoTop span{display: none; width: 82px; height: 27px; padding-right:6px; line-height: 27px; background: url(/themes/v4/public/images/topTipsBg.png) no-repeat; font-size: 12px; color: #fff; font-family: "microsoft yahei"; text-align: center; position: absolute; top: 12px; right: 55px;}
 #tools_goTop{display: none;margin-top: 6px;}
 </style>
-<ul id="juhegoTop" style="display:none" style="display:none" style="display:none" style="display:none">
+<ul id="juhegoTop" style="display:none">
 	<li id="tools_qq">
 		<a rel="nofollow" href="http://crm2.qq.com/page/portalpage/wpa.php?uin=800076065&f=1&ty=1&aty=0&a=&from=6" target="_blank"></a>
 		<span>QQ客服</span>
@@ -728,11 +728,9 @@ $(function(){
 </script>
 <script type="text/javascript">
 	var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
-	document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F935d53e462220c223a1e7cbb7f16f1b9' type='text/javascript'%3E%3C/script%3E"));
 </script>
 <script type="text/javascript">
 var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
-document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F5d12e2b4eed3b554ae941c0ac43c330a' type='text/javascript'%3E%3C/script%3E"));
 </script>
 
 
