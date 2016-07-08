@@ -65,7 +65,7 @@
                 <!--<a href="">活动</a>-->
                 <!--<a href="/price" title="资费价格" >价格</a>-->
                 <!--<a href="/contact" >商务合作</a>-->
-                <!-- <a href="http://open.juhe.cn">发布服务</a> -->
+                <!-- <a href="http://open.learnapi.cn">发布服务</a> -->
                 <!--<a href="">企业服务</a>
                 <a href="">分享国际造型</a>-->
             </nav>
@@ -110,7 +110,7 @@
                                     /5000次</span>
                                                                         <span style="color: #f0767f;">（申请即送20次）</span>
                                                                     </p>
-                                                                                        <!-- <p>使用SDK每日免费赠送 10000 次 <a class="youhuia" href="https://www.juhe.cn/price" target="_blank" rel="nofollow">详情&gt;&gt;</a></p> -->
+                                                                                        <!-- <p>使用SDK每日免费赠送 10000 次 <a class="youhuia" href="https://www.learnapi.cn/price" target="_blank" rel="nofollow">详情&gt;&gt;</a></p> -->
                         </div>
                     </div>
                     <div class="api_data_btns">
@@ -188,10 +188,10 @@
                         </li>
                                             </ul>
                     <div class="das_right">
-                        <div class="simpleline"><strong>接口地址：</strong><span class="url">http://v.juhe.cn/xiangji_weather/exponential_byAreaId.php</span></div>
+                        <div class="simpleline"><strong>接口地址：</strong><span class="url">http://v.learnapi.cn/xiangji_weather/exponential_byAreaId.php</span></div>
                         <div class="simpleline"><strong>支持格式：</strong><span class="url">json</span></div>
                         <div class="simpleline"><strong>请求方式：</strong><span class="url">get</span></div>
-                        <div class="simpleline"><strong>请求示例：</strong><span class="url">http://v.juhe.cn/xiangji_weather/exponential_byAreaId.php?areaid=101010100&amp;key=YOURKEY</span></div>
+                        <div class="simpleline"><strong>请求示例：</strong><span class="url">http://v.learnapi.cn/xiangji_weather/exponential_byAreaId.php?areaid=101010100&amp;key=YOURKEY</span></div>
 
                                                 <div class="simpleline"><strong>接口备注：</strong><font color="">根据输入地区编码查询城市实况指数数据</font></div>
                         
@@ -500,7 +500,7 @@
                         </table>
                         </div>
                                                 <div class="simpleline simpleTable">
-                            <b>常规套餐包<a href="http://www.juhe.cn/contact" target="_blank"><font color="#FF0000"></font></a></b>
+                            <b>常规套餐包<a href="http://www.learnapi.cn/contact" target="_blank"><font color="#FF0000"></font></a></b>
                             <table class="api_table" border="0" cellspacing="0" cellpadding="0">
                                 <tr>
                                     <th width="20">&nbsp;</th>
@@ -610,7 +610,7 @@
                             <tr>
                                 <td >&nbsp;</td>
                                 <td class="text">技术支持:</td>
-                                <td class="url">info@juhe.cn</td>
+                                <td class="url">info@learnapi.cn</td>
                             </tr>
                             <tr>
                                 <td >&nbsp;</td>
@@ -670,10 +670,10 @@
                             </ul>
             <ul class="apiActivity">
                 <!--<li>
-                    <a href="https://www.juhe.cn/docs/api/id/54" target="_blank"><img src="/themes/v4/public/images/apiactivity2.png"/></a>
+                    <a href="https://www.learnapi.cn/docs/api/id/54" target="_blank"><img src="/themes/v4/public/images/apiactivity2.png"/></a>
                 </li>-->
                                 <li>
-                    <a href="https://free.juhe.cn" target="_blank" title="免费数据第二波"><img src="https://juheimgs.oss-cn-beijing.aliyuncs.com/banner/201606/57639730a1606.png" border="0"/></a>
+                    <a href="https://free.learnapi.cn" target="_blank" title="免费数据第二波"><img src="https://juheimgs.oss-cn-beijing.aliyuncs.com/banner/201606/57639730a1606.png" border="0"/></a>
                 </li>
                             </ul>
         </div>
@@ -683,7 +683,7 @@
 <footer class="width100_v4">
         <div class="width1200_v4 footerContent_v4 clearfix">
             <div class="footer1_v4">
-                <div class="footerLogo"><a href="https://www.juhe.cn"><img width="238" height="33" src="/themes/v4/public/images/footerLogo.png" alt="分享数据"/></a></div>
+                <div class="footerLogo"><a href="https://www.learnapi.cn"><img width="238" height="33" src="/themes/v4/public/images/footerLogo.png" alt="分享数据"/></a></div>
                 <p>京 ICP 备 16034375 号ShareApi©版权所有</p>
                 <div class="footerContact">400-8827-715</div>
             </div>
@@ -707,11 +707,11 @@
             <dl class="footerDl_v4" style="border-right: 1px solid #e7e7e7;">
                 <dt>分享工具</dt>
                 <dd><a href="/box">聚盒子</a></dd>
-                <dd><a href="https://www.juhe.cn/d/cellmap">分享基站</a></dd>
+                <dd><a href="https://www.learnapi.cn/d/cellmap">分享基站</a></dd>
                 <dd><a href="http://www.wodiche.cn" target="_blank">车辆违章查询</a></dd>
-                <dd><a href="http://lbs.juhe.cn">LBS分享</a></dd>
-                <dd><a href="http://tools.juhe.cn">分享工具</a></dd>
-                <dd><a href="https://code.juhe.cn">分享代码</a></dd>
+                <dd><a href="http://lbs.learnapi.cn">LBS分享</a></dd>
+                <dd><a href="http://tools.learnapi.cn">分享工具</a></dd>
+                <dd><a href="https://code.learnapi.cn">分享代码</a></dd>
                 <dd><a href="/foreign">国外API检索</a></dd>
             </dl>
             <div class="juheCode_v4">
@@ -742,7 +742,7 @@
 		<span>QQ客服</span>
 	</li>
 	<li id="tools_contact">
-		<a rel="nofollow" href="https://www.juhe.cn/contact" target="_blank"></a>
+		<a rel="nofollow" href="https://www.learnapi.cn/contact" target="_blank"></a>
 	</li>
 	<li id="tools_feedback">
 		<span>问题反馈</span>
@@ -849,7 +849,7 @@ $(document).ready(function(){
     })
 
     var did = 226;
-    $.getJSON("https://code.juhe.cn/api/docsByDid?callback=?", {
+    $.getJSON("https://code.learnapi.cn/api/docsByDid?callback=?", {
         "did" : did
       }, function(data) {
           var code = data.code;
