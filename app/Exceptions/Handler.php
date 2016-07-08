@@ -46,6 +46,9 @@ class Handler extends ExceptionHandler
             $e = new NotFoundHttpException($e->getMessage(), $e);
         }
 
+        //正在建设中提示
+        echo view('errors.build')->render();die;
+
         return parent::render($request, $e);
     }
 }

@@ -43,6 +43,7 @@ class CommonService
 
     public static function autoLoadPage()
     {
+        return false;
     	if (strtoupper(request()->getMethod()) != 'GET') return false;
 
     	$uri = request()->getRequestUri();
