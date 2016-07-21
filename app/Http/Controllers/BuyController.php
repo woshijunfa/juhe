@@ -15,6 +15,7 @@ use Auth;
 use Session;
 use Redirect;
 use Hash;
+use Log;
 use Config;
 
 class BuyController extends Controller
@@ -26,13 +27,27 @@ class BuyController extends Controller
      */
     public function postresult()
     {
-        var_dump("postresult");
+        //获取参数
+        $params = Input::all();
+        Log::info("BuyController::postresult get params:" . json_encode($params));
+
+        //获取支付结果
+        $obj = new PayService();
+        $result = $obj->checkResult($params);
+        if (!$result) die("FAILURE");
+
+        //支付成功，标记结果，跳转
+        $result = PayService::notifyVpnOrderPaySuccess($obj->m_orderNo);
+        Log::info("BuyController::postresult result orderNo:" . $obj->m_orderNo . " result:" . $result);
+
+        echo $result ? "SUCCESS" : "FAILURE";
     }
 
     public function redirectreturn()
     {
         //获取参数
         $params = Input::all();
+        Log::info("BuyController::redirectreturn get params:" . json_encode($params));
 
         //获取支付结果
         $obj = new PayService();
@@ -41,6 +56,8 @@ class BuyController extends Controller
 
         //支付成功，标记结果，跳转
         $result = PayService::notifyVpnOrderPaySuccess($obj->m_orderNo);
+
+        Log::info("BuyController::redirectreturn result orderNo:" . $obj->m_orderNo . " result:" . $result);
 
         //跳转到vpn订单地址
         $path = Config::get("vpn.redirectUrl");

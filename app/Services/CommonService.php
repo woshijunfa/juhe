@@ -118,6 +118,17 @@ class CommonService
     {
         return date("YmdHis") . rand(100, 999);
     }
+
+    public static function getHost()
+    {
+        $request = request();    
+        if (empty($request)) return false;
+
+        //获取协议
+        $rootUrl = $request->root();
+
+        return $rootUrl;
+    }
 }
 
 

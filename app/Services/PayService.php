@@ -51,7 +51,7 @@ class PayService
             $orderReq['currency'] = 'RMB';
             $orderReq['appuserid'] = $userid;
             $orderReq['cpprivateinfo'] = 'xxxx';
-            $orderReq['notifyurl'] = 'http://www.juhe.com/ipay/postresult';
+            $orderReq['notifyurl'] = CommonService::getHost() . '/ipay/postresult';
 
             //组装请求报文  对数据签名
             $reqData = composeReq($orderReq, $this->m_appkey);
@@ -83,11 +83,14 @@ class PayService
         //下单接口
         $orderReq = [];
         $orderReq['transid'] = "$transid";
-        $orderReq['redirecturl'] = 'http://www.juhe.com/ipay/redirectreturn';
+        $orderReq['redirecturl'] = CommonService::getHost() . '/ipay/redirectreturn';
         $orderReq['cpurl'] = 'aaa';
+
+        Log::info("PayService::generatePageUrl params:" . json_encode($orderReq));
 
         //组装请求报文   对数据签名
         $reqData = composeReq($orderReq, $this->m_appkey);
+
 
         return Config::get("ipay.pcurl") . $reqData;
     }
@@ -97,6 +100,11 @@ class PayService
     {
         try 
         {
+            if (!isset($params['transdata']) || !isset($params['sign']) || !isset($params['signtype'])) 
+            {
+                return false;
+            }
+
             //解析返回结果
             $respData = 'transdata='.$params['transdata'].'&sign='.$params['sign'].'&signtype='.$params['signtype'];    
             $isok = parseResp($respData, $this->m_platpkey, $respJson); 

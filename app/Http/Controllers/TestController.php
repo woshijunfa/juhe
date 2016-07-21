@@ -6,6 +6,7 @@ use Illuminate\Http\Request;
 
 use App\Http\Requests;
 use App\Services\PayService;
+use App\Services\CommonService;
 use App\Http\Controllers\Controller;
 use Auth;
 
@@ -18,6 +19,7 @@ class TestController extends Controller
      */
     public function test()
     {
+        CommonService::getHost();
         // $obj = new PayService();
         // $url = $obj->getPayUrl(0.01,"测试订单");
         // if ($url == false) 
