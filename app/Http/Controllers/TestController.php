@@ -19,7 +19,8 @@ class TestController extends Controller
      */
     public function test()
     {
-        CommonService::getHost();
+        return $this->errorPage();
+//        CommonService::getHost();
         // $obj = new PayService();
         // $url = $obj->getPayUrl(0.01,"测试订单");
         // if ($url == false) 
