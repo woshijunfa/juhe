@@ -40,6 +40,14 @@ Route::group(['middleware'=>'auth'], function () {
 
 Route::get('/login/mini', 'CopyController@autoNavi');
 
+//支付相关接口
+Route::any('/ipay/postresult',"BuyController@postresult");
+Route::get('/ipay/redirectreturn',"BuyController@redirectreturn");
+Route::get('/ipay/payOrder',"BuyController@payOrderGet");
+
+
+
+
 
 Route::get('/docs/api/id/39', 'CopyController@autoNavi');
 Route::get('/docs/api/id/8', 'CopyController@autoNavi');

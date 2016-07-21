@@ -113,6 +113,11 @@ class CommonService
 		return true;
     }
 
+
+    public static function genOrderNo()
+    {
+        return date("YmdHis") . rand(100, 999);
+    }
 }
 
 

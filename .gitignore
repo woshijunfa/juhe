@@ -2,8 +2,8 @@
 Homestead.yaml
 .env
 .*
-1storage/*
+storage/*
 !.gitignore
 /*.buildpath
 /*.project
-
+doc/keys/*
