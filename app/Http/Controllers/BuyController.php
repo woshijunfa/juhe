@@ -44,7 +44,10 @@ class BuyController extends Controller
         $result = PayService::notifyVpnOrderPaySuccess($obj->m_orderNo);
         Log::info("BuyController::postresult 支付成功，通知vpn result orderNo:" . $obj->m_orderNo . " result:" . $result);
 
-        echo $result ? "SUCCESS" : "FAILURE";
+        $echostr =  $result ? "SUCCESS" : "FAILURE";
+    	
+	Log::info("postresult echo str is:" . $echostr);
+	echo $echostr;
     }
 
     public function redirectreturn()
