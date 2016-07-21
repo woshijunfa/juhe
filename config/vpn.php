@@ -1,6 +1,6 @@
 <?php
 
-$g_vpnbaseurl = 'http://www.myvpn.com';
+$g_vpnbaseurl = env('VPN_HOST');
 
 return [
     
