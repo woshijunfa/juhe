@@ -79,11 +79,19 @@ class BuyController extends Controller
     {
         //获取订单号
         $orderNo = Input::get("order_no");
-        if (empty($orderNo)) return $this->errorPage();
+        if (empty($orderNo))
+        {
+            Log::info("payOrderGet 订单号为空，url产生失败~");
+            return $this->errorPage();
+        } 
 
         //获取支付信息
         $orderInfo = Order::where("order_no",$orderNo)->first();
-        if (empty($orderInfo)) return $this->errorPage();
+        if (empty($orderInfo))
+        {
+            Log::info("payOrderGet 没有对应订单 orderNo:" . $orderNo);
+            return $this->errorPage();
+        } 
 
         //生成支付url
         $obj = new PayService();

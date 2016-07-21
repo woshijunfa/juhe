@@ -32,6 +32,8 @@ class PayService
     }
     public function getPayUrl($money,$title,$orderNo)
     {
+        Log::info("PayService::getPayUrl money:" . $money . " title:" . $title . " orderNo:" . $orderNo);
+
         $thirdTransId = $this->order($money,$title,$orderNo);
         if ($thirdTransId == false) return false;
 

@@ -6,6 +6,7 @@ use Illuminate\Console\Command;
 use Illuminate\Foundation\Bus\DispatchesJobs;
 use App\Services\UserService;
 use App\Services\CurlService;
+use App\Services\PayService;
 use View;
 
 class test extends Command
@@ -43,8 +44,9 @@ class test extends Command
      */
     public function handle()
     {
+        $result = (new PayService)->getPayUrl(240,"测试订单240",'T234');
 
-
+        var_dump($result);
     }
 }
 
