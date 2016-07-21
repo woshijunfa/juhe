@@ -35,6 +35,7 @@ class PayService
         Log::info("PayService::getPayUrl money:" . $money . " title:" . $title . " orderNo:" . $orderNo);
 
         $thirdTransId = $this->order($money,$title,$orderNo);
+	Log::info("return transerid:" . $thirdTransId);
         if ($thirdTransId == false) return false;
 
         return $this->generatePageUrl($thirdTransId);
@@ -49,7 +50,7 @@ class PayService
             $orderReq['waresid'] = 1;
             $orderReq['waresname'] = $title;
             $orderReq['cporderid'] = $orderNo; //确保该参数每次 都不一样。否则下单会出问题。
-            $orderReq['price'] = $price;   //单位：元
+            $orderReq['price'] = (int)$price;   //单位：元
             $orderReq['currency'] = 'RMB';
             $orderReq['appuserid'] = $userid;
             $orderReq['cpprivateinfo'] = 'xxxx';
@@ -65,7 +66,9 @@ class PayService
             Log::info("order a order url:" . $orderUrl . " reqData:" . json_encode($orderReq) . " result:" . json_encode($reqData));
 
             //验签数据并且解析返回报文
-            if(!parseResp($respData, $this->m_platpkey, $respJson)) 
+            $result = parseResp($respData, $this->m_platpkey, $respJson);
+	    Log::info("parseResp result:" . json_encode($result) . " respJson:" . var_export($respJson,true));
+            if(!$result) 
             {
                 return false;
             }
@@ -76,6 +79,7 @@ class PayService
         } 
         catch (Exception $e) 
         {
+	    Log::info($e);
             return false;
         }
     }
