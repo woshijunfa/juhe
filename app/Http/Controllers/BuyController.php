@@ -34,11 +34,15 @@ class BuyController extends Controller
         //获取支付结果
         $obj = new PayService();
         $result = $obj->checkResult($params);
-        if (!$result) die("FAILURE");
+        if (!$result)
+        {
+            Log::info("BuyController::postresult 没有通过校验 result orderNo:" . $obj->m_orderNo . " result:" . $result);
+            die("FAILURE");
+        } 
 
         //支付成功，标记结果，跳转
         $result = PayService::notifyVpnOrderPaySuccess($obj->m_orderNo);
-        Log::info("BuyController::postresult result orderNo:" . $obj->m_orderNo . " result:" . $result);
+        Log::info("BuyController::postresult 支付成功，通知vpn result orderNo:" . $obj->m_orderNo . " result:" . $result);
 
         echo $result ? "SUCCESS" : "FAILURE";
     }
