@@ -85,8 +85,6 @@ class BuyController extends Controller
         $orderInfo = Order::where("order_no",$orderNo)->first();
         if (empty($orderInfo)) return $this->errorPage();
 
-        $orderInfo->pay_money = 0.01;
-
         //生成支付url
         $obj = new PayService();
         $url = $obj->getPayUrl($orderInfo->pay_money,$orderInfo->order_name,$orderInfo->order_no);
