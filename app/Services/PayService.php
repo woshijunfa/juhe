@@ -69,15 +69,18 @@ class PayService
 
             //验签数据并且解析返回报文
             $result = parseResp($respData, $this->m_platpkey, $respJson);
-	    Log::info("parseResp result:" . json_encode($result) . " respJson:" . var_export($respJson,true));
-            if(!$result) 
+    	    Log::info("parseResp result:" . json_encode($result) . " respJson:" . var_export($respJson,true));
+    
+            //成功返回
+            if (isset($respJson->transid) && !empty($respJson->transid)) return $respJson->transid;
+ 
+            //如果已经存在订单号返回订单号
+            if (isset($respJson->code) && $respJson->code === 3001) 
             {
-                return false;
+                return $this->getTransidByOrderNo($orderNo);
             }
-            else
-            {
-                return $respJson->transid;
-            }            
+
+            return false;
         } 
         catch (Exception $e) 
         {
@@ -158,6 +161,29 @@ class PayService
         if (isset($respJson->result) && ($respJson->result === 0 || $respJson->result === '0')) return true;
 
         //支付失败
+        return false;
+    }
+
+    public function getTransidByOrderNo($orderNo)
+    {
+        if (empty($orderNo)) return false;
+
+        //组装查询数据
+        $contentdata = [];
+        $contentdata["appid"]=$this->m_appid;
+        $contentdata["cporderid"]=$orderNo;
+        $reqData = composeReq($contentdata, $this->m_appkey);
+        $queryResultUrl = Config::get("ipay.queryResultUrl");
+
+        //校验查询结果
+        $respData = request_by_curl($queryResultUrl, $reqData, 'query order');
+
+        //解析结果
+        $isok = parseResp($respData, $this->m_platpkey, $respJson); 
+        if (!$isok) return false;
+
+        if (isset($respJson->transid) && !empty($respJson->transid)) return $respJson->transid;
+
         return false;
     }
 

@@ -19,9 +19,10 @@ class TestController extends Controller
      */
     public function test()
     {
-        return $this->errorPage();
+        // return $this->errorPage();
 //        CommonService::getHost();
-        // $obj = new PayService();
+        $obj = new PayService();
+        $obj->getOrderStatus('201607241536462018');
         // $url = $obj->getPayUrl(0.01,"测试订单");
         // if ($url == false) 
         // {
