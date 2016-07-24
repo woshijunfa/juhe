@@ -20,6 +20,14 @@ use Config;
 
 class BuyController extends Controller
 {
+    public function repaypage($orderNo)
+    {
+        $path = Config::get("vpn.redirectUrl");
+
+        $fullPath = $path . "?order_no=" . $orderNo;
+        return Redirect($fullPath);
+    }
+
     /**
      * Display a listing of the resource.
      *
@@ -59,20 +67,14 @@ class BuyController extends Controller
         //获取支付结果
         $obj = new PayService();
         $result = $obj->checkResult($params);
-        if (!$result) return $this->errorPage();
+        if (!$result) return $this->repaypage('000');
 
         //支付成功，标记结果，跳转
         $result = PayService::notifyVpnOrderPaySuccess($obj->m_orderNo);
 
         Log::info("BuyController::redirectreturn result orderNo:" . $obj->m_orderNo . " result:" . $result);
 
-        //跳转到vpn订单地址
-        $path = Config::get("vpn.redirectUrl");
-        if (empty($path)) return $this->errorPage();
-
-        //跳转到vpn订单地址
-        $fullPath = $path . "?order_no=" . $obj->m_orderNo;
-        return Redirect($fullPath);
+        return $this->repaypage($obj->m_orderNo);
     }
 
     public function payOrderGet()
@@ -82,7 +84,7 @@ class BuyController extends Controller
         if (empty($orderNo))
         {
             Log::info("payOrderGet 订单号为空，url产生失败~");
-            return $this->errorPage();
+            return $this->repaypage('000');
         } 
 
         //获取支付信息
@@ -90,7 +92,7 @@ class BuyController extends Controller
         if (empty($orderInfo))
         {
             Log::info("payOrderGet 没有对应订单 orderNo:" . $orderNo);
-            return $this->errorPage();
+            return $this->repaypage($orderNo);
         } 
 
         //测试环境下价格0.01
@@ -104,7 +106,7 @@ class BuyController extends Controller
         $url = $obj->getPayUrl($orderInfo->pay_money,$orderInfo->order_name,$orderInfo->order_no);
         if ($url == false)
         {
-            return $this->errorPage();
+            return $this->repaypage($orderNo);
         } 
 
         return Redirect($url);
