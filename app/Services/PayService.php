@@ -43,6 +43,8 @@ class PayService
 
     private function order($price,$title,$orderNo,$userid='100')
     {
+        if (is_string($price)) $price = (int)$price;
+
         try 
         {
             //下单接口
@@ -50,7 +52,7 @@ class PayService
             $orderReq['waresid'] = 1;
             $orderReq['waresname'] = $title;
             $orderReq['cporderid'] = $orderNo; //确保该参数每次 都不一样。否则下单会出问题。
-            $orderReq['price'] = (int)$price;   //单位：元
+            $orderReq['price'] = $price;   //单位：元
             $orderReq['currency'] = 'RMB';
             $orderReq['appuserid'] = $userid;
             $orderReq['cpprivateinfo'] = 'xxxx';
