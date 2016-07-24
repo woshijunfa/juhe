@@ -93,6 +93,9 @@ class BuyController extends Controller
             return $this->errorPage();
         } 
 
+        //测试环境下价格0.01
+        if (Config::get('app.debug')) $orderInfo->pay_money = 0.01;
+
         //生成支付url
         $obj = new PayService();
         $url = $obj->getPayUrl($orderInfo->pay_money,$orderInfo->order_name,$orderInfo->order_no);
