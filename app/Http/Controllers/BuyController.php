@@ -96,6 +96,9 @@ class BuyController extends Controller
         //测试环境下价格0.01
         if (Config::get('app.debug')) $orderInfo->pay_money = 0.01;
 
+        //每次唯一
+        $orderNo = $orderInfo->order_no . rand(100, 999);
+
         //生成支付url
         $obj = new PayService();
         $url = $obj->getPayUrl($orderInfo->pay_money,$orderInfo->order_name,$orderInfo->order_no);

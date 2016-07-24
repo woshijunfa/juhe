@@ -35,7 +35,7 @@ class PayService
         Log::info("PayService::getPayUrl money:" . $money . " title:" . $title . " orderNo:" . $orderNo);
 
         $thirdTransId = $this->order($money,$title,$orderNo);
-	Log::info("return transerid:" . $thirdTransId);
+    	Log::info("return transerid:" . $thirdTransId);
         if ($thirdTransId == false) return false;
 
         return $this->generatePageUrl($thirdTransId);
@@ -199,6 +199,9 @@ class PayService
         //
         $notifyUrl = Config::get("vpn.notiryUrl");
         if (empty($notifyUrl)) return false;
+
+        //计算长度，取前18位
+        if (strlen($orderNo)>18) $orderNo = substr($orderNo,0,18);
 
         $params = [
             'order_no' => $orderNo,
