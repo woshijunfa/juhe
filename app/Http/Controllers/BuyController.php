@@ -103,7 +103,7 @@ class BuyController extends Controller
 
         //生成支付url
         $obj = new PayService();
-        $url = $obj->getPayUrl($orderInfo->pay_money,$orderInfo->order_name,$orderInfo->order_no);
+        $url = $obj->getPayUrl($orderInfo->pay_money,$orderInfo->order_name,$orderNo);
         if ($url == false)
         {
             return $this->repaypage($orderNo);
