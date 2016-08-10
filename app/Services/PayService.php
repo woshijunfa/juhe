@@ -9,6 +9,7 @@
 namespace App\Services;
 use App\Models\UserSmsLog;
 use App\Services\EmailSerivce;
+use Jenssegers\Agent\Agent;
 use Log;
 use Config;
 use Exception;
@@ -102,8 +103,11 @@ class PayService
         //组装请求报文   对数据签名
         $reqData = composeReq($orderReq, $this->m_appkey);
 
+        $agent = new Agent();
+        $isMobile = $agent->isMobile();
+        $baseUrl =$isMobile ?  Config::get("ipay.h5url") : Config::get("ipay.pcurl") ;
 
-        return Config::get("ipay.pcurl") . $reqData;
+        return $baseUrl . $reqData;
     }
 
 

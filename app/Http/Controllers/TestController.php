@@ -9,6 +9,7 @@ use App\Services\PayService;
 use App\Services\CommonService;
 use App\Http\Controllers\Controller;
 use Auth;
+    use Jenssegers\Agent\Agent;
 
 class TestController extends Controller
 {
@@ -19,9 +20,12 @@ class TestController extends Controller
      */
     public function test()
     {
+        $agent = new Agent();
+        var_dump($agent->isMobile());die;
         // return $this->errorPage();
 //        CommonService::getHost();
         $obj = new PayService();
+        
         $obj->getOrderStatus('201607241536462018');
         // $url = $obj->getPayUrl(0.01,"测试订单");
         // if ($url == false) 
@@ -33,4 +37,9 @@ class TestController extends Controller
         // echo $url;
     }
 
+    public function testpay()
+    {
+
+        return view("errors.testpay");
+    }
 }

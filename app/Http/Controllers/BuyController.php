@@ -79,37 +79,43 @@ class BuyController extends Controller
 
     public function payOrderGet()
     {
-        //获取订单号
-        $orderNo = Input::get("order_no");
-        if (empty($orderNo))
-        {
-            Log::info("payOrderGet 订单号为空，url产生失败~");
-            return $this->repaypage('000');
-        } 
+        try {
+            
+            //获取订单号
+            $orderNo = Input::get("order_no");
+            if (empty($orderNo))
+            {
+                Log::info("payOrderGet 订单号为空，url产生失败~");
+                return $this->repaypage('000');
+            } 
 
-        //获取支付信息
-        $orderInfo = Order::where("order_no",$orderNo)->first();
-        if (empty($orderInfo))
-        {
-            Log::info("payOrderGet 没有对应订单 orderNo:" . $orderNo);
-            return $this->repaypage($orderNo);
-        } 
+            //获取支付信息
+            $orderInfo = Order::where("order_no",$orderNo)->first();
+            if (empty($orderInfo))
+            {
+                Log::info("payOrderGet 没有对应订单 orderNo:" . $orderNo);
+                return $this->repaypage($orderNo);
+            } 
 
-        //测试环境下价格0.01
-        if (Config::get('app.debug')) $orderInfo->pay_money = 0.01;
+            //测试环境下价格0.01
+            if (Config::get('app.debug')) $orderInfo->pay_money = 0.01;
 
-        //每次唯一
-        $orderNo = $orderInfo->order_no . rand(100, 999);
+            //每次唯一
+            $orderNo = $orderInfo->order_no . rand(100, 999);
 
-        //生成支付url
-        $obj = new PayService();
-        $url = $obj->getPayUrl($orderInfo->pay_money,$orderInfo->order_name,$orderNo);
-        if ($url == false)
-        {
-            return $this->repaypage($orderNo);
-        } 
+            //生成支付url
+            $obj = new PayService();
+            $url = $obj->getPayUrl($orderInfo->pay_money,$orderInfo->order_name,$orderNo);
+            if ($url == false)
+            {
+                return $this->repaypage($orderNo);
+            } 
 
-        return Redirect($url);
+            return Redirect($url);
+        } catch (\Exception $e) {
+            return $this->repaypage(Input::get("order_no"));
+        }
+
     }
 
 }

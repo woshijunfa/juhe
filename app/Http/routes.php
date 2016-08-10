@@ -33,6 +33,7 @@ Route::get('/logout',"UserController@logout");
 
 
 Route::get('/test','TestController@test');
+Route::get('/testpay','TestController@testpay');
 //auto-generate-route
 Route::group(['middleware'=>'auth'], function () {
 
