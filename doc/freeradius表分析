@@ -51,3 +51,10 @@ grep -rl "docs/index/sortby/2" ./|xargs sudo sed -i -e "s/docs\/index\/sortby\/2
 grep -rl "docs/index/sortby/3" ./|xargs sudo sed -i -e "s/docs\/index\/sortby\/3/docs\/index\/sortby\/1/g"
 grep -rl "docs/index/sortby/4" ./|xargs sudo sed -i -e "s/docs\/index\/sortby\/4/docs\/index\/sortby\/1/g"
 
+
+
+
+
+
+
+grep -rl "utf8" ./zuwoba20170803.sql|xargs sudo sed -i -e "s/utf8/utf8mb4/g"

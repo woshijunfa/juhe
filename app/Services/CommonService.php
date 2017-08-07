@@ -15,7 +15,7 @@ use Exception;
 
 class CommonService
 {
-    static $g_baseurl = "https://www.juhe.cn";
+    static $g_baseurl = "http://www.superxing.cc";
     static $g_cookie = 'Hm_lvt_0d9630c30ceb9d86c445d5efedea60f8=1467876908; Hm_lpvt_0d9630c30ceb9d86c445d5efedea60f8=1467886090; XSRF-TOKEN=eyJpdiI6IjkxdUUzU2E3N1wvR2tHV1dzbE5MRVlRPT0iLCJ2YWx1ZSI6IjQ5RWl2MnljU3NZZUc1SVNYbFZFS3NaOFFySE9wUU5naCtcLzhDcllBT1YrZGkxaDlQM2diOG9TZWJVN3NQbUtJUWh3RFRIRUtcL2VOVWd6Rk9yQnFsWWc9PSIsIm1hYyI6IjIxMjg0NTc0ZTEwYjU5ZWYzMDBlNTczOGY1MDYzNTk1M2VjZGY1NDJlOWNiZjJiNmRkNWM2ZWUzODZiMGU0MjEifQ%3D%3D; laravel_session=eyJpdiI6IllVZGxrY2F2aWJvXC8xRWJsZ1I5WHB3PT0iLCJ2YWx1ZSI6IjlGTTBXNmhtUnV5VjYxaTJvYTlHb3VUYlNZQWhKWlBDVkR6T0lOVE9rVE9HaHFOZG5QWGViR1VNaHFPbm9NeDhlaXN1MXdISmJVZVcwMU9MSllLQnVBPT0iLCJtYWMiOiI0OTA3YjhhNmU4NjRjY2ZlOThiNmY4NTFhNTQ1ZTRkMjJlZDZlMjY4ZTJkZDE1NzhiMTNjYTc5NTg0MGRhNWExIn0%3D; Hm_lvt_5d12e2b4eed3b554ae941c0ac43c330a=1467876493; Hm_lpvt_5d12e2b4eed3b554ae941c0ac43c330a=1467902450; Hm_lvt_935d53e462220c223a1e7cbb7f16f1b9=1467876493; Hm_lpvt_935d53e462220c223a1e7cbb7f16f1b9=1467902450';
 
     static $g_header = [
@@ -43,7 +43,6 @@ class CommonService
 
     public static function autoLoadPage()
     {
-        return false;
     	if (strtoupper(request()->getMethod()) != 'GET') return false;
 
     	$uri = request()->getRequestUri();

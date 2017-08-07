@@ -12,8 +12,8 @@
 */
 
 #主页介绍相关
-Route::get('/', 'CopyController@index');
-Route::get('', 'CopyController@index');
+// Route::get('/', 'CopyController@index');
+// Route::get('', 'CopyController@index');
 
 //登录注册相关
 // Route::get('/users/sign_in', 'CopyController@common');
@@ -168,3 +168,4 @@ Route::get('/docs/api/id/27', 'CopyController@autoNavi');
 Route::get('/docs/api/id/237', 'CopyController@autoNavi');
 Route::get('/docs/api/id/26', 'CopyController@autoNavi');
 Route::get('/docs/api/id/26/aid/54', 'CopyController@autoNavi');
+Route::get('/', 'CopyController@autoNavi');
