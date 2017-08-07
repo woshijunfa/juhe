@@ -225,13 +225,7 @@
     <div id="divC"><img src="images/screenshot/logo4444.png" alt="美妙app"/></div>
     </div>
 </div> -->
-<div class="navbar-header1">
-                    <div class='nav_box' id="add">
-                    <a href="javascript:;" id="add">
-                    <img src="images/screenshot/bg1.png" alt="美妙app"/>
-                    </a>
-                    </div>
-</div>
+
 
 <!-- javascript Placed at the end of the document so the pages load faster -->
 <script src="js/jquery.min.js"></script>
