@@ -88,13 +88,7 @@
                     <div id="bannerSlider" class="carousel slide" data-ride="carousel">
                         <div class="carousel-inner" role="listbox">
                             <div class="item active">
-                                <img class="img-responsive" src="images/banner/1.jpg" alt="1">
-                            </div>
-                            <div class="item">
-                                <img class="img-responsive" src="images/banner/2.jpg" alt="2">
-                            </div>
-                            <div class="item">
-                                <img class="img-responsive" src="images/banner/3.jpg" alt="3">
+                                <img class="img-responsive" src="images/banner/6.png" alt="1">
                             </div>
                         </div><!-- Wrapper for slides -->
                     </div>
